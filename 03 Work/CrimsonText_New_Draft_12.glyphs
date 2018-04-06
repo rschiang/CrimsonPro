@@ -1,7 +1,7 @@
 {
 .appVersion = "1126";
 DisplayStrings = (
-"oilk/Placeholder n/Placeholder anl/Placeholder ls/Placeholder s\012nnn/Placeholder/Placeholder/Placeholder nnn/Placeholder oo\012ooo/Placeholder/Placeholder/Placeholder nnn"
+"oil/r.ss01/Placeholder n/Placeholder anl/Placeholder ls/Placeholder s\012nnn/Placeholder/Placeholder/Placeholder nnn/Placeholder oo\012ooo/Placeholder/Placeholder/Placeholder nnn"
 );
 copyright = "Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org),\012with Reserved Font Name \"Crimson Text\".\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is available with a FAQ at: http://scripts.sil.org/OFL";
 customParameters = (
@@ -88382,7 +88382,7 @@ unicode = 00EC;
 },
 {
 glyphname = ij;
-lastChange = "2018-03-27 10:05:19 +0000";
+lastChange = "2018-04-05 07:34:46 +0000";
 layers = (
 {
 color = -1;
@@ -88419,11 +88419,11 @@ name = j;
 },
 {
 name = i;
-transform = "{1, 0, 0, 1, 294, 0}";
+transform = "{1, 0, 0, 1, 297, 0}";
 }
 );
 layerId = "6D340022-02C4-426D-A0D8-A7BFACBEB22E";
-width = 591;
+width = 594;
 }
 );
 note = ij;
@@ -104745,7 +104745,7 @@ note = i.ordn;
 },
 {
 glyphname = j.ordn;
-lastChange = "2018-03-27 10:05:19 +0000";
+lastChange = "2018-04-05 07:34:46 +0000";
 layers = (
 {
 color = -1;
@@ -104819,14 +104819,14 @@ name = j;
 }
 );
 layerId = "6D340022-02C4-426D-A0D8-A7BFACBEB22E";
-width = 294;
+width = 297;
 }
 );
 note = j.ordn;
 },
 {
 glyphname = k.ordn;
-lastChange = "2018-03-27 10:05:19 +0000";
+lastChange = "2018-04-05 07:34:37 +0000";
 layers = (
 {
 color = -1;
@@ -104981,7 +104981,7 @@ name = k;
 }
 );
 layerId = "6D340022-02C4-426D-A0D8-A7BFACBEB22E";
-width = 646;
+width = 576;
 }
 );
 note = k.ordn;
@@ -113917,7 +113917,7 @@ note = i.ssup;
 },
 {
 glyphname = j.ssup;
-lastChange = "2018-03-27 10:05:19 +0000";
+lastChange = "2018-04-05 07:34:46 +0000";
 layers = (
 {
 color = -1;
@@ -113986,14 +113986,14 @@ name = j;
 }
 );
 layerId = "6D340022-02C4-426D-A0D8-A7BFACBEB22E";
-width = 294;
+width = 297;
 }
 );
 note = j.ssup;
 },
 {
 glyphname = k.ssup;
-lastChange = "2018-03-27 10:05:19 +0000";
+lastChange = "2018-04-05 07:34:37 +0000";
 layers = (
 {
 color = -1;
@@ -114146,7 +114146,7 @@ name = k;
 }
 );
 layerId = "6D340022-02C4-426D-A0D8-A7BFACBEB22E";
-width = 646;
+width = 576;
 }
 );
 note = k.ssup;
@@ -141349,7 +141349,7 @@ note = j.sinf;
 },
 {
 glyphname = k.sinf;
-lastChange = "2018-03-27 10:05:19 +0000";
+lastChange = "2018-04-05 07:34:37 +0000";
 layers = (
 {
 color = -1;
@@ -141378,7 +141378,7 @@ name = k;
 }
 );
 layerId = "6D340022-02C4-426D-A0D8-A7BFACBEB22E";
-width = 646;
+width = 576;
 }
 );
 note = k.sinf;
@@ -143281,7 +143281,7 @@ note = j.subs;
 },
 {
 glyphname = k.subs;
-lastChange = "2018-03-27 10:05:19 +0000";
+lastChange = "2018-04-05 07:34:37 +0000";
 layers = (
 {
 color = -1;
@@ -143309,7 +143309,7 @@ name = k;
 }
 );
 layerId = "6D340022-02C4-426D-A0D8-A7BFACBEB22E";
-width = 646;
+width = 576;
 }
 );
 note = k.subs;
