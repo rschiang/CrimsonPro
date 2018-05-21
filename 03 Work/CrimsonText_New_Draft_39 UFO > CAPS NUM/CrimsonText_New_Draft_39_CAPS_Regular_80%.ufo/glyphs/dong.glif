@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dong" format="1">
+  <advance width="446"/>
+  <unicode hex="20AB"/>
+  <outline>
+    <contour>
+      <point x="49" y="-87" type="line"/>
+      <point x="429" y="-87" type="line"/>
+      <point x="429" y="-48" type="line"/>
+      <point x="49" y="-48" type="line"/>
+    </contour>
+    <component base="dcroat"/>
+  </outline>
+</glyph>

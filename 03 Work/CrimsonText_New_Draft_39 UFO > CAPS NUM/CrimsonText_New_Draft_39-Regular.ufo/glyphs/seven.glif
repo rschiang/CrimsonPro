@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="504"/>
+  <unicode hex="0037"/>
+  <note>
+    seven
+  </note>
+  <outline>
+    <contour>
+      <point x="227" y="0" type="line"/>
+      <point x="481" y="625" type="line"/>
+      <point x="477" y="661" type="line"/>
+      <point x="449" y="661"/>
+      <point x="419" y="660"/>
+      <point x="392" y="660" type="curve" smooth="yes"/>
+      <point x="149" y="660" type="line" smooth="yes"/>
+      <point x="102" y="660"/>
+      <point x="71" y="661"/>
+      <point x="38" y="664" type="curve"/>
+      <point x="12" y="485" type="line"/>
+      <point x="55" y="480" type="line"/>
+      <point x="69" y="518"/>
+      <point x="80" y="547"/>
+      <point x="91" y="574" type="curve"/>
+      <point x="99" y="576"/>
+      <point x="114" y="577"/>
+      <point x="130" y="577" type="curve" smooth="yes"/>
+      <point x="421" y="577" type="line"/>
+      <point x="421" y="614" type="line"/>
+      <point x="142" y="32" type="line"/>
+      <point x="142" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-11 13:02:01 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

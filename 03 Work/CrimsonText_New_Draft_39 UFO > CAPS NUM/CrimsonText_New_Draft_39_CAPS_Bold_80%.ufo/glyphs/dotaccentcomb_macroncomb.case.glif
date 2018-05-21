@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb_macroncomb.case" format="1">
+  <advance width="480"/>
+  <outline>
+    <contour>
+      <point x="80" y="705" type="line"/>
+      <point x="400" y="705" type="line"/>
+      <point x="400" y="776" type="line"/>
+      <point x="80" y="776" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="560" type="curve" smooth="yes"/>
+      <point x="284" y="560"/>
+      <point x="307" y="594"/>
+      <point x="307" y="626" type="curve" smooth="yes"/>
+      <point x="307" y="660"/>
+      <point x="284" y="693"/>
+      <point x="241" y="693" type="curve" smooth="yes"/>
+      <point x="196" y="693"/>
+      <point x="173" y="660"/>
+      <point x="173" y="626" type="curve" smooth="yes"/>
+      <point x="173" y="594"/>
+      <point x="196" y="560"/>
+    </contour>
+    <contour>
+      <point x="240" y="528" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

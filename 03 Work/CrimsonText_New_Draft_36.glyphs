@@ -1,7 +1,8 @@
 {
-.appVersion = "1142";
+.appVersion = "1143";
 DisplayStrings = (
-"HOnz/jdotless/jdotless.alt R/pi/Placeholder p|/Placeholder |II/Placeholder II\012ooo/Placeholder ooolll/Placeholder lllq/Placeholder p/Placeholder 589\012nnn/Placeholder nnnOO/Placeholder OO"
+"HOnz/jdotless/jdotless.alt R/pi/Placeholder p|/Placeholder |II/Placeholder II\012ooo/Placeholder ooolll/Placeholder lllq/Placeholder p/Placeholder 589\012nnn/Placeholder nnnOO/Placeholder OO",
+DIO
 );
 classes = (
 {
@@ -120,7 +121,7 @@ z
 );
 date = "2018-05-17 13:44:57 +0000";
 disablesNiceNames = 1;
-familyName = "Crimson Text New";
+familyName = "Crimson Text New n";
 featurePrefixes = (
 {
 automatic = 1;

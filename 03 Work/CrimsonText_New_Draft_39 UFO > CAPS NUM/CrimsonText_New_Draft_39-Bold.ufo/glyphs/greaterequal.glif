@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="1">
+  <advance width="600"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="544" y="285" type="line"/>
+      <point x="544" y="380" type="line"/>
+      <point x="56" y="540" type="line"/>
+      <point x="56" y="447" type="line"/>
+      <point x="515" y="302" type="line"/>
+      <point x="515" y="364" type="line"/>
+      <point x="56" y="218" type="line"/>
+      <point x="56" y="125" type="line"/>
+    </contour>
+    <contour>
+      <point x="544" y="88" type="line"/>
+      <point x="56" y="88" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-19 18:43:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

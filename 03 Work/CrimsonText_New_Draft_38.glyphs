@@ -1,8 +1,5 @@
 {
 .appVersion = "1143";
-DisplayStrings = (
-"HOos*/dagger/Placeholder p|/Placeholder |IIII/Placeholder IIII\012ooo/Placeholder ooolll/Placeholder lllq/Placeholder p/Placeholder 589\012nnn/Placeholder nnnOO/Placeholder OO"
-);
 classes = (
 {
 automatic = 1;

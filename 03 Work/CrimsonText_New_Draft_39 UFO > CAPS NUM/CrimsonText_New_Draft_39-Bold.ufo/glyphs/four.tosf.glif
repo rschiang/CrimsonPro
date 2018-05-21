@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.tosf" format="1">
+  <advance width="600"/>
+  <note>
+    four.onum
+  </note>
+  <outline>
+    <contour>
+      <point x="461" y="-220" type="line"/>
+      <point x="460" y="263" type="line"/>
+      <point x="460" y="327"/>
+      <point x="462" y="390"/>
+      <point x="465" y="444" type="curve"/>
+      <point x="389" y="444" type="line"/>
+      <point x="39" y="47" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="558" y="87" type="line"/>
+      <point x="234" y="87" type="line" smooth="yes"/>
+      <point x="209" y="87"/>
+      <point x="183" y="89"/>
+      <point x="158" y="91" type="curve"/>
+      <point x="150" y="64" type="line"/>
+      <point x="346" y="310" type="line"/>
+      <point x="327" y="315" type="line"/>
+      <point x="327" y="-220" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-13 20:35:39 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

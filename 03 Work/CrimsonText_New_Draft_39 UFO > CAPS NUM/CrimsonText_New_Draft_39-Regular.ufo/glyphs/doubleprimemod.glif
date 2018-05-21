@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleprimemod" format="1">
+  <advance width="600"/>
+  <unicode hex="02BA"/>
+  <note>
+    uni030B
+  </note>
+  <outline>
+    <contour>
+      <point x="255" y="482" type="line"/>
+      <point x="359" y="662" type="line"/>
+      <point x="288" y="677" type="line"/>
+      <point x="221" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="482" type="line"/>
+      <point x="483" y="662" type="line"/>
+      <point x="412" y="677" type="line"/>
+      <point x="345" y="495" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="430" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="687" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-17 13:50:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

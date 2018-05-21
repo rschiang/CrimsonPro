@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="275"/>
+  <unicode hex="0069"/>
+  <note>
+    i
+  </note>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotaccentcomb.i" xOffset="-163"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-11 20:02:56 +0000</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

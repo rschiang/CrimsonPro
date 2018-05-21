@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb_dotaccentcomb.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="301" y="846" type="curve" smooth="yes"/>
+      <point x="344" y="846"/>
+      <point x="369" y="877"/>
+      <point x="369" y="911" type="curve" smooth="yes"/>
+      <point x="369" y="945"/>
+      <point x="344" y="976"/>
+      <point x="301" y="976" type="curve" smooth="yes"/>
+      <point x="256" y="976"/>
+      <point x="231" y="945"/>
+      <point x="231" y="911" type="curve" smooth="yes"/>
+      <point x="231" y="877"/>
+      <point x="256" y="846"/>
+    </contour>
+    <contour>
+      <point x="108" y="821" type="line"/>
+      <point x="245" y="719" type="line"/>
+      <point x="355" y="719" type="line"/>
+      <point x="492" y="821" type="line"/>
+      <point x="442" y="852" type="line"/>
+      <point x="267" y="769" type="line"/>
+      <point x="333" y="769" type="line"/>
+      <point x="158" y="852" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="660" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-21 12:57:53 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

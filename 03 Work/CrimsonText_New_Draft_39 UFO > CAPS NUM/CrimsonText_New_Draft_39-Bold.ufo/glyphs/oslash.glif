@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="542"/>
+  <unicode hex="00F8"/>
+  <note>
+    oslash
+  </note>
+  <outline>
+    <component base="o"/>
+    <component base="slashlongcomb" xOffset="-29"/>
+    <contour>
+      <point x="271" y="440" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-04 11:03:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

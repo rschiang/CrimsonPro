@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.case" format="1">
+  <advance width="600"/>
+  <note>
+    uni0307.cap
+  </note>
+  <outline>
+    <contour>
+      <point x="301" y="709" type="curve" smooth="yes"/>
+      <point x="350" y="709"/>
+      <point x="378" y="744"/>
+      <point x="378" y="783" type="curve" smooth="yes"/>
+      <point x="378" y="822"/>
+      <point x="350" y="857"/>
+      <point x="301" y="857" type="curve" smooth="yes"/>
+      <point x="251" y="857"/>
+      <point x="222" y="822"/>
+      <point x="222" y="783" type="curve" smooth="yes"/>
+      <point x="222" y="744"/>
+      <point x="251" y="709"/>
+    </contour>
+    <contour>
+      <point x="300" y="660" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="842" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-21 12:10:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

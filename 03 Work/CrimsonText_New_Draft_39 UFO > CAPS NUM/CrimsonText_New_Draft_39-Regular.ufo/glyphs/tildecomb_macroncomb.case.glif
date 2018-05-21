@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb_macroncomb.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="368" y="718" type="curve" smooth="yes"/>
+      <point x="413" y="718"/>
+      <point x="450" y="753"/>
+      <point x="470" y="809" type="curve"/>
+      <point x="437" y="827" type="line"/>
+      <point x="420" y="800"/>
+      <point x="404" y="784"/>
+      <point x="377" y="784" type="curve" smooth="yes"/>
+      <point x="334" y="784"/>
+      <point x="280" y="827"/>
+      <point x="230" y="827" type="curve" smooth="yes"/>
+      <point x="185" y="827"/>
+      <point x="148" y="792"/>
+      <point x="128" y="736" type="curve"/>
+      <point x="161" y="718" type="line"/>
+      <point x="178" y="745"/>
+      <point x="193" y="761"/>
+      <point x="222" y="761" type="curve" smooth="yes"/>
+      <point x="264" y="761"/>
+      <point x="318" y="718"/>
+    </contour>
+    <contour>
+      <point x="136" y="878" type="line"/>
+      <point x="464" y="878" type="line"/>
+      <point x="464" y="933" type="line"/>
+      <point x="136" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="660" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-21 12:53:03 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

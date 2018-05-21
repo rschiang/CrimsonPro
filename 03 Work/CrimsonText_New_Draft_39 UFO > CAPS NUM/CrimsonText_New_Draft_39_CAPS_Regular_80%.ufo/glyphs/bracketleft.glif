@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="1">
+  <advance width="267"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="236" y="-176" type="line"/>
+      <point x="236" y="-131" type="line"/>
+      <point x="158" y="-131" type="line"/>
+      <point x="158" y="533" type="line"/>
+      <point x="236" y="533" type="line"/>
+      <point x="236" y="578" type="line"/>
+      <point x="79" y="578" type="line"/>
+      <point x="79" y="-176" type="line"/>
+    </contour>
+  </outline>
+</glyph>

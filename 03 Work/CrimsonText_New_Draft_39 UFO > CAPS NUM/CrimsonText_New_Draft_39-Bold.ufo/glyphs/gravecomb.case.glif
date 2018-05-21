@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.case" format="1">
+  <advance width="600"/>
+  <note>
+    gravecomb.cap
+  </note>
+  <outline>
+    <contour>
+      <point x="268" y="703" type="line"/>
+      <point x="332" y="724" type="line"/>
+      <point x="236" y="857" type="line"/>
+      <point x="116" y="834" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="660" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="867" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-21 12:10:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>
