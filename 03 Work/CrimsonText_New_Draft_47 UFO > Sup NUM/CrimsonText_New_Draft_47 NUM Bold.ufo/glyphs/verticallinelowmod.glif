@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinelowmod" format="1">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="180" y="-66" type="line"/>
+      <point x="180" y="-145" type="line"/>
+      <point x="240" y="-145" type="line"/>
+      <point x="240" y="-66" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="210" y="-145" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="255"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="16" y="39" type="curve"/>
+      <point x="18" y="-4" type="line"/>
+      <point x="39" y="-2"/>
+      <point x="80" y="1"/>
+      <point x="128" y="1" type="curve"/>
+      <point x="176" y="1"/>
+      <point x="217" y="-2"/>
+      <point x="238" y="-4" type="curve"/>
+      <point x="240" y="39" type="line"/>
+      <point x="221" y="43"/>
+      <point x="203" y="45"/>
+      <point x="193" y="52" type="curve"/>
+      <point x="191" y="58"/>
+      <point x="188" y="115"/>
+      <point x="188" y="158" type="curve"/>
+      <point x="188" y="231" type="line" smooth="yes"/>
+      <point x="188" y="275"/>
+      <point x="191" y="331"/>
+      <point x="193" y="336" type="curve"/>
+      <point x="203" y="344"/>
+      <point x="221" y="346"/>
+      <point x="240" y="348" type="curve"/>
+      <point x="238" y="392" type="line"/>
+      <point x="217" y="390"/>
+      <point x="176" y="388"/>
+      <point x="128" y="388" type="curve"/>
+      <point x="80" y="388"/>
+      <point x="39" y="390"/>
+      <point x="18" y="392" type="curve"/>
+      <point x="16" y="348" type="line"/>
+      <point x="34" y="346"/>
+      <point x="52" y="344"/>
+      <point x="61" y="336" type="curve"/>
+      <point x="65" y="331"/>
+      <point x="67" y="275"/>
+      <point x="67" y="231" type="curve"/>
+      <point x="67" y="158" type="line" smooth="yes"/>
+      <point x="67" y="115"/>
+      <point x="65" y="58"/>
+      <point x="61" y="52" type="curve"/>
+      <point x="52" y="45"/>
+      <point x="34" y="43"/>
+    </contour>
+    <contour>
+      <point x="128" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="188" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="128" y="388" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="19" y="388" type="move" name="topleft"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb_dieresiscomb.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="184" y="846" type="curve"/>
+      <point x="227" y="846"/>
+      <point x="252" y="877"/>
+      <point x="252" y="911" type="curve"/>
+      <point x="252" y="945"/>
+      <point x="227" y="976"/>
+      <point x="184" y="976" type="curve"/>
+      <point x="139" y="976"/>
+      <point x="114" y="945"/>
+      <point x="114" y="911" type="curve"/>
+      <point x="114" y="877"/>
+      <point x="139" y="846"/>
+    </contour>
+    <contour>
+      <point x="418" y="846" type="curve"/>
+      <point x="461" y="846"/>
+      <point x="486" y="877"/>
+      <point x="486" y="911" type="curve"/>
+      <point x="486" y="945"/>
+      <point x="461" y="976"/>
+      <point x="418" y="976" type="curve"/>
+      <point x="373" y="976"/>
+      <point x="348" y="945"/>
+      <point x="348" y="911" type="curve"/>
+      <point x="348" y="877"/>
+      <point x="373" y="846"/>
+    </contour>
+    <contour>
+      <point x="369" y="717" type="curve"/>
+      <point x="424" y="717"/>
+      <point x="467" y="750"/>
+      <point x="489" y="808" type="curve"/>
+      <point x="449" y="832" type="line"/>
+      <point x="430" y="812"/>
+      <point x="412" y="800"/>
+      <point x="387" y="800" type="curve"/>
+      <point x="347" y="800"/>
+      <point x="281" y="833"/>
+      <point x="231" y="833" type="curve"/>
+      <point x="176" y="833"/>
+      <point x="133" y="800"/>
+      <point x="111" y="742" type="curve"/>
+      <point x="151" y="718" type="line"/>
+      <point x="169" y="738"/>
+      <point x="188" y="750"/>
+      <point x="213" y="750" type="curve"/>
+      <point x="253" y="750"/>
+      <point x="319" y="717"/>
+    </contour>
+    <contour>
+      <point x="300" y="660" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

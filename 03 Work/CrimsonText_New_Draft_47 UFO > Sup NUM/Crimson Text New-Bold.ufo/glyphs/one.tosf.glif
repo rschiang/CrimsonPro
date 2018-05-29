@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tosf" format="1">
+  <advance width="540"/>
+  <note>
+    one.onum
+  </note>
+  <outline>
+    <contour>
+      <point x="359" y="69" type="curve"/>
+      <point x="353" y="74"/>
+      <point x="349" y="110"/>
+      <point x="349" y="177" type="curve"/>
+      <point x="349" y="292" type="line" smooth="yes"/>
+      <point x="349" y="344"/>
+      <point x="350" y="407"/>
+      <point x="357" y="453" type="curve"/>
+      <point x="97" y="355" type="line"/>
+      <point x="101" y="294" type="line"/>
+      <point x="135" y="302"/>
+      <point x="190" y="312"/>
+      <point x="211" y="314" type="curve"/>
+      <point x="213" y="301"/>
+      <point x="215" y="270"/>
+      <point x="215" y="241" type="curve"/>
+      <point x="215" y="159" type="line" smooth="yes"/>
+      <point x="215" y="103"/>
+      <point x="211" y="73"/>
+      <point x="207" y="69" type="curve"/>
+      <point x="190" y="61"/>
+      <point x="145" y="54"/>
+      <point x="104" y="51" type="curve"/>
+      <point x="108" y="-5" type="line"/>
+      <point x="158" y="-1"/>
+      <point x="228" y="2"/>
+      <point x="282" y="2" type="curve"/>
+      <point x="336" y="2"/>
+      <point x="407" y="-1"/>
+      <point x="456" y="-5" type="curve"/>
+      <point x="460" y="51" type="line"/>
+      <point x="420" y="54"/>
+      <point x="375" y="61"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-25 21:28:34 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

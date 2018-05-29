@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="373"/>
+  <unicode hex="203A"/>
+  <note>
+    guilsinglright
+  </note>
+  <outline>
+    <contour>
+      <point x="92" y="416" type="line"/>
+      <point x="65" y="382" type="line"/>
+      <point x="233" y="183" type="line"/>
+      <point x="233" y="258" type="line"/>
+      <point x="65" y="59" type="line"/>
+      <point x="92" y="25" type="line"/>
+      <point x="293" y="200" type="line"/>
+      <point x="293" y="241" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|guilsinglleft</string>
+    </dict>
+  </lib>
+</glyph>

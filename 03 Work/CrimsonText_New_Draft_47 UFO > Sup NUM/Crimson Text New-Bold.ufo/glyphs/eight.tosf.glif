@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.tosf" format="1">
+  <advance width="540"/>
+  <note>
+    eight.onum
+  </note>
+  <outline>
+    <contour>
+      <point x="262" y="-10" type="curve"/>
+      <point x="410" y="-10"/>
+      <point x="512" y="69"/>
+      <point x="512" y="185" type="curve"/>
+      <point x="512" y="394"/>
+      <point x="185" y="357"/>
+      <point x="185" y="520" type="curve"/>
+      <point x="185" y="578"/>
+      <point x="220" y="611"/>
+      <point x="272" y="611" type="curve"/>
+      <point x="330" y="611"/>
+      <point x="365" y="566"/>
+      <point x="365" y="488" type="curve"/>
+      <point x="365" y="434"/>
+      <point x="353" y="395"/>
+      <point x="317" y="344" type="curve"/>
+      <point x="330" y="330" type="line"/>
+      <point x="424" y="357"/>
+      <point x="489" y="416"/>
+      <point x="489" y="497" type="curve"/>
+      <point x="489" y="598"/>
+      <point x="410" y="670"/>
+      <point x="282" y="670" type="curve"/>
+      <point x="147" y="670"/>
+      <point x="53" y="592"/>
+      <point x="53" y="486" type="curve"/>
+      <point x="53" y="256"/>
+      <point x="380" y="306"/>
+      <point x="380" y="144" type="curve"/>
+      <point x="380" y="88"/>
+      <point x="342" y="54"/>
+      <point x="280" y="54" type="curve"/>
+      <point x="210" y="54"/>
+      <point x="164" y="100"/>
+      <point x="164" y="172" type="curve"/>
+      <point x="164" y="223"/>
+      <point x="181" y="266"/>
+      <point x="226" y="312" type="curve"/>
+      <point x="211" y="336" type="line"/>
+      <point x="94" y="311"/>
+      <point x="28" y="252"/>
+      <point x="28" y="167" type="curve"/>
+      <point x="28" y="64"/>
+      <point x="123" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-25 21:28:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

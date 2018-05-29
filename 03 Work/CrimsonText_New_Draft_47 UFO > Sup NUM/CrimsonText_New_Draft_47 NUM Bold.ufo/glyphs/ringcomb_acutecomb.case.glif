@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb_acutecomb.case" format="1">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="211" y="464" type="curve"/>
+      <point x="261" y="464"/>
+      <point x="295" y="496"/>
+      <point x="295" y="540" type="curve"/>
+      <point x="295" y="583"/>
+      <point x="260" y="615"/>
+      <point x="211" y="615" type="curve"/>
+      <point x="161" y="615"/>
+      <point x="125" y="583"/>
+      <point x="125" y="540" type="curve"/>
+      <point x="125" y="497"/>
+      <point x="161" y="464"/>
+    </contour>
+    <contour>
+      <point x="211" y="501" type="curve"/>
+      <point x="187" y="501"/>
+      <point x="170" y="518"/>
+      <point x="170" y="540" type="curve"/>
+      <point x="170" y="563"/>
+      <point x="187" y="580"/>
+      <point x="211" y="580" type="curve"/>
+      <point x="235" y="580"/>
+      <point x="251" y="563"/>
+      <point x="251" y="540" type="curve"/>
+      <point x="251" y="518"/>
+      <point x="235" y="501"/>
+    </contour>
+    <contour>
+      <point x="223" y="587" type="line"/>
+      <point x="274" y="570" type="line"/>
+      <point x="363" y="636" type="line"/>
+      <point x="259" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="436" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

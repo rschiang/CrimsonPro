@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oogonek" format="1">
+  <advance width="689"/>
+  <unicode hex="01EA"/>
+  <outline>
+    <contour>
+      <point x="377" y="-223" type="curve"/>
+      <point x="420" y="-223"/>
+      <point x="456" y="-203"/>
+      <point x="482" y="-173" type="curve"/>
+      <point x="460" y="-146" type="line"/>
+      <point x="439" y="-167"/>
+      <point x="417" y="-181"/>
+      <point x="391" y="-181" type="curve"/>
+      <point x="356" y="-181"/>
+      <point x="333" y="-158"/>
+      <point x="333" y="-122" type="curve"/>
+      <point x="333" y="-74"/>
+      <point x="372" y="-21"/>
+      <point x="453" y="11" type="curve"/>
+      <point x="556" y="52"/>
+      <point x="637" y="158"/>
+      <point x="637" y="298" type="curve"/>
+      <point x="637" y="474"/>
+      <point x="520" y="596"/>
+      <point x="353" y="596" type="curve"/>
+      <point x="180" y="596"/>
+      <point x="52" y="466"/>
+      <point x="52" y="291" type="curve"/>
+      <point x="52" y="114"/>
+      <point x="175" y="-9"/>
+      <point x="350" y="-9" type="curve"/>
+      <point x="379" y="-9" type="line"/>
+      <point x="413" y="19" type="line"/>
+      <point x="319" y="-17"/>
+      <point x="263" y="-71"/>
+      <point x="263" y="-132" type="curve"/>
+      <point x="263" y="-183"/>
+      <point x="307" y="-223"/>
+    </contour>
+    <contour>
+      <point x="360" y="45" type="curve"/>
+      <point x="241" y="45"/>
+      <point x="156" y="155"/>
+      <point x="156" y="310" type="curve"/>
+      <point x="156" y="456"/>
+      <point x="226" y="546"/>
+      <point x="341" y="546" type="curve"/>
+      <point x="457" y="546"/>
+      <point x="536" y="435"/>
+      <point x="536" y="274" type="curve"/>
+      <point x="536" y="134"/>
+      <point x="467" y="45"/>
+    </contour>
+    <contour>
+      <point x="344" y="294" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="344" y="587" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="19" y="587" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="670" y="587" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 18:59:25 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

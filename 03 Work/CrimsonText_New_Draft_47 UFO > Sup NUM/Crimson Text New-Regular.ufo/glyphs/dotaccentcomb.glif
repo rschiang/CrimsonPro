@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="1">
+  <advance width="600"/>
+  <unicode hex="0307"/>
+  <note>
+    uni0307
+  </note>
+  <outline>
+    <contour>
+      <point x="301" y="526" type="curve"/>
+      <point x="331" y="526"/>
+      <point x="354" y="548"/>
+      <point x="354" y="578" type="curve"/>
+      <point x="354" y="607"/>
+      <point x="331" y="630"/>
+      <point x="301" y="630" type="curve"/>
+      <point x="270" y="630"/>
+      <point x="246" y="607"/>
+      <point x="246" y="578" type="curve"/>
+      <point x="246" y="548"/>
+      <point x="270" y="526"/>
+    </contour>
+    <contour>
+      <point x="300" y="430" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="668" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Llinebelow" format="1">
+  <advance width="520"/>
+  <unicode hex="1E3A"/>
+  <note>
+    uni1E3A
+  </note>
+  <outline>
+    <component base="L"/>
+    <component base="macronbelowcomb.case" xOffset="-18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

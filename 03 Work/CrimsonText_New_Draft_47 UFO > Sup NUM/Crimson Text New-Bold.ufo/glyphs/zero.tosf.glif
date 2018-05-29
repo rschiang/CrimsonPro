@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tosf" format="1">
+  <advance width="540"/>
+  <note>
+    zero.onum
+  </note>
+  <outline>
+    <contour>
+      <point x="271" y="-8" type="curve"/>
+      <point x="398" y="-8"/>
+      <point x="510" y="93"/>
+      <point x="510" y="220" type="curve"/>
+      <point x="510" y="357"/>
+      <point x="401" y="448"/>
+      <point x="270" y="448" type="curve"/>
+      <point x="144" y="448"/>
+      <point x="30" y="347"/>
+      <point x="30" y="220" type="curve"/>
+      <point x="30" y="83"/>
+      <point x="139" y="-8"/>
+    </contour>
+    <contour>
+      <point x="270" y="85" type="curve"/>
+      <point x="204" y="85"/>
+      <point x="147" y="141"/>
+      <point x="147" y="221" type="curve"/>
+      <point x="147" y="301"/>
+      <point x="204" y="357"/>
+      <point x="270" y="357" type="curve"/>
+      <point x="338" y="357"/>
+      <point x="395" y="301"/>
+      <point x="395" y="221" type="curve"/>
+      <point x="395" y="141"/>
+      <point x="338" y="85"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-25 20:05:24 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

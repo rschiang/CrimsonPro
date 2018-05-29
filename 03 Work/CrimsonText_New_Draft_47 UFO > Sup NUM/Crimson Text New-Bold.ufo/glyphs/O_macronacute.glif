@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacronacute" format="1">
+  <advance width="714"/>
+  <unicode hex="1E52"/>
+  <note>
+    uni1E52
+  </note>
+  <outline>
+    <component base="O"/>
+    <component base="macroncomb_acutecomb.case" xOffset="57" yOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-27 19:22:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

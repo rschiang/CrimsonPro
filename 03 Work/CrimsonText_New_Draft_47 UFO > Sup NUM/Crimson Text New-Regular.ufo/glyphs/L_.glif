@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="520"/>
+  <unicode hex="004C"/>
+  <note>
+    L
+  </note>
+  <outline>
+    <contour>
+      <point x="470" y="-5" type="curve"/>
+      <point x="511" y="148" type="line"/>
+      <point x="466" y="158" type="line"/>
+      <point x="448" y="120"/>
+      <point x="432" y="88"/>
+      <point x="414" y="60" type="curve"/>
+      <point x="389" y="56"/>
+      <point x="369" y="56"/>
+      <point x="342" y="56" type="curve"/>
+      <point x="268" y="56" type="line" smooth="yes"/>
+      <point x="239" y="56"/>
+      <point x="221" y="57"/>
+      <point x="205" y="59" type="curve"/>
+      <point x="204" y="69"/>
+      <point x="202" y="115"/>
+      <point x="202" y="199" type="curve"/>
+      <point x="202" y="387" type="line" smooth="yes"/>
+      <point x="202" y="496"/>
+      <point x="205" y="528"/>
+      <point x="209" y="534" type="curve"/>
+      <point x="216" y="539"/>
+      <point x="249" y="544"/>
+      <point x="292" y="547" type="curve"/>
+      <point x="290" y="589" type="line"/>
+      <point x="254" y="587"/>
+      <point x="209" y="586"/>
+      <point x="171" y="586" type="curve"/>
+      <point x="139" y="586"/>
+      <point x="81" y="587"/>
+      <point x="50" y="589" type="curve"/>
+      <point x="48" y="548" type="line"/>
+      <point x="72" y="546"/>
+      <point x="103" y="539"/>
+      <point x="110" y="534" type="curve"/>
+      <point x="113" y="528"/>
+      <point x="116" y="496"/>
+      <point x="116" y="387" type="curve"/>
+      <point x="116" y="199" type="line" smooth="yes"/>
+      <point x="116" y="91"/>
+      <point x="113" y="59"/>
+      <point x="110" y="52" type="curve"/>
+      <point x="103" y="48"/>
+      <point x="72" y="40"/>
+      <point x="48" y="38" type="curve"/>
+      <point x="50" y="-3" type="line"/>
+      <point x="81" y="-1"/>
+      <point x="129" y="0"/>
+      <point x="160" y="0" type="curve"/>
+      <point x="373" y="0" type="line" smooth="yes"/>
+      <point x="405" y="0"/>
+      <point x="439" y="-2"/>
+    </contour>
+    <contour>
+      <point x="282" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="195" y="303" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="349" y="320" type="move" name="dotacc"/>
+    </contour>
+    <contour>
+      <point x="159" y="587" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="368" y="587" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 14:00:42 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

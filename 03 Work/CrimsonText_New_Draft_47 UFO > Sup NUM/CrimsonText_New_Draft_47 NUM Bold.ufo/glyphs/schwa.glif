@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa" format="1">
+  <advance width="362"/>
+  <outline>
+    <contour>
+      <point x="179" y="301" type="curve"/>
+      <point x="104" y="301"/>
+      <point x="51" y="269"/>
+      <point x="23" y="210" type="curve"/>
+      <point x="47" y="187" type="line"/>
+      <point x="72" y="213"/>
+      <point x="98" y="223"/>
+      <point x="137" y="223" type="curve"/>
+      <point x="190" y="223"/>
+      <point x="225" y="185"/>
+      <point x="225" y="129" type="curve"/>
+      <point x="225" y="110" type="line" smooth="yes"/>
+      <point x="225" y="66"/>
+      <point x="208" y="39"/>
+      <point x="179" y="39" type="curve"/>
+      <point x="148" y="39"/>
+      <point x="132" y="60"/>
+      <point x="132" y="97" type="curve"/>
+      <point x="132" y="128" type="line"/>
+      <point x="118" y="105" type="line"/>
+      <point x="227" y="105" type="line"/>
+      <point x="227" y="144" type="line"/>
+      <point x="28" y="144" type="line"/>
+      <point x="28" y="125" type="line" smooth="yes"/>
+      <point x="28" y="47"/>
+      <point x="85" y="-6"/>
+      <point x="175" y="-5" type="curve"/>
+      <point x="264" y="-5"/>
+      <point x="340" y="61"/>
+      <point x="340" y="152" type="curve"/>
+      <point x="340" y="235"/>
+      <point x="270" y="301"/>
+    </contour>
+  </outline>
+</glyph>

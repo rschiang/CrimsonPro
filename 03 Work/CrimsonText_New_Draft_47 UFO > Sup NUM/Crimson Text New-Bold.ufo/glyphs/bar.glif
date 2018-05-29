@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <advance width="268"/>
+  <unicode hex="007C"/>
+  <note>
+    bar
+  </note>
+  <outline>
+    <contour>
+      <point x="90" y="722" type="line"/>
+      <point x="90" y="-220" type="line"/>
+      <point x="178" y="-220" type="line"/>
+      <point x="178" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rlinebelow" format="1">
+  <advance width="617"/>
+  <unicode hex="1E5E"/>
+  <note>
+    uni1E5E
+  </note>
+  <outline>
+    <component base="R"/>
+    <component base="macronbelowcomb.case" xOffset="34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-27 19:22:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

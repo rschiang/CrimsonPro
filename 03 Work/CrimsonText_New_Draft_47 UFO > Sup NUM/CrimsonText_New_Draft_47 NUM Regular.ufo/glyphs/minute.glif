@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minute" format="1">
+  <advance width="182"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="91" y="394" type="curve"/>
+      <point x="63" y="394"/>
+      <point x="41" y="372"/>
+      <point x="41" y="331" type="curve"/>
+      <point x="41" y="297"/>
+      <point x="66" y="215"/>
+      <point x="77" y="169" type="curve"/>
+      <point x="105" y="169" type="line"/>
+      <point x="117" y="215"/>
+      <point x="141" y="297"/>
+      <point x="141" y="331" type="curve"/>
+      <point x="141" y="372"/>
+      <point x="119" y="394"/>
+    </contour>
+  </outline>
+</glyph>

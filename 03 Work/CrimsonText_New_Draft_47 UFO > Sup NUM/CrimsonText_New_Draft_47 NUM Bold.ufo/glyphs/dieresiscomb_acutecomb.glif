@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_acutecomb" format="1">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="137" y="329" type="curve"/>
+      <point x="174" y="329"/>
+      <point x="193" y="355"/>
+      <point x="193" y="380" type="curve"/>
+      <point x="193" y="405"/>
+      <point x="174" y="431"/>
+      <point x="137" y="431" type="curve"/>
+      <point x="98" y="431"/>
+      <point x="79" y="405"/>
+      <point x="79" y="380" type="curve"/>
+      <point x="79" y="355"/>
+      <point x="98" y="329"/>
+    </contour>
+    <contour>
+      <point x="284" y="329" type="curve"/>
+      <point x="321" y="329"/>
+      <point x="341" y="355"/>
+      <point x="341" y="380" type="curve"/>
+      <point x="341" y="405"/>
+      <point x="321" y="431"/>
+      <point x="284" y="431" type="curve"/>
+      <point x="246" y="431"/>
+      <point x="227" y="405"/>
+      <point x="227" y="380" type="curve"/>
+      <point x="227" y="355"/>
+      <point x="246" y="329"/>
+    </contour>
+    <contour>
+      <point x="184" y="444" type="line"/>
+      <point x="236" y="427" type="line"/>
+      <point x="331" y="507" type="line"/>
+      <point x="227" y="522" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="296" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

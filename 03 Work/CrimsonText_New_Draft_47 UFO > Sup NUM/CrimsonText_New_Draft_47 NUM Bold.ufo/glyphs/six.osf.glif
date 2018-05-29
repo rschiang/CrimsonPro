@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.osf" format="1">
+  <advance width="414"/>
+  <outline>
+    <contour>
+      <point x="132" y="188" type="curve"/>
+      <point x="126" y="142" type="line"/>
+      <point x="154" y="175"/>
+      <point x="186" y="198"/>
+      <point x="210" y="198" type="curve"/>
+      <point x="248" y="198"/>
+      <point x="267" y="169"/>
+      <point x="267" y="114" type="curve"/>
+      <point x="267" y="72"/>
+      <point x="246" y="42"/>
+      <point x="220" y="42" type="curve"/>
+      <point x="184" y="42"/>
+      <point x="154" y="96"/>
+      <point x="154" y="159" type="curve"/>
+      <point x="154" y="291"/>
+      <point x="218" y="360"/>
+      <point x="361" y="398" type="curve"/>
+      <point x="343" y="449" type="line"/>
+      <point x="151" y="428"/>
+      <point x="29" y="299"/>
+      <point x="29" y="173" type="curve"/>
+      <point x="29" y="66"/>
+      <point x="109" y="-7"/>
+      <point x="212" y="-7" type="curve"/>
+      <point x="310" y="-7"/>
+      <point x="387" y="57"/>
+      <point x="387" y="147" type="curve"/>
+      <point x="387" y="224"/>
+      <point x="325" y="277"/>
+      <point x="258" y="277" type="curve"/>
+      <point x="218" y="277"/>
+      <point x="171" y="238"/>
+    </contour>
+  </outline>
+</glyph>

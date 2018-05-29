@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="1153"/>
+  <unicode hex="2030"/>
+  <note>
+    perthousand
+  </note>
+  <outline>
+    <contour>
+      <point x="951" y="-9" type="curve"/>
+      <point x="1041" y="-9"/>
+      <point x="1115" y="58"/>
+      <point x="1115" y="147" type="curve"/>
+      <point x="1115" y="239"/>
+      <point x="1045" y="303"/>
+      <point x="951" y="303" type="curve"/>
+      <point x="862" y="303"/>
+      <point x="787" y="234"/>
+      <point x="787" y="147" type="curve"/>
+      <point x="787" y="55"/>
+      <point x="855" y="-9"/>
+    </contour>
+    <contour>
+      <point x="951" y="77" type="curve"/>
+      <point x="913" y="77"/>
+      <point x="885" y="104"/>
+      <point x="885" y="148" type="curve"/>
+      <point x="885" y="191"/>
+      <point x="913" y="219"/>
+      <point x="951" y="219" type="curve"/>
+      <point x="990" y="219"/>
+      <point x="1020" y="192"/>
+      <point x="1020" y="148" type="curve"/>
+      <point x="1020" y="103"/>
+      <point x="990" y="77"/>
+    </contour>
+    <component base="percent"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>percent</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>percent</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>percent</string>
+    </dict>
+  </lib>
+</glyph>

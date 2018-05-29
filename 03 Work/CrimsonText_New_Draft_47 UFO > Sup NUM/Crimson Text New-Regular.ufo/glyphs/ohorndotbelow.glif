@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorndotbelow" format="1">
+  <advance width="518"/>
+  <unicode hex="1EE3"/>
+  <note>
+    uni1EE3
+  </note>
+  <outline>
+    <component base="ohorn"/>
+    <component base="dotbelowcomb" xOffset="-41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

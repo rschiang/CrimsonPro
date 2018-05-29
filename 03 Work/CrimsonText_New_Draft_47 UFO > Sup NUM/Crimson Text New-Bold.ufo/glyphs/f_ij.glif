@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_ij" format="1">
+  <advance width="893"/>
+  <outline>
+    <component base="f_i"/>
+    <component base="j.alt" xOffset="597"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+    </dict>
+  </lib>
+</glyph>

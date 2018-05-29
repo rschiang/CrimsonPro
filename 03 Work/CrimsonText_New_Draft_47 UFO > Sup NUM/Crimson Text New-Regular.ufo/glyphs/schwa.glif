@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa" format="1">
+  <advance width="467"/>
+  <unicode hex="0259"/>
+  <outline>
+    <contour>
+      <point x="222" y="438" type="curve"/>
+      <point x="144" y="438"/>
+      <point x="81" y="401"/>
+      <point x="45" y="335" type="curve"/>
+      <point x="71" y="312" type="line"/>
+      <point x="105" y="354"/>
+      <point x="144" y="373"/>
+      <point x="197" y="373" type="curve"/>
+      <point x="283" y="373"/>
+      <point x="337" y="305"/>
+      <point x="337" y="197" type="curve"/>
+      <point x="337" y="185" type="line" smooth="yes"/>
+      <point x="337" y="92"/>
+      <point x="295" y="35"/>
+      <point x="228" y="35" type="curve"/>
+      <point x="166" y="35"/>
+      <point x="128" y="80"/>
+      <point x="128" y="154" type="curve"/>
+      <point x="128" y="175" type="line"/>
+      <point x="116" y="161" type="line"/>
+      <point x="358" y="161" type="line"/>
+      <point x="358" y="206" type="line"/>
+      <point x="47" y="206" type="line"/>
+      <point x="47" y="189" type="line" smooth="yes"/>
+      <point x="47" y="67"/>
+      <point x="116" y="-7"/>
+      <point x="225" y="-8" type="curve"/>
+      <point x="338" y="-9"/>
+      <point x="423" y="80"/>
+      <point x="423" y="224" type="curve"/>
+      <point x="423" y="352"/>
+      <point x="342" y="438"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|e</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|e</string>
+    </dict>
+  </lib>
+</glyph>

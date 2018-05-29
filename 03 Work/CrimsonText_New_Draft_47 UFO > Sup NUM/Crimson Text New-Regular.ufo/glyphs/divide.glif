@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="540"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="487" y="221" type="line"/>
+      <point x="487" y="286" type="line"/>
+      <point x="53" y="286" type="line"/>
+      <point x="53" y="221" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="25" type="curve"/>
+      <point x="294" y="25"/>
+      <point x="317" y="48"/>
+      <point x="317" y="77" type="curve"/>
+      <point x="317" y="106"/>
+      <point x="294" y="129"/>
+      <point x="266" y="129" type="curve"/>
+      <point x="237" y="129"/>
+      <point x="214" y="106"/>
+      <point x="214" y="77" type="curve"/>
+      <point x="214" y="48"/>
+      <point x="237" y="25"/>
+    </contour>
+    <contour>
+      <point x="266" y="378" type="curve"/>
+      <point x="294" y="378"/>
+      <point x="317" y="401"/>
+      <point x="317" y="430" type="curve"/>
+      <point x="317" y="459"/>
+      <point x="294" y="482"/>
+      <point x="266" y="482" type="curve"/>
+      <point x="237" y="482"/>
+      <point x="214" y="459"/>
+      <point x="214" y="430" type="curve"/>
+      <point x="214" y="401"/>
+      <point x="237" y="378"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-25 21:47:23 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

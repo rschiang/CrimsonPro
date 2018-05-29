@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commercialMinusSign" format="1">
+  <advance width="444"/>
+  <outline>
+    <contour>
+      <point x="247" y="388" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="331" y="388" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="-8" type="curve"/>
+      <point x="365" y="-8"/>
+      <point x="402" y="25"/>
+      <point x="402" y="68" type="curve"/>
+      <point x="402" y="112"/>
+      <point x="365" y="147"/>
+      <point x="319" y="147" type="curve"/>
+      <point x="274" y="147"/>
+      <point x="236" y="112"/>
+      <point x="236" y="68" type="curve"/>
+      <point x="236" y="25"/>
+      <point x="274" y="-8"/>
+    </contour>
+    <contour>
+      <point x="124" y="241" type="curve"/>
+      <point x="170" y="241"/>
+      <point x="207" y="274"/>
+      <point x="207" y="317" type="curve"/>
+      <point x="207" y="361"/>
+      <point x="170" y="396"/>
+      <point x="124" y="396" type="curve"/>
+      <point x="79" y="396"/>
+      <point x="41" y="361"/>
+      <point x="41" y="317" type="curve"/>
+      <point x="41" y="274"/>
+      <point x="79" y="241"/>
+    </contour>
+  </outline>
+</glyph>

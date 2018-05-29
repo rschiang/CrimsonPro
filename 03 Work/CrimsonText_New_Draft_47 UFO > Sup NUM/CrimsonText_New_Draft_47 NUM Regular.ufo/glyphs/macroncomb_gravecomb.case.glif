@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb_gravecomb.case" format="1">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="332" y="487" type="line"/>
+      <point x="332" y="532" type="line"/>
+      <point x="88" y="532" type="line"/>
+      <point x="88" y="487" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="630" type="line"/>
+      <point x="196" y="556" type="line"/>
+      <point x="231" y="568" type="line"/>
+      <point x="185" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="436" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

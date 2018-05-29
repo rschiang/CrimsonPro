@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="534"/>
+  <unicode hex="0023"/>
+  <note>
+    numbersign
+  </note>
+  <outline>
+    <contour>
+      <point x="378" y="587" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="446" y="587" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="227" type="line"/>
+      <point x="36" y="164" type="line"/>
+      <point x="481" y="164" type="line"/>
+      <point x="481" y="227" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="587" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="279" y="587" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="423" type="line"/>
+      <point x="53" y="360" type="line"/>
+      <point x="498" y="360" type="line"/>
+      <point x="498" y="423" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

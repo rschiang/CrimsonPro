@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udotbelow" format="1">
+  <advance width="695"/>
+  <unicode hex="1EE4"/>
+  <note>
+    uni1EE4
+  </note>
+  <outline>
+    <component base="U"/>
+    <component base="dotbelowcomb.case" xOffset="76"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-27 19:22:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

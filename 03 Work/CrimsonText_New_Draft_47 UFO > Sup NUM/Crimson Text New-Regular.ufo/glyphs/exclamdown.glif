@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="266"/>
+  <unicode hex="00A1"/>
+  <note>
+    exclamdown
+  </note>
+  <outline>
+    <contour>
+      <point x="152" y="246" type="curve"/>
+      <point x="114" y="246" type="line"/>
+      <point x="109" y="102"/>
+      <point x="82" y="-73"/>
+      <point x="82" y="-169" type="curve"/>
+      <point x="82" y="-206"/>
+      <point x="102" y="-228"/>
+      <point x="133" y="-228" type="curve"/>
+      <point x="164" y="-228"/>
+      <point x="184" y="-206"/>
+      <point x="184" y="-169" type="curve"/>
+      <point x="184" y="-73"/>
+      <point x="157" y="102"/>
+    </contour>
+    <contour>
+      <point x="133" y="438" type="curve"/>
+      <point x="97" y="438"/>
+      <point x="70" y="412"/>
+      <point x="70" y="377" type="curve"/>
+      <point x="70" y="342"/>
+      <point x="97" y="316"/>
+      <point x="133" y="316" type="curve"/>
+      <point x="169" y="316"/>
+      <point x="196" y="342"/>
+      <point x="196" y="377" type="curve"/>
+      <point x="196" y="412"/>
+      <point x="169" y="438"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

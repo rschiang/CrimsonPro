@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb_dieresiscomb.case" format="1">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="69" y="527" type="line"/>
+      <point x="69" y="469" type="line"/>
+      <point x="351" y="469" type="line"/>
+      <point x="351" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="645" type="curve"/>
+      <point x="83" y="645"/>
+      <point x="63" y="618"/>
+      <point x="63" y="592" type="curve"/>
+      <point x="63" y="565"/>
+      <point x="83" y="539"/>
+      <point x="123" y="539" type="curve"/>
+      <point x="161" y="539"/>
+      <point x="182" y="565"/>
+      <point x="182" y="592" type="curve"/>
+      <point x="182" y="618"/>
+      <point x="161" y="645"/>
+    </contour>
+    <contour>
+      <point x="298" y="645" type="curve"/>
+      <point x="258" y="645"/>
+      <point x="238" y="618"/>
+      <point x="238" y="592" type="curve"/>
+      <point x="238" y="565"/>
+      <point x="258" y="539"/>
+      <point x="298" y="539" type="curve"/>
+      <point x="337" y="539"/>
+      <point x="357" y="565"/>
+      <point x="357" y="592" type="curve"/>
+      <point x="357" y="618"/>
+      <point x="337" y="645"/>
+    </contour>
+    <contour>
+      <point x="210" y="436" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

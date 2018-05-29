@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedmod" format="1">
+  <advance width="600"/>
+  <unicode hex="02BB"/>
+  <note>
+    uni02BB
+  </note>
+  <outline>
+    <contour>
+      <point x="393" y="701" type="curve"/>
+      <point x="378" y="736" type="line"/>
+      <point x="273" y="713"/>
+      <point x="224" y="646"/>
+      <point x="224" y="588" type="curve"/>
+      <point x="224" y="531"/>
+      <point x="265" y="508"/>
+      <point x="306" y="508" type="curve"/>
+      <point x="347" y="508"/>
+      <point x="376" y="532"/>
+      <point x="376" y="563" type="curve"/>
+      <point x="376" y="624"/>
+      <point x="309" y="613"/>
+      <point x="309" y="646" type="curve"/>
+      <point x="309" y="665"/>
+      <point x="328" y="687"/>
+    </contour>
+    <contour>
+      <point x="300" y="440" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="662" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

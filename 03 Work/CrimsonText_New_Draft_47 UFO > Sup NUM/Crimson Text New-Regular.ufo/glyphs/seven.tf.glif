@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.tf" format="1">
+  <advance width="540"/>
+  <note>
+    seven
+  </note>
+  <outline>
+    <contour>
+      <point x="179" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="493" y="552" type="line"/>
+      <point x="490" y="588" type="line"/>
+      <point x="465" y="588"/>
+      <point x="438" y="587"/>
+      <point x="414" y="587" type="curve"/>
+      <point x="184" y="587" type="line" smooth="yes"/>
+      <point x="144" y="587"/>
+      <point x="109" y="588"/>
+      <point x="79" y="591" type="curve"/>
+      <point x="57" y="426" type="line"/>
+      <point x="99" y="421" type="line"/>
+      <point x="110" y="451"/>
+      <point x="119" y="478"/>
+      <point x="129" y="501" type="curve"/>
+      <point x="137" y="503"/>
+      <point x="152" y="504"/>
+      <point x="166" y="504" type="curve"/>
+      <point x="436" y="504" type="line"/>
+      <point x="435" y="539" type="line"/>
+      <point x="179" y="31" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-25 19:48:10 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

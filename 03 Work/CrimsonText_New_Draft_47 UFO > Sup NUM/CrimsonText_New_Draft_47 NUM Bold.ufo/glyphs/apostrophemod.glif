@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="1">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="145" y="354" type="curve"/>
+      <point x="157" y="326" type="line"/>
+      <point x="247" y="342"/>
+      <point x="282" y="395"/>
+      <point x="282" y="434" type="curve"/>
+      <point x="282" y="481"/>
+      <point x="245" y="495"/>
+      <point x="214" y="495" type="curve"/>
+      <point x="178" y="495"/>
+      <point x="153" y="475"/>
+      <point x="153" y="451" type="curve"/>
+      <point x="153" y="401"/>
+      <point x="211" y="411"/>
+      <point x="211" y="389" type="curve"/>
+      <point x="211" y="378"/>
+      <point x="201" y="364"/>
+    </contour>
+    <contour>
+      <point x="210" y="296" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="210" y="434" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

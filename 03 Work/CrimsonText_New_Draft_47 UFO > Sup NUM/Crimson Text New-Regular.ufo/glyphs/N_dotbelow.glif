@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ndotbelow" format="1">
+  <advance width="675"/>
+  <unicode hex="1E46"/>
+  <note>
+    uni1E46
+  </note>
+  <outline>
+    <component base="N"/>
+    <component base="dotbelowcomb.case" xOffset="38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-25 08:19:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

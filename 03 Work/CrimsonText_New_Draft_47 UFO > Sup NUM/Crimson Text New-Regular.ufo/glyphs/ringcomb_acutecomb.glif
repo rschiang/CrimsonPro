@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringcomb_acutecomb" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="301" y="493" type="curve"/>
+      <point x="357" y="493"/>
+      <point x="400" y="535"/>
+      <point x="400" y="589" type="curve"/>
+      <point x="400" y="644"/>
+      <point x="358" y="685"/>
+      <point x="301" y="685" type="curve"/>
+      <point x="244" y="685"/>
+      <point x="200" y="643"/>
+      <point x="200" y="589" type="curve"/>
+      <point x="200" y="535"/>
+      <point x="244" y="493"/>
+    </contour>
+    <contour>
+      <point x="302" y="527" type="curve"/>
+      <point x="267" y="527"/>
+      <point x="241" y="554"/>
+      <point x="241" y="590" type="curve"/>
+      <point x="241" y="627"/>
+      <point x="267" y="653"/>
+      <point x="302" y="653" type="curve"/>
+      <point x="337" y="653"/>
+      <point x="361" y="628"/>
+      <point x="361" y="590" type="curve"/>
+      <point x="361" y="552"/>
+      <point x="337" y="527"/>
+    </contour>
+    <contour>
+      <point x="330" y="648" type="line"/>
+      <point x="370" y="634" type="line"/>
+      <point x="483" y="767" type="line"/>
+      <point x="402" y="790" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="430" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-24 10:05:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

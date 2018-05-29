@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD" format="1">
+  <advance width="626"/>
+  <outline>
+    <component base="I"/>
+    <component base="acutecomb.case" xOffset="-143" yOffset="-73"/>
+    <component base="J" xOffset="313"/>
+    <component base="acutecomb.case" xOffset="173" yOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-27 19:22:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>
