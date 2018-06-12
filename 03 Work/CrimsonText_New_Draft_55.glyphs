@@ -2,7 +2,7 @@
 .appVersion = "1148";
 DisplayStrings = (
 l,
-A
+"æ"
 );
 classes = (
 {
@@ -15236,7 +15236,7 @@ unicode = 0119;
 },
 {
 glyphname = f;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-06-12 15:11:23 +0000";
 layers = (
 {
 background = {
@@ -15553,8 +15553,8 @@ nodes = (
 "317 438 LINE",
 "139 438 LINE",
 "80 442 LINE",
-"6 421 LINE",
-"6 374 LINE"
+"8 421 LINE",
+"8 374 LINE"
 );
 }
 );
@@ -16459,7 +16459,7 @@ unicode = 0127;
 },
 {
 glyphname = i;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-06-11 21:21:12 +0000";
 layers = (
 {
 background = {
@@ -17066,7 +17066,7 @@ unicode = 012F;
 },
 {
 glyphname = i_j.loclNLD;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-06-12 20:32:53 +0000";
 layers = (
 {
 background = {
@@ -17122,7 +17122,7 @@ rightMetricsKey = j;
 },
 {
 glyphname = j;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-06-12 20:32:42 +0000";
 layers = (
 {
 background = {
@@ -21770,7 +21770,7 @@ unicode = 00FE;
 },
 {
 glyphname = q;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-06-12 11:17:37 +0000";
 layers = (
 {
 anchors = (
@@ -21849,7 +21849,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"509 -220 LINE",
+"510 -220 LINE",
 "512 -184 LINE",
 "450 -169 LINE",
 "447 -153 OFFCURVE",
