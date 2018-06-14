@@ -1,7 +1,7 @@
 {
 .appVersion = "1149";
 DisplayStrings = (
-"oonk/Placeholder oo/Placeholder on/Placeholder nl/Placeholder l\012oooo/Placeholder/Placeholder/Placeholder/Placeholder ooon|/Placeholder |nI/Placeholder I\012nnnn/Placeholder/Placeholder/Placeholder/Placeholder nnnn\012aaaa/Placeholder/Placeholder/Placeholder/Placeholder aaaa \012llllll/Placeholder/Placeholder/Placeholder/Placeholder llllll"
+"oontd/Placeholder oo/Placeholder on/Placeholder nl/Placeholder l\012oooo/Placeholder/Placeholder/Placeholder/Placeholder ooon|/Placeholder |nI/Placeholder I\012nnnn/Placeholder/Placeholder/Placeholder/Placeholder nnnn\012aaaa/Placeholder/Placeholder/Placeholder/Placeholder aaaa \012llllll/Placeholder/Placeholder/Placeholder/Placeholder llllll"
 );
 classes = (
 {
@@ -22032,7 +22032,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-06-14 12:42:17 +0000";
 layers = (
 {
 anchors = (
@@ -22117,9 +22117,9 @@ nodes = (
 "343 390 CURVE SMOOTH",
 "343 420 OFFCURVE",
 "320 436 OFFCURVE",
-"287 436 CURVE SMOOTH",
+"290 436 CURVE SMOOTH",
 "253 436 OFFCURVE",
-"213 412 OFFCURVE",
+"210 414 OFFCURVE",
 "169 338 CURVE",
 "166 339 LINE",
 "171 422 LINE",
@@ -23099,7 +23099,7 @@ unicode = 0259;
 },
 {
 glyphname = t;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-06-14 20:12:41 +0000";
 layers = (
 {
 anchors = (
@@ -23192,8 +23192,8 @@ nodes = (
 "167 402 LINE",
 "169 518 LINE",
 "146 518 LINE",
-"17 403 LINE",
-"17 378 LINE",
+"21 403 LINE",
+"21 378 LINE",
 "91 378 LINE",
 "89 140 LINE",
 "89 42 OFFCURVE",
