@@ -1,7 +1,7 @@
 {
 .appVersion = "1150";
 DisplayStrings = (
-"OHCIIJR/Placeholder O"
+"OHCIICS/Placeholder O"
 );
 classes = (
 {
@@ -9227,7 +9227,7 @@ unicode = 0052;
 },
 {
 glyphname = S;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-06-27 21:02:59 +0000";
 layers = (
 {
 anchors = (
@@ -9354,16 +9354,6 @@ position = "{263, 587}";
 }
 );
 background = {
-anchors = (
-{
-name = bottom;
-position = "{263, 0}";
-},
-{
-name = top;
-position = "{263, 587}";
-}
-);
 paths = (
 {
 closed = 1;
@@ -9426,7 +9416,7 @@ nodes = (
 "311 534 OFFCURVE",
 "334 531 OFFCURVE",
 "359 519 CURVE",
-"391 418 LINE",
+"391 420 LINE",
 "455 424 LINE",
 "443 571 LINE",
 "406 587 OFFCURVE",
@@ -9444,7 +9434,7 @@ nodes = (
 "219 57 OFFCURVE",
 "178 65 OFFCURVE",
 "149 84 CURVE",
-"115 190 LINE",
+"115 188 LINE",
 "50 184 LINE",
 "54 36 LINE",
 "103 8 OFFCURVE",
@@ -9460,6 +9450,7 @@ leftKerningGroup = S;
 note = S;
 rightKerningGroup = S;
 unicode = 0053;
+changeCount = 14;
 },
 {
 glyphname = Germandbls;
