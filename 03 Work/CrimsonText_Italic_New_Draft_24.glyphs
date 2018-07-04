@@ -34281,9 +34281,9 @@ width = 622;
 unicode = 03C0;
 },
 {
-color = 8;
+color = 3;
 glyphname = zero;
-lastChange = "2018-07-02 22:25:17 +0000";
+lastChange = "2018-07-04 09:39:58 +0000";
 layers = (
 {
 background = {
