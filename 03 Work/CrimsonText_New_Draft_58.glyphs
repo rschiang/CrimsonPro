@@ -1,7 +1,8 @@
 {
 .appVersion = "1153";
 DisplayStrings = (
-"H.¡/Placeholder nn/Placeholder no/Placeholder o\012lll/Placeholder lllII/Placeholder II"
+"H./zerowidthspace/Placeholder nn/Placeholder no/Placeholder o\012lll/Placeholder lllII/Placeholder II",
+"/guarani"
 );
 classes = (
 {
@@ -63249,7 +63250,7 @@ unicode = 0024;
 },
 {
 glyphname = dong;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-07-08 21:04:25 +0000";
 layers = (
 {
 background = {
@@ -63315,6 +63316,12 @@ components = (
 {
 alignment = -1;
 name = dcroat;
+}
+);
+guideLines = (
+{
+angle = 90;
+position = "{54, 238}";
 }
 );
 layerId = "C0B3E82F-C341-4413-A405-AFA97EAADFAC";
