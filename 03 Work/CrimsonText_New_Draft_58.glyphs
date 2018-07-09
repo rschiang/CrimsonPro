@@ -2,7 +2,7 @@
 .appVersion = "1153";
 DisplayStrings = (
 "H./zerowidthspace/Placeholder nn/Placeholder no/Placeholder o\012lll/Placeholder lllII/Placeholder II",
-"/guarani"
+"+±/Placeholder"
 );
 classes = (
 {
@@ -65936,7 +65936,7 @@ unicode = 20BC;
 {
 color = 8;
 glyphname = naira;
-lastChange = "2018-06-01 20:39:39 +0000";
+lastChange = "2018-07-09 11:45:54 +0000";
 layers = (
 {
 background = {
@@ -66179,7 +66179,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"548 175 LINE",
+"545 175 LINE",
 "196 587 LINE",
 "36 587 LINE",
 "33 537 LINE",
@@ -69178,7 +69178,7 @@ unicode = 2215;
 },
 {
 glyphname = plus;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-07-09 20:52:18 +0000";
 layers = (
 {
 background = {
@@ -69208,18 +69208,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"53 286 LINE",
-"53 221 LINE",
-"487 221 LINE",
-"487 286 LINE"
+"56 284 LINE",
+"56 223 LINE",
+"485 223 LINE",
+"485 284 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
 "240 37 LINE",
-"300 37 LINE",
-"300 471 LINE",
+"301 37 LINE",
+"301 471 LINE",
 "240 471 LINE"
 );
 }
@@ -69254,19 +69254,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"53 299 LINE",
-"53 211 LINE",
-"487 211 LINE",
-"487 299 LINE"
+"53 297 LINE",
+"53 213 LINE",
+"487 213 LINE",
+"487 297 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"228 38 LINE",
-"312 38 LINE",
-"312 472 LINE",
-"228 472 LINE"
+"227 38 LINE",
+"313 38 LINE",
+"313 472 LINE",
+"227 472 LINE"
 );
 }
 );
@@ -70280,7 +70280,7 @@ unicode = 2264;
 },
 {
 glyphname = plusminus;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-07-09 22:03:32 +0000";
 layers = (
 {
 background = {
@@ -70328,10 +70328,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"240 114 LINE",
+"239 114 LINE",
 "300 114 LINE",
 "300 471 LINE",
-"240 471 LINE"
+"239 471 LINE"
 );
 },
 {
@@ -70392,10 +70392,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"228 124 LINE",
-"312 124 LINE",
-"312 472 LINE",
-"228 472 LINE"
+"227 124 LINE",
+"313 124 LINE",
+"313 472 LINE",
+"227 472 LINE"
 );
 },
 {
