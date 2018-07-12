@@ -1,8 +1,7 @@
 {
-.appVersion = "1153";
+.appVersion = "1156";
 DisplayStrings = (
-"H./zerowidthspace/Placeholder nn/Placeholder no/Placeholder o\012lll/Placeholder lllII/Placeholder II",
-"+±/Placeholder"
+"'/estimated"
 );
 classes = (
 {
@@ -73206,7 +73205,7 @@ unicode = 2202;
 },
 {
 glyphname = percent;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-07-10 11:05:58 +0000";
 layers = (
 {
 background = {
@@ -73296,10 +73295,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"637 562 LINE",
-"592 601 LINE",
-"123 26 LINE",
-"167 -13 LINE"
+"635 562 LINE",
+"590 601 LINE",
+"121 26 LINE",
+"165 -13 LINE"
 );
 },
 {
@@ -73461,10 +73460,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"653 548 LINE",
-"590 601 LINE",
-"141 40 LINE",
-"205 -13 LINE"
+"654 548 LINE",
+"591 601 LINE",
+"142 40 LINE",
+"206 -13 LINE"
 );
 },
 {
@@ -73545,7 +73544,7 @@ unicode = 0025;
 },
 {
 glyphname = perthousand;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-07-10 11:21:03 +0000";
 layers = (
 {
 background = {
@@ -82843,7 +82842,7 @@ unicode = 2021;
 },
 {
 glyphname = numero;
-lastChange = "2018-06-07 20:17:05 +0000";
+lastChange = "2018-07-11 15:25:13 +0000";
 layers = (
 {
 background = {
@@ -82899,7 +82898,7 @@ transform = "{1, 0, 0, 1, 665, 0}";
 }
 );
 layerId = "C0B3E82F-C341-4413-A405-AFA97EAADFAC";
-width = 1114;
+width = 1110;
 }
 );
 leftMetricsKey = N;
