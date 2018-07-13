@@ -1,7 +1,7 @@
 {
 .appVersion = "1156";
 DisplayStrings = (
-"/tildecomb_acutecomb"
+"/dotaccentcomb_macroncomb"
 );
 classes = (
 {
