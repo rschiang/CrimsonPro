@@ -59341,23 +59341,10 @@ unicode = 002F;
 {
 color = 3;
 glyphname = backslash;
-lastChange = "2018-07-21 19:28:03 +0000";
+lastChange = "2018-08-13 19:22:06 +0000";
 layers = (
 {
 background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"154 728 LINE",
-"89 728 LINE",
-"188 -220 LINE",
-"253 -220 LINE"
-);
-}
-);
-};
-layerId = "720C727D-0ED9-429E-914E-55EB9E513E33";
 paths = (
 {
 closed = 1;
@@ -59369,6 +59356,19 @@ nodes = (
 );
 }
 );
+};
+layerId = "720C727D-0ED9-429E-914E-55EB9E513E33";
+paths = (
+{
+closed = 1;
+nodes = (
+"151 728 LINE",
+"89 728 LINE",
+"188 -180 LINE",
+"250 -180 LINE"
+);
+}
+);
 width = 366;
 },
 {
@@ -59377,10 +59377,10 @@ paths = (
 {
 closed = 1;
 nodes = (
-"94 728 LINE",
-"-3 728 LINE",
-"298 -220 LINE",
-"395 -220 LINE"
+"192 728 LINE",
+"98 728 LINE",
+"200 -220 LINE",
+"294 -220 LINE"
 );
 }
 );
@@ -59392,8 +59392,8 @@ closed = 1;
 nodes = (
 "192 728 LINE",
 "98 728 LINE",
-"200 -220 LINE",
-"294 -220 LINE"
+"196 -180 LINE",
+"290 -180 LINE"
 );
 }
 );
