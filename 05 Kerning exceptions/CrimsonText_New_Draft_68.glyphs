@@ -5,7 +5,9 @@ DisplayStrings = (
 "nnnz/Placeholder nnn\012ooozzooo\012llllllz/Placeholder llllll",
 "nnn9/Placeholder nnn\012llllll9allllll\012ooo9/Placeholder ooo\012",
 "nnn/Placeholder 9nnn\012llllllz9llllll\012ooo/Placeholder 9ooo\012",
-"IIIII/numero/Placeholder IIIIII\012llllll/numero zIllllll\012ooo/numero/Placeholder Iooo"
+"IIIII/numero/Placeholder IIIIII\012llllll/numero zIllllll\012ooo/numero/Placeholder Iooo",
+",I,Á,I,/Abreve ,I,/Abreveacute ,I,/Abrevedotbelow ,I,/Abrevegrave ,I,/Abrevehookabove ,I,/Abrevetilde ,I,Â,I,/Acircumflexacute ,I,/Acircumflexdotbelow ,I,/Acircumflexgrave ,I,/Acircumflexhookabove ,I,/Acircumflextilde ,I,/Adblgrave ,I,Ä,I,/Adotaccent ,I,/Adotbelow ,I,À,I,/Ahookabove ,I,/Ainvertedbreve ,I,/Amacron ,I,Å,I,/Aringacute ,I,Ã,I,/AEacute ,I,/Cacute ,I,/Ccaron ,I,Ç,I,/Ccedillaacute ,I,/Ccircumflex ,I,/Cdotaccent ,I,/DZcaron ,I,/Dcaron ,I,/Dcroat ,I,/Ddotbelow ,I,/Dlinebelow ,I,/Dzcaron ,I,É,I,/Ebreve ,I,/Ecaron ,I,/Ecedillabreve ,I,Ê,I,/Ecircumflexacute ,I,/Ecircumflexdotbelow ,I,/Ecircumflexgrave ,I,/Ecircumflexhookabove ,I,/Ecircumflextilde ,I,/Edblgrave ,I,Ë,I,/Edotaccent ,I,/Edotbelow ,I,È,I,/Ehookabove ,I,/Einvertedbreve ,I,/Emacron ,I,/Emacronacute ,I,/Emacrongrave ,I,/Etilde ,I,/Gbreve ,I,/Gcaron ,I,/Gcircumflex ,I,/Gcommaaccent ,I,/Gdotaccent ,I,/Gmacron ,I,/Hbrevebelow ,I,/Hcircumflex ,I,/Hdotbelow ,I,Í,I,/Ibreve ,I,/Icaron ,I,Î,I,/Idblgrave ,I,Ï,I,/Idieresisacute ,I,/Idotaccent ,I,/Idotbelow ,I,Ì,I,/Ihookabove ,I,/Iinvertedbreve ,I,/Imacron ,I,/Itilde ,I,/Jcircumflex ,I,/Kcommaaccent ,I,/LJ ,I,/Lacute ,I,/Lcommaaccent ,I,/Ldotbelow ,I,/Lj ,I,/Llinebelow ,I,/Mdotbelow ,I,/NJ ,I,/Nacute ,I,/Ncaron ,I,/Ncommaaccent ,I,/Ndotaccent ,I,/Ndotbelow ,I,/Nj ,I,/Nlinebelow ,I,Ñ,I,Ó,I,/Obreve ,I,Ô,I,/Ocircumflexacute ,I,/Ocircumflexdotbelow ,I,/Ocircumflexgrave ,I,/Ocircumflexhookabove ,I,/Ocircumflextilde ,I,/Odblgrave ,I,Ö,I,/Odieresismacron ,I,/Odotaccentmacron ,I,/Odotbelow ,I,Ò,I,/Ohookabove ,I,/Ohornacute ,I,/Ohorndotbelow ,I,/Ohorngrave ,I,/Ohornhookabove ,I,/Ohorntilde ,I,/Ohungarumlaut ,I,/Oinvertedbreve ,I,/Omacron ,I,/Omacronacute ,I,/Omacrongrave ,I,/Oslashacute ,I,Õ,I,/Otildeacute ,I,/Otildedieresis ,I,/Otildemacron ,I,/Racute ,I,/Rcaron ,I,/Rcommaaccent ,I,/Rdblgrave ,I,/Rdotbelow ,I,/Rinvertedbreve ,I,/Rlinebelow ,I,/Sacute ,I,/Sacutedotaccent ,I,/Scaron ,I,/Scarondotaccent ,I,/Scedilla ,I,/Scircumflex ,I,/Scommaaccent ,I,/Sdotaccent ,I,/Sdotbelow ,I,/Sdotbelowdotaccent ,I,/Tcaron ,I,/Tcedilla ,I,/Tcommaaccent ,I,/Tdotbelow ,I,/Tlinebelow ,I,Ú,I,/Ubreve ,I,Û,I,/Udblgrave ,I,Ü,I,/Udotbelow ,I,Ù,I,/Uhookabove ,I,/Uhornacute ,I,/Uhorndotbelow ,I,/Uhorngrave ,I,/Uhornhookabove ,I,/Uhorntilde ,I,/Uhungarumlaut ,I,/Uinvertedbreve ,I,/Umacron ,I,/Umacrondieresis ,I,/Uring ,I,/Utilde ,I,/Utildeacute ,I,/Wacute ,I,/Wcircumflex ,I,/Wdieresis ,I,/Wgrave ,I,Ý,I,/Ycircumflex ,I,/Ydieresis ,I,/Ydotaccent ,I,/Ydotbelow ,I,/Ygrave ,I,/Yhookabove ,I,/Ymacron ,I,/Ytilde ,I,/Zacute ,I,/Zcaron ,I,/Zdotaccent ,I,/Zdotbelow ,I,/Iacute_J.loclNLD \012,I,á,I,/abreve ,I,/abreveacute ,I,/abrevedotbelow ,I,/abrevegrave ,I,/abrevehookabove ,I,/abrevetilde ,I,â,I,/acircumflexacute ,I,/acircumflexdotbelow ,I,/acircumflexgrave ,I,/acircumflexhookabove ,I,/acircumflextilde ,I,/adblgrave ,I,ä,I,/adotaccent ,I,/adotbelow ,I,à,I,/ahookabove ,I,/ainvertedbreve ,I,/amacron ,I,å,I,/aringacute ,I,ã,I,/aeacute ,I,/cacute ,I,/ccaron ,I,ç,I,/ccedillaacute ,I,/ccircumflex ,I,/cdotaccent ,I,/ddotbelow ,I,/dlinebelow ,I,/dzcaron ,I,é,I,/ebreve ,I,/ecaron ,I,/ecedillabreve ,I,ê,I,/ecircumflexacute ,I,/ecircumflexdotbelow ,I,/ecircumflexgrave ,I,/ecircumflexhookabove ,I,/ecircumflextilde ,I,/edblgrave ,I,ë,I,/edotaccent ,I,/edotbelow ,I,è,I,/ehookabove ,I,/einvertedbreve ,I,/emacron ,I,/emacronacute ,I,/emacrongrave ,I,/etilde ,I,/gbreve ,I,/gcaron ,I,/gcircumflex ,I,/gcommaaccent ,I,/gdotaccent ,I,/gmacron ,I,/hbrevebelow ,I,/hcircumflex ,I,/hdotbelow ,I,í,I,/ibreve ,I,î,I,/idblgrave ,I,ï,I,/idieresisacute ,I,/idotaccent ,I,/idotbelow ,I,ì,I,/ihookabove ,I,/iinvertedbreve ,I,/imacron ,I,/itilde ,I,/jcircumflex ,I,/kcommaaccent ,I,/lacute ,I,/lcommaaccent ,I,/ldotbelow ,I,/lj ,I,/llinebelow ,I,/mdotbelow ,I,/nacute ,I,/napostrophe ,I,/ncaron ,I,/ncommaaccent ,I,/ndotaccent ,I,/ndotbelow ,I,/nj ,I,/nlinebelow ,I,ñ,I,ó,I,/obreve ,I,ô,I,/ocircumflexacute ,I,/ocircumflexdotbelow ,I,/ocircumflexgrave ,I,/ocircumflexhookabove ,I,/ocircumflextilde ,I,/odblgrave ,I,ö,I,/odieresismacron ,I,/odotaccentmacron ,I,/odotbelow ,I,ò,I,/ohookabove ,I,/ohornacute ,I,/ohorndotbelow ,I,/ohorngrave ,I,/ohornhookabove ,I,/ohorntilde ,I,/ohungarumlaut ,I,/oinvertedbreve ,I,/omacron ,I,/omacronacute ,I,/omacrongrave ,I,/oslashacute ,I,õ,I,/otildeacute ,I,/otildedieresis ,I,/otildemacron ,I,/racute ,I,/rcaron ,I,/rcommaaccent ,I,/rdblgrave ,I,/rdotbelow ,I,/rinvertedbreve ,I,/rlinebelow ,I,/sacute ,I,/sacutedotaccent ,I,/scaron ,I,/scarondotaccent ,I,/scedilla ,I,/scircumflex ,I,/scommaaccent ,I,/sdotaccent ,I,/sdotbelow ,I,/sdotbelowdotaccent ,I,/tcedilla ,I,/tcommaaccent ,I,/tdieresis ,I,/tdotbelow ,I,/tlinebelow ,I,ú,I,/ubreve ,I,û,I,/udblgrave ,I,ü,I,/udotbelow ,I,ù,I,/uhookabove ,I,/uhornacute ,I,/uhorndotbelow ,I,/uhorngrave ,I,/uhornhookabove ,I,/uhorntilde ,I,/uhungarumlaut ,I,/uinvertedbreve ,I,/umacron ,I,/umacrondieresis ,I,/uring ,I,/utilde ,I,/utildeacute ,I,/wacute ,I,/wcircumflex ,I,/wdieresis ,I,/wgrave ,I,ý,I,/ycircumflex ,I,/ydieresis ,I,/ydotaccent ,I,/ydotbelow ,I,/ygrave ,I,/yhookabove ,I,/ymacron ,I,/ytilde ,I,/zacute ,I,/zcaron ,I,/zdotaccent ,I,/zdotbelow ,I,/iacute_j.loclNLD \012\012?I¿Á?I¿/Abreve ?I¿/Abreveacute ?I¿/Abrevedotbelow ?I¿/Abrevegrave ?I¿/Abrevehookabove ?I¿/Abrevetilde ?I¿Â?I¿/Acircumflexacute ?I¿/Acircumflexdotbelow ?I¿/Acircumflexgrave ?I¿/Acircumflexhookabove ?I¿/Acircumflextilde ?I¿/Adblgrave ?I¿Ä?I¿/Adotaccent ?I¿/Adotbelow ?I¿À?I¿/Ahookabove ?I¿/Ainvertedbreve ?I¿/Amacron ?I¿Å?I¿/Aringacute ?I¿Ã?I¿/AEacute ?I¿/Cacute ?I¿/Ccaron ?I¿Ç?I¿/Ccedillaacute ?I¿/Ccircumflex ?I¿/Cdotaccent ?I¿/DZcaron ?I¿/Dcaron ?I¿/Dcroat ?I¿/Ddotbelow ?I¿/Dlinebelow ?I¿/Dzcaron ?I¿É?I¿/Ebreve ?I¿/Ecaron ?I¿/Ecedillabreve ?I¿Ê?I¿/Ecircumflexacute ?I¿/Ecircumflexdotbelow ?I¿/Ecircumflexgrave ?I¿/Ecircumflexhookabove ?I¿/Ecircumflextilde ?I¿/Edblgrave ?I¿Ë?I¿/Edotaccent ?I¿/Edotbelow ?I¿È?I¿/Ehookabove ?I¿/Einvertedbreve ?I¿/Emacron ?I¿/Emacronacute ?I¿/Emacrongrave ?I¿/Etilde ?I¿/Gbreve ?I¿/Gcaron ?I¿/Gcircumflex ?I¿/Gcommaaccent ?I¿/Gdotaccent ?I¿/Gmacron ?I¿/Hbrevebelow ?I¿/Hcircumflex ?I¿/Hdotbelow ?I¿Í?I¿/Ibreve ?I¿/Icaron ?I¿Î?I¿/Idblgrave ?I¿Ï?I¿/Idieresisacute ?I¿/Idotaccent ?I¿/Idotbelow ?I¿Ì?I¿/Ihookabove ?I¿/Iinvertedbreve ?I¿/Imacron ?I¿/Itilde ?I¿/Jcircumflex ?I¿/Kcommaaccent ?I¿/LJ ?I¿/Lacute ?I¿/Lcommaaccent ?I¿/Ldotbelow ?I¿/Lj ?I¿/Llinebelow ?I¿/Mdotbelow ?I¿/NJ ?I¿/Nacute ?I¿/Ncaron ?I¿/Ncommaaccent ?I¿/Ndotaccent ?I¿/Ndotbelow ?I¿/Nj ?I¿/Nlinebelow ?I¿Ñ?I¿Ó?I¿/Obreve ?I¿Ô?I¿/Ocircumflexacute ?I¿/Ocircumflexdotbelow ?I¿/Ocircumflexgrave ?I¿/Ocircumflexhookabove ?I¿/Ocircumflextilde ?I¿/Odblgrave ?I¿Ö?I¿/Odieresismacron ?I¿/Odotaccentmacron ?I¿/Odotbelow ?I¿Ò?I¿/Ohookabove ?I¿/Ohornacute ?I¿/Ohorndotbelow ?I¿/Ohorngrave ?I¿/Ohornhookabove ?I¿/Ohorntilde ?I¿/Ohungarumlaut ?I¿/Oinvertedbreve ?I¿/Omacron ?I¿/Omacronacute ?I¿/Omacrongrave ?I¿/Oslashacute ?I¿Õ?I¿/Otildeacute ?I¿/Otildedieresis ?I¿/Otildemacron ?I¿/Racute ?I¿/Rcaron ?I¿/Rcommaaccent ?I¿/Rdblgrave ?I¿/Rdotbelow ?I¿/Rinvertedbreve ?I¿/Rlinebelow ?I¿/Sacute ?I¿/Sacutedotaccent ?I¿/Scaron ?I¿/Scarondotaccent ?I¿/Scedilla ?I¿/Scircumflex ?I¿/Scommaaccent ?I¿/Sdotaccent ?I¿/Sdotbelow ?I¿/Sdotbelowdotaccent ?I¿/Tcaron ?I¿/Tcedilla ?I¿/Tcommaaccent ?I¿/Tdotbelow ?I¿/Tlinebelow ?I¿Ú?I¿/Ubreve ?I¿Û?I¿/Udblgrave ?I¿Ü?I¿/Udotbelow ?I¿Ù?I¿/Uhookabove ?I¿/Uhornacute ?I¿/Uhorndotbelow ?I¿/Uhorngrave ?I¿/Uhornhookabove ?I¿/Uhorntilde ?I¿/Uhungarumlaut ?I¿/Uinvertedbreve ?I¿/Umacron ?I¿/Umacrondieresis ?I¿/Uring ?I¿/Utilde ?I¿/Utildeacute ?I¿/Wacute ?I¿/Wcircumflex ?I¿/Wdieresis ?I¿/Wgrave ?I¿Ý?I¿/Ycircumflex ?I¿/Ydieresis ?I¿/Ydotaccent ?I¿/Ydotbelow ?I¿/Ygrave ?I¿/Yhookabove ?I¿/Ymacron ?I¿/Ytilde ?I¿/Zacute ?I¿/Zcaron ?I¿/Zdotaccent ?I¿/Zdotbelow ?I¿/Iacute_J.loclNLD \012?I¿á?I¿/abreve ?I¿/abreveacute ?I¿/abrevedotbelow ?I¿/abrevegrave ?I¿/abrevehookabove ?I¿/abrevetilde ?I¿â?I¿/acircumflexacute ?I¿/acircumflexdotbelow ?I¿/acircumflexgrave ?I¿/acircumflexhookabove ?I¿/acircumflextilde ?I¿/adblgrave ?I¿ä?I¿/adotaccent ?I¿/adotbelow ?I¿à?I¿/ahookabove ?I¿/ainvertedbreve ?I¿/amacron ?I¿å?I¿/aringacute ?I¿ã?I¿/aeacute ?I¿/cacute ?I¿/ccaron ?I¿ç?I¿/ccedillaacute ?I¿/ccircumflex ?I¿/cdotaccent ?I¿/ddotbelow ?I¿/dlinebelow ?I¿/dzcaron ?I¿é?I¿/ebreve ?I¿/ecaron ?I¿/ecedillabreve ?I¿ê?I¿/ecircumflexacute ?I¿/ecircumflexdotbelow ?I¿/ecircumflexgrave ?I¿/ecircumflexhookabove ?I¿/ecircumflextilde ?I¿/edblgrave ?I¿ë?I¿/edotaccent ?I¿/edotbelow ?I¿è?I¿/ehookabove ?I¿/einvertedbreve ?I¿/emacron ?I¿/emacronacute ?I¿/emacrongrave ?I¿/etilde ?I¿/gbreve ?I¿/gcaron ?I¿/gcircumflex ?I¿/gcommaaccent ?I¿/gdotaccent ?I¿/gmacron ?I¿/hbrevebelow ?I¿/hcircumflex ?I¿/hdotbelow ?I¿í?I¿/ibreve ?I¿î?I¿/idblgrave ?I¿ï?I¿/idieresisacute ?I¿/idotaccent ?I¿/idotbelow ?I¿ì?I¿/ihookabove ?I¿/iinvertedbreve ?I¿/imacron ?I¿/itilde ?I¿/jcircumflex ?I¿/kcommaaccent ?I¿/lacute ?I¿/lcommaaccent ?I¿/ldotbelow ?I¿/lj ?I¿/llinebelow ?I¿/mdotbelow ?I¿/nacute ?I¿/napostrophe ?I¿/ncaron ?I¿/ncommaaccent ?I¿/ndotaccent ?I¿/ndotbelow ?I¿/nj ?I¿/nlinebelow ?I¿ñ?I¿ó?I¿/obreve ?I¿ô?I¿/ocircumflexacute ?I¿/ocircumflexdotbelow ?I¿/ocircumflexgrave ?I¿/ocircumflexhookabove ?I¿/ocircumflextilde ?I¿/odblgrave ?I¿ö?I¿/odieresismacron ?I¿/odotaccentmacron ?I¿/odotbelow ?I¿ò?I¿/ohookabove ?I¿/ohornacute ?I¿/ohorndotbelow ?I¿/ohorngrave ?I¿/ohornhookabove ?I¿/ohorntilde ?I¿/ohungarumlaut ?I¿/oinvertedbreve ?I¿/omacron ?I¿/omacronacute ?I¿/omacrongrave ?I¿/oslashacute ?I¿õ?I¿/otildeacute ?I¿/otildedieresis ?I¿/otildemacron ?I¿/racute ?I¿/rcaron ?I¿/rcommaaccent ?I¿/rdblgrave ?I¿/rdotbelow ?I¿/rinvertedbreve ?I¿/rlinebelow ?I¿/sacute ?I¿/sacutedotaccent ?I¿/scaron ?I¿/scarondotaccent ?I¿/scedilla ?I¿/scircumflex ?I¿/scommaaccent ?I¿/sdotaccent ?I¿/sdotbelow ?I¿/sdotbelowdotaccent ?I¿/tcedilla ?I¿/tcommaaccent ?I¿/tdieresis ?I¿/tdotbelow ?I¿/tlinebelow ?I¿ú?I¿/ubreve ?I¿û?I¿/udblgrave ?I¿ü?I¿/udotbelow ?I¿ù?I¿/uhookabove ?I¿/uhornacute ?I¿/uhorndotbelow ?I¿/uhorngrave ?I¿/uhornhookabove ?I¿/uhorntilde ?I¿/uhungarumlaut ?I¿/uinvertedbreve ?I¿/umacron ?I¿/umacrondieresis ?I¿/uring ?I¿/utilde ?I¿/utildeacute ?I¿/wacute ?I¿/wcircumflex ?I¿/wdieresis ?I¿/wgrave ?I¿ý?I¿/ycircumflex ?I¿/ydieresis ?I¿/ydotaccent ?I¿/ydotbelow ?I¿/ygrave ?I¿/yhookabove ?I¿/ymacron ?I¿/ytilde ?I¿/zacute ?I¿/zcaron ?I¿/zdotaccent ?I¿/zdotbelow ?I¿/iacute_j.loclNLD \012\012*I*Á*I*/Abreve *I*/Abreveacute *I*/Abrevedotbelow *I*/Abrevegrave *I*/Abrevehookabove *I*/Abrevetilde *I*Â*I*/Acircumflexacute *I*/Acircumflexdotbelow *I*/Acircumflexgrave *I*/Acircumflexhookabove *I*/Acircumflextilde *I*/Adblgrave *I*Ä*I*/Adotaccent *I*/Adotbelow *I*À*I*/Ahookabove *I*/Ainvertedbreve *I*/Amacron *I*Å*I*/Aringacute *I*Ã*I*/AEacute *I*/Cacute *I*/Ccaron *I*Ç*I*/Ccedillaacute *I*/Ccircumflex *I*/Cdotaccent *I*/DZcaron *I*/Dcaron *I*/Dcroat *I*/Ddotbelow *I*/Dlinebelow *I*/Dzcaron *I*É*I*/Ebreve *I*/Ecaron *I*/Ecedillabreve *I*Ê*I*/Ecircumflexacute *I*/Ecircumflexdotbelow *I*/Ecircumflexgrave *I*/Ecircumflexhookabove *I*/Ecircumflextilde *I*/Edblgrave *I*Ë*I*/Edotaccent *I*/Edotbelow *I*È*I*/Ehookabove *I*/Einvertedbreve *I*/Emacron *I*/Emacronacute *I*/Emacrongrave *I*/Etilde *I*/Gbreve *I*/Gcaron *I*/Gcircumflex *I*/Gcommaaccent *I*/Gdotaccent *I*/Gmacron *I*/Hbrevebelow *I*/Hcircumflex *I*/Hdotbelow *I*Í*I*/Ibreve *I*/Icaron *I*Î*I*/Idblgrave *I*Ï*I*/Idieresisacute *I*/Idotaccent *I*/Idotbelow *I*Ì*I*/Ihookabove *I*/Iinvertedbreve *I*/Imacron *I*/Itilde *I*/Jcircumflex *I*/Kcommaaccent *I*/LJ *I*/Lacute *I*/Lcommaaccent *I*/Ldotbelow *I*/Lj *I*/Llinebelow *I*/Mdotbelow *I*/NJ *I*/Nacute *I*/Ncaron *I*/Ncommaaccent *I*/Ndotaccent *I*/Ndotbelow *I*/Nj *I*/Nlinebelow *I*Ñ*I*Ó*I*/Obreve *I*Ô*I*/Ocircumflexacute *I*/Ocircumflexdotbelow *I*/Ocircumflexgrave *I*/Ocircumflexhookabove *I*/Ocircumflextilde *I*/Odblgrave *I*Ö*I*/Odieresismacron *I*/Odotaccentmacron *I*/Odotbelow *I*Ò*I*/Ohookabove *I*/Ohornacute *I*/Ohorndotbelow *I*/Ohorngrave *I*/Ohornhookabove *I*/Ohorntilde *I*/Ohungarumlaut *I*/Oinvertedbreve *I*/Omacron *I*/Omacronacute *I*/Omacrongrave *I*/Oslashacute *I*Õ*I*/Otildeacute *I*/Otildedieresis *I*/Otildemacron *I*/Racute *I*/Rcaron *I*/Rcommaaccent *I*/Rdblgrave *I*/Rdotbelow *I*/Rinvertedbreve *I*/Rlinebelow *I*/Sacute *I*/Sacutedotaccent *I*/Scaron *I*/Scarondotaccent *I*/Scedilla *I*/Scircumflex *I*/Scommaaccent *I*/Sdotaccent *I*/Sdotbelow *I*/Sdotbelowdotaccent *I*/Tcaron *I*/Tcedilla *I*/Tcommaaccent *I*/Tdotbelow *I*/Tlinebelow *I*Ú*I*/Ubreve *I*Û*I*/Udblgrave *I*Ü*I*/Udotbelow *I*Ù*I*/Uhookabove *I*/Uhornacute *I*/Uhorndotbelow *I*/Uhorngrave *I*/Uhornhookabove *I*/Uhorntilde *I*/Uhungarumlaut *I*/Uinvertedbreve *I*/Umacron *I*/Umacrondieresis *I*/Uring *I*/Utilde *I*/Utildeacute *I*/Wacute *I*/Wcircumflex *I*/Wdieresis *I*/Wgrave *I*Ý*I*/Ycircumflex *I*/Ydieresis *I*/Ydotaccent *I*/Ydotbelow *I*/Ygrave *I*/Yhookabove *I*/Ymacron *I*/Ytilde *I*/Zacute *I*/Zcaron *I*/Zdotaccent *I*/Zdotbelow *I*/Iacute_J.loclNLD \012*I*á*I*/abreve *I*/abreveacute *I*/abrevedotbelow *I*/abrevegrave *I*/abrevehookabove *I*/abrevetilde *I*â*I*/acircumflexacute *I*/acircumflexdotbelow *I*/acircumflexgrave *I*/acircumflexhookabove *I*/acircumflextilde *I*/adblgrave *I*ä*I*/adotaccent *I*/adotbelow *I*à*I*/ahookabove *I*/ainvertedbreve *I*/amacron *I*å*I*/aringacute *I*ã*I*/aeacute *I*/cacute *I*/ccaron *I*ç*I*/ccedillaacute *I*/ccircumflex *I*/cdotaccent *I*/ddotbelow *I*/dlinebelow *I*/dzcaron *I*é*I*/ebreve *I*/ecaron *I*/ecedillabreve *I*ê*I*/ecircumflexacute *I*/ecircumflexdotbelow *I*/ecircumflexgrave *I*/ecircumflexhookabove *I*/ecircumflextilde *I*/edblgrave *I*ë*I*/edotaccent *I*/edotbelow *I*è*I*/ehookabove *I*/einvertedbreve *I*/emacron *I*/emacronacute *I*/emacrongrave *I*/etilde *I*/gbreve *I*/gcaron *I*/gcircumflex *I*/gcommaaccent *I*/gdotaccent *I*/gmacron *I*/hbrevebelow *I*/hcircumflex *I*/hdotbelow *I*í*I*/ibreve *I*î*I*/idblgrave *I*ï*I*/idieresisacute *I*/idotaccent *I*/idotbelow *I*ì*I*/ihookabove *I*/iinvertedbreve *I*/imacron *I*/itilde *I*/jcircumflex *I*/kcommaaccent *I*/lacute *I*/lcommaaccent *I*/ldotbelow *I*/lj *I*/llinebelow *I*/mdotbelow *I*/nacute *I*/napostrophe *I*/ncaron *I*/ncommaaccent *I*/ndotaccent *I*/ndotbelow *I*/nj *I*/nlinebelow *I*ñ*I*ó*I*/obreve *I*ô*I*/ocircumflexacute *I*/ocircumflexdotbelow *I*/ocircumflexgrave *I*/ocircumflexhookabove *I*/ocircumflextilde *I*/odblgrave *I*ö*I*/odieresismacron *I*/odotaccentmacron *I*/odotbelow *I*ò*I*/ohookabove *I*/ohornacute *I*/ohorndotbelow *I*/ohorngrave *I*/ohornhookabove *I*/ohorntilde *I*/ohungarumlaut *I*/oinvertedbreve *I*/omacron *I*/omacronacute *I*/omacrongrave *I*/oslashacute *I*õ*I*/otildeacute *I*/otildedieresis *I*/otildemacron *I*/racute *I*/rcaron *I*/rcommaaccent *I*/rdblgrave *I*/rdotbelow *I*/rinvertedbreve *I*/rlinebelow *I*/sacute *I*/sacutedotaccent *I*/scaron *I*/scarondotaccent *I*/scedilla *I*/scircumflex *I*/scommaaccent *I*/sdotaccent *I*/sdotbelow *I*/sdotbelowdotaccent *I*/tcedilla *I*/tcommaaccent *I*/tdieresis *I*/tdotbelow *I*/tlinebelow *I*ú*I*/ubreve *I*û*I*/udblgrave *I*ü*I*/udotbelow *I*ù*I*/uhookabove *I*/uhornacute *I*/uhorndotbelow *I*/uhorngrave *I*/uhornhookabove *I*/uhorntilde *I*/uhungarumlaut *I*/uinvertedbreve *I*/umacron *I*/umacrondieresis *I*/uring *I*/utilde *I*/utildeacute *I*/wacute *I*/wcircumflex *I*/wdieresis *I*/wgrave *I*ý*I*/ycircumflex *I*/ydieresis *I*/ydotaccent *I*/ydotbelow *I*/ygrave *I*/yhookabove *I*/ymacron *I*/ytilde *I*/zacute *I*/zcaron *I*/zdotaccent *I*/zdotbelow *I*/iacute_j.loclNLD \012\012)I(Á)I(/Abreve )I(/Abreveacute )I(/Abrevedotbelow )I(/Abrevegrave )I(/Abrevehookabove )I(/Abrevetilde )I(Â)I(/Acircumflexacute )I(/Acircumflexdotbelow )I(/Acircumflexgrave )I(/Acircumflexhookabove )I(/Acircumflextilde )I(/Adblgrave )I(Ä)I(/Adotaccent )I(/Adotbelow )I(À)I(/Ahookabove )I(/Ainvertedbreve )I(/Amacron )I(Å)I(/Aringacute )I(Ã)I(/AEacute )I(/Cacute )I(/Ccaron )I(Ç)I(/Ccedillaacute )I(/Ccircumflex )I(/Cdotaccent )I(/DZcaron )I(/Dcaron )I(/Dcroat )I(/Ddotbelow )I(/Dlinebelow )I(/Dzcaron )I(É)I(/Ebreve )I(/Ecaron )I(/Ecedillabreve )I(Ê)I(/Ecircumflexacute )I(/Ecircumflexdotbelow )I(/Ecircumflexgrave )I(/Ecircumflexhookabove )I(/Ecircumflextilde )I(/Edblgrave )I(Ë)I(/Edotaccent )I(/Edotbelow )I(È)I(/Ehookabove )I(/Einvertedbreve )I(/Emacron )I(/Emacronacute )I(/Emacrongrave )I(/Etilde )I(/Gbreve )I(/Gcaron )I(/Gcircumflex )I(/Gcommaaccent )I(/Gdotaccent )I(/Gmacron )I(/Hbrevebelow )I(/Hcircumflex )I(/Hdotbelow )I(Í)I(/Ibreve )I(/Icaron )I(Î)I(/Idblgrave )I(Ï)I(/Idieresisacute )I(/Idotaccent )I(/Idotbelow )I(Ì)I(/Ihookabove )I(/Iinvertedbreve )I(/Imacron )I(/Itilde )I(/Jcircumflex )I(/Kcommaaccent )I(/LJ )I(/Lacute )I(/Lcommaaccent )I(/Ldotbelow )I(/Lj )I(/Llinebelow )I(/Mdotbelow )I(/NJ )I(/Nacute )I(/Ncaron )I(/Ncommaaccent )I(/Ndotaccent )I(/Ndotbelow )I(/Nj )I(/Nlinebelow )I(Ñ)I(Ó)I(/Obreve )I(Ô)I(/Ocircumflexacute )I(/Ocircumflexdotbelow )I(/Ocircumflexgrave )I(/Ocircumflexhookabove )I(/Ocircumflextilde )I(/Odblgrave )I(Ö)I(/Odieresismacron )I(/Odotaccentmacron )I(/Odotbelow )I(Ò)I(/Ohookabove )I(/Ohornacute )I(/Ohorndotbelow )I(/Ohorngrave )I(/Ohornhookabove )I(/Ohorntilde )I(/Ohungarumlaut )I(/Oinvertedbreve )I(/Omacron )I(/Omacronacute )I(/Omacrongrave )I(/Oslashacute )I(Õ)I(/Otildeacute )I(/Otildedieresis )I(/Otildemacron )I(/Racute )I(/Rcaron )I(/Rcommaaccent )I(/Rdblgrave )I(/Rdotbelow )I(/Rinvertedbreve )I(/Rlinebelow )I(/Sacute )I(/Sacutedotaccent )I(/Scaron )I(/Scarondotaccent )I(/Scedilla )I(/Scircumflex )I(/Scommaaccent )I(/Sdotaccent )I(/Sdotbelow )I(/Sdotbelowdotaccent )I(/Tcaron )I(/Tcedilla )I(/Tcommaaccent )I(/Tdotbelow )I(/Tlinebelow )I(Ú)I(/Ubreve )I(Û)I(/Udblgrave )I(Ü)I(/Udotbelow )I(Ù)I(/Uhookabove )I(/Uhornacute )I(/Uhorndotbelow )I(/Uhorngrave )I(/Uhornhookabove )I(/Uhorntilde )I(/Uhungarumlaut )I(/Uinvertedbreve )I(/Umacron )I(/Umacrondieresis )I(/Uring )I(/Utilde )I(/Utildeacute )I(/Wacute )I(/Wcircumflex )I(/Wdieresis )I(/Wgrave )I(Ý)I(/Ycircumflex )I(/Ydieresis )I(/Ydotaccent )I(/Ydotbelow )I(/Ygrave )I(/Yhookabove )I(/Ymacron )I(/Ytilde )I(/Zacute )I(/Zcaron )I(/Zdotaccent )I(/Zdotbelow )I(/Iacute_J.loclNLD \012)I(á)I(/abreve )I(/abreveacute )I(/abrevedotbelow )I(/abrevegrave )I(/abrevehookabove )I(/abrevetilde )I(â)I(/acircumflexacute )I(/acircumflexdotbelow )I(/acircumflexgrave )I(/acircumflexhookabove )I(/acircumflextilde )I(/adblgrave )I(ä)I(/adotaccent )I(/adotbelow )I(à)I(/ahookabove )I(/ainvertedbreve )I(/amacron )I(å)I(/aringacute )I(ã)I(/aeacute )I(/cacute )I(/ccaron )I(ç)I(/ccedillaacute )I(/ccircumflex )I(/cdotaccent )I(/ddotbelow )I(/dlinebelow )I(/dzcaron )I(é)I(/ebreve )I(/ecaron )I(/ecedillabreve )I(ê)I(/ecircumflexacute )I(/ecircumflexdotbelow )I(/ecircumflexgrave )I(/ecircumflexhookabove )I(/ecircumflextilde )I(/edblgrave )I(ë)I(/edotaccent )I(/edotbelow )I(è)I(/ehookabove )I(/einvertedbreve )I(/emacron )I(/emacronacute )I(/emacrongrave )I(/etilde )I(/gbreve )I(/gcaron )I(/gcircumflex )I(/gcommaaccent )I(/gdotaccent )I(/gmacron )I(/hbrevebelow )I(/hcircumflex )I(/hdotbelow )I(í)I(/ibreve )I(î)I(/idblgrave )I(ï)I(/idieresisacute )I(/idotaccent )I(/idotbelow )I(ì)I(/ihookabove )I(/iinvertedbreve )I(/imacron )I(/itilde )I(/jcircumflex )I(/kcommaaccent )I(/lacute )I(/lcommaaccent )I(/ldotbelow )I(/lj )I(/llinebelow )I(/mdotbelow )I(/nacute )I(/napostrophe )I(/ncaron )I(/ncommaaccent )I(/ndotaccent )I(/ndotbelow )I(/nj )I(/nlinebelow )I(ñ)I(ó)I(/obreve )I(ô)I(/ocircumflexacute )I(/ocircumflexdotbelow )I(/ocircumflexgrave )I(/ocircumflexhookabove )I(/ocircumflextilde )I(/odblgrave )I(ö)I(/odieresismacron )I(/odotaccentmacron )I(/odotbelow )I(ò)I(/ohookabove )I(/ohornacute )I(/ohorndotbelow )I(/ohorngrave )I(/ohornhookabove )I(/ohorntilde )I(/ohungarumlaut )I(/oinvertedbreve )I(/omacron )I(/omacronacute )I(/omacrongrave )I(/oslashacute )I(õ)I(/otildeacute )I(/otildedieresis )I(/otildemacron )I(/racute )I(/rcaron )I(/rcommaaccent )I(/rdblgrave )I(/rdotbelow )I(/rinvertedbreve )I(/rlinebelow )I(/sacute )I(/sacutedotaccent )I(/scaron )I(/scarondotaccent )I(/scedilla )I(/scircumflex )I(/scommaaccent )I(/sdotaccent )I(/sdotbelow )I(/sdotbelowdotaccent )I(/tcedilla )I(/tcommaaccent )I(/tdieresis )I(/tdotbelow )I(/tlinebelow )I(ú)I(/ubreve )I(û)I(/udblgrave )I(ü)I(/udotbelow )I(ù)I(/uhookabove )I(/uhornacute )I(/uhorndotbelow )I(/uhorngrave )I(/uhornhookabove )I(/uhorntilde )I(/uhungarumlaut )I(/uinvertedbreve )I(/umacron )I(/umacrondieresis )I(/uring )I(/utilde )I(/utildeacute )I(/wacute )I(/wcircumflex )I(/wdieresis )I(/wgrave )I(ý)I(/ycircumflex )I(/ydieresis )I(/ydotaccent )I(/ydotbelow )I(/ygrave )I(/yhookabove )I(/ymacron )I(/ytilde )I(/zacute )I(/zcaron )I(/zdotaccent )I(/zdotbelow )I(/iacute_j.loclNLD \012\012}I{Á}I{/Abreve }I{/Abreveacute }I{/Abrevedotbelow }I{/Abrevegrave }I{/Abrevehookabove }I{/Abrevetilde }I{Â}I{/Acircumflexacute }I{/Acircumflexdotbelow }I{/Acircumflexgrave }I{/Acircumflexhookabove }I{/Acircumflextilde }I{/Adblgrave }I{Ä}I{/Adotaccent }I{/Adotbelow }I{À}I{/Ahookabove }I{/Ainvertedbreve }I{/Amacron }I{Å}I{/Aringacute }I{Ã}I{/AEacute }I{/Cacute }I{/Ccaron }I{Ç}I{/Ccedillaacute }I{/Ccircumflex }I{/Cdotaccent }I{/DZcaron }I{/Dcaron }I{/Dcroat }I{/Ddotbelow }I{/Dlinebelow }I{/Dzcaron }I{É}I{/Ebreve }I{/Ecaron }I{/Ecedillabreve }I{Ê}I{/Ecircumflexacute }I{/Ecircumflexdotbelow }I{/Ecircumflexgrave }I{/Ecircumflexhookabove }I{/Ecircumflextilde }I{/Edblgrave }I{Ë}I{/Edotaccent }I{/Edotbelow }I{È}I{/Ehookabove }I{/Einvertedbreve }I{/Emacron }I{/Emacronacute }I{/Emacrongrave }I{/Etilde }I{/Gbreve }I{/Gcaron }I{/Gcircumflex }I{/Gcommaaccent }I{/Gdotaccent }I{/Gmacron }I{/Hbrevebelow }I{/Hcircumflex }I{/Hdotbelow }I{Í}I{/Ibreve }I{/Icaron }I{Î}I{/Idblgrave }I{Ï}I{/Idieresisacute }I{/Idotaccent }I{/Idotbelow }I{Ì}I{/Ihookabove }I{/Iinvertedbreve }I{/Imacron }I{/Itilde }I{/Jcircumflex }I{/Kcommaaccent }I{/LJ }I{/Lacute }I{/Lcommaaccent }I{/Ldotbelow }I{/Lj }I{/Llinebelow }I{/Mdotbelow }I{/NJ }I{/Nacute }I{/Ncaron }I{/Ncommaaccent }I{/Ndotaccent }I{/Ndotbelow }I{/Nj }I{/Nlinebelow }I{Ñ}I{Ó}I{/Obreve }I{Ô}I{/Ocircumflexacute }I{/Ocircumflexdotbelow }I{/Ocircumflexgrave }I{/Ocircumflexhookabove }I{/Ocircumflextilde }I{/Odblgrave }I{Ö}I{/Odieresismacron }I{/Odotaccentmacron }I{/Odotbelow }I{Ò}I{/Ohookabove }I{/Ohornacute }I{/Ohorndotbelow }I{/Ohorngrave }I{/Ohornhookabove }I{/Ohorntilde }I{/Ohungarumlaut }I{/Oinvertedbreve }I{/Omacron }I{/Omacronacute }I{/Omacrongrave }I{/Oslashacute }I{Õ}I{/Otildeacute }I{/Otildedieresis }I{/Otildemacron }I{/Racute }I{/Rcaron }I{/Rcommaaccent }I{/Rdblgrave }I{/Rdotbelow }I{/Rinvertedbreve }I{/Rlinebelow }I{/Sacute }I{/Sacutedotaccent }I{/Scaron }I{/Scarondotaccent }I{/Scedilla }I{/Scircumflex }I{/Scommaaccent }I{/Sdotaccent }I{/Sdotbelow }I{/Sdotbelowdotaccent }I{/Tcaron }I{/Tcedilla }I{/Tcommaaccent }I{/Tdotbelow }I{/Tlinebelow }I{Ú}I{/Ubreve }I{Û}I{/Udblgrave }I{Ü}I{/Udotbelow }I{Ù}I{/Uhookabove }I{/Uhornacute }I{/Uhorndotbelow }I{/Uhorngrave }I{/Uhornhookabove }I{/Uhorntilde }I{/Uhungarumlaut }I{/Uinvertedbreve }I{/Umacron }I{/Umacrondieresis }I{/Uring }I{/Utilde }I{/Utildeacute }I{/Wacute }I{/Wcircumflex }I{/Wdieresis }I{/Wgrave }I{Ý}I{/Ycircumflex }I{/Ydieresis }I{/Ydotaccent }I{/Ydotbelow }I{/Ygrave }I{/Yhookabove }I{/Ymacron }I{/Ytilde }I{/Zacute }I{/Zcaron }I{/Zdotaccent }I{/Zdotbelow }I{/Iacute_J.loclNLD \012}I{á}I{/abreve }I{/abreveacute }I{/abrevedotbelow }I{/abrevegrave }I{/abrevehookabove }I{/abrevetilde }I{â}I{/acircumflexacute }I{/acircumflexdotbelow }I{/acircumflexgrave }I{/acircumflexhookabove }I{/acircumflextilde }I{/adblgrave }I{ä}I{/adotaccent }I{/adotbelow }I{à}I{/ahookabove }I{/ainvertedbreve }I{/amacron }I{å}I{/aringacute }I{ã}I{/aeacute }I{/cacute }I{/ccaron }I{ç}I{/ccedillaacute }I{/ccircumflex }I{/cdotaccent }I{/ddotbelow }I{/dlinebelow }I{/dzcaron }I{é}I{/ebreve }I{/ecaron }I{/ecedillabreve }I{ê}I{/ecircumflexacute }I{/ecircumflexdotbelow }I{/ecircumflexgrave }I{/ecircumflexhookabove }I{/ecircumflextilde }I{/edblgrave }I{ë}I{/edotaccent }I{/edotbelow }I{è}I{/ehookabove }I{/einvertedbreve }I{/emacron }I{/emacronacute }I{/emacrongrave }I{/etilde }I{/gbreve }I{/gcaron }I{/gcircumflex }I{/gcommaaccent }I{/gdotaccent }I{/gmacron }I{/hbrevebelow }I{/hcircumflex }I{/hdotbelow }I{í}I{/ibreve }I{î}I{/idblgrave }I{ï}I{/idieresisacute }I{/idotaccent }I{/idotbelow }I{ì}I{/ihookabove }I{/iinvertedbreve }I{/imacron }I{/itilde }I{/jcircumflex }I{/kcommaaccent }I{/lacute }I{/lcommaaccent }I{/ldotbelow }I{/lj }I{/llinebelow }I{/mdotbelow }I{/nacute }I{/napostrophe }I{/ncaron }I{/ncommaaccent }I{/ndotaccent }I{/ndotbelow }I{/nj }I{/nlinebelow }I{ñ}I{ó}I{/obreve }I{ô}I{/ocircumflexacute }I{/ocircumflexdotbelow }I{/ocircumflexgrave }I{/ocircumflexhookabove }I{/ocircumflextilde }I{/odblgrave }I{ö}I{/odieresismacron }I{/odotaccentmacron }I{/odotbelow }I{ò}I{/ohookabove }I{/ohornacute }I{/ohorndotbelow }I{/ohorngrave }I{/ohornhookabove }I{/ohorntilde }I{/ohungarumlaut }I{/oinvertedbreve }I{/omacron }I{/omacronacute }I{/omacrongrave }I{/oslashacute }I{õ}I{/otildeacute }I{/otildedieresis }I{/otildemacron }I{/racute }I{/rcaron }I{/rcommaaccent }I{/rdblgrave }I{/rdotbelow }I{/rinvertedbreve }I{/rlinebelow }I{/sacute }I{/sacutedotaccent }I{/scaron }I{/scarondotaccent }I{/scedilla }I{/scircumflex }I{/scommaaccent }I{/sdotaccent }I{/sdotbelow }I{/sdotbelowdotaccent }I{/tcedilla }I{/tcommaaccent }I{/tdieresis }I{/tdotbelow }I{/tlinebelow }I{ú}I{/ubreve }I{û}I{/udblgrave }I{ü}I{/udotbelow }I{ù}I{/uhookabove }I{/uhornacute }I{/uhorndotbelow }I{/uhorngrave }I{/uhornhookabove }I{/uhorntilde }I{/uhungarumlaut }I{/uinvertedbreve }I{/umacron }I{/umacrondieresis }I{/uring }I{/utilde }I{/utildeacute }I{/wacute }I{/wcircumflex }I{/wdieresis }I{/wgrave }I{ý}I{/ycircumflex }I{/ydieresis }I{/ydotaccent }I{/ydotbelow }I{/ygrave }I{/yhookabove }I{/ymacron }I{/ytilde }I{/zacute }I{/zcaron }I{/zdotaccent }I{/zdotbelow }I{/iacute_j.loclNLD \012\012/quotedblleft I/quotedblleft Á/quotedblleft I/quotedblleft/Abreve/quotedblleft I/quotedblleft/Abreveacute/quotedblleft I/quotedblleft/Abrevedotbelow/quotedblleft I/quotedblleft/Abrevegrave/quotedblleft I/quotedblleft/Abrevehookabove/quotedblleft I/quotedblleft/Abrevetilde/quotedblleft I/quotedblleft Â/quotedblleft I/quotedblleft/Acircumflexacute/quotedblleft I/quotedblleft/Acircumflexdotbelow/quotedblleft I/quotedblleft/Acircumflexgrave/quotedblleft I/quotedblleft/Acircumflexhookabove/quotedblleft I/quotedblleft/Acircumflextilde/quotedblleft I/quotedblleft/Adblgrave/quotedblleft I/quotedblleft Ä/quotedblleft I/quotedblleft/Adotaccent/quotedblleft I/quotedblleft/Adotbelow/quotedblleft I/quotedblleft À/quotedblleft I/quotedblleft/Ahookabove/quotedblleft I/quotedblleft/Ainvertedbreve/quotedblleft I/quotedblleft/Amacron/quotedblleft I/quotedblleft Å/quotedblleft I/quotedblleft/Aringacute/quotedblleft I/quotedblleft Ã/quotedblleft I/quotedblleft/AEacute/quotedblleft I/quotedblleft/Cacute/quotedblleft I/quotedblleft/Ccaron/quotedblleft I/quotedblleft Ç/quotedblleft I/quotedblleft/Ccedillaacute/quotedblleft I/quotedblleft/Ccircumflex/quotedblleft I/quotedblleft/Cdotaccent/quotedblleft I/quotedblleft/DZcaron/quotedblleft I/quotedblleft/Dcaron/quotedblleft I/quotedblleft/Dcroat/quotedblleft I/quotedblleft/Ddotbelow/quotedblleft I/quotedblleft/Dlinebelow/quotedblleft I/quotedblleft/Dzcaron/quotedblleft I/quotedblleft É/quotedblleft I/quotedblleft/Ebreve/quotedblleft I/quotedblleft/Ecaron/quotedblleft I/quotedblleft/Ecedillabreve/quotedblleft I/quotedblleft Ê/quotedblleft I/quotedblleft/Ecircumflexacute/quotedblleft I/quotedblleft/Ecircumflexdotbelow/quotedblleft I/quotedblleft/Ecircumflexgrave/quotedblleft I/quotedblleft/Ecircumflexhookabove/quotedblleft I/quotedblleft/Ecircumflextilde/quotedblleft I/quotedblleft/Edblgrave/quotedblleft I/quotedblleft Ë/quotedblleft I/quotedblleft/Edotaccent/quotedblleft I/quotedblleft/Edotbelow/quotedblleft I/quotedblleft È/quotedblleft I/quotedblleft/Ehookabove/quotedblleft I/quotedblleft/Einvertedbreve/quotedblleft I/quotedblleft/Emacron/quotedblleft I/quotedblleft/Emacronacute/quotedblleft I/quotedblleft/Emacrongrave/quotedblleft I/quotedblleft/Etilde/quotedblleft I/quotedblleft/Gbreve/quotedblleft I/quotedblleft/Gcaron/quotedblleft I/quotedblleft/Gcircumflex/quotedblleft I/quotedblleft/Gcommaaccent/quotedblleft I/quotedblleft/Gdotaccent/quotedblleft I/quotedblleft/Gmacron/quotedblleft I/quotedblleft/Hbrevebelow/quotedblleft I/quotedblleft/Hcircumflex/quotedblleft I/quotedblleft/Hdotbelow/quotedblleft I/quotedblleft Í/quotedblleft I/quotedblleft/Ibreve/quotedblleft I/quotedblleft/Icaron/quotedblleft I/quotedblleft Î/quotedblleft I/quotedblleft/Idblgrave/quotedblleft I/quotedblleft Ï/quotedblleft I/quotedblleft/Idieresisacute/quotedblleft I/quotedblleft/Idotaccent/quotedblleft I/quotedblleft/Idotbelow/quotedblleft I/quotedblleft Ì/quotedblleft I/quotedblleft/Ihookabove/quotedblleft I/quotedblleft/Iinvertedbreve/quotedblleft I/quotedblleft/Imacron/quotedblleft I/quotedblleft/Itilde/quotedblleft I/quotedblleft/Jcircumflex/quotedblleft I/quotedblleft/Kcommaaccent/quotedblleft I/quotedblleft/LJ/quotedblleft I/quotedblleft/Lacute/quotedblleft I/quotedblleft/Lcommaaccent/quotedblleft I/quotedblleft/Ldotbelow/quotedblleft I/quotedblleft/Lj/quotedblleft I/quotedblleft/Llinebelow/quotedblleft I/quotedblleft/Mdotbelow/quotedblleft I/quotedblleft/NJ/quotedblleft I/quotedblleft/Nacute/quotedblleft I/quotedblleft/Ncaron/quotedblleft I/quotedblleft/Ncommaaccent/quotedblleft I/quotedblleft/Ndotaccent/quotedblleft I/quotedblleft/Ndotbelow/quotedblleft I/quotedblleft/Nj/quotedblleft I/quotedblleft/Nlinebelow/quotedblleft I/quotedblleft Ñ/quotedblleft I/quotedblleft Ó/quotedblleft I/quotedblleft/Obreve/quotedblleft I/quotedblleft Ô/quotedblleft I/quotedblleft/Ocircumflexacute/quotedblleft I/quotedblleft/Ocircumflexdotbelow/quotedblleft I/quotedblleft/Ocircumflexgrave/quotedblleft I/quotedblleft/Ocircumflexhookabove/quotedblleft I/quotedblleft/Ocircumflextilde/quotedblleft I/quotedblleft/Odblgrave/quotedblleft I/quotedblleft Ö/quotedblleft I/quotedblleft/Odieresismacron/quotedblleft I/quotedblleft/Odotaccentmacron/quotedblleft I/quotedblleft/Odotbelow/quotedblleft I/quotedblleft Ò/quotedblleft I/quotedblleft/Ohookabove/quotedblleft I/quotedblleft/Ohornacute/quotedblleft I/quotedblleft/Ohorndotbelow/quotedblleft I/quotedblleft/Ohorngrave/quotedblleft I/quotedblleft/Ohornhookabove/quotedblleft I/quotedblleft/Ohorntilde/quotedblleft I/quotedblleft/Ohungarumlaut/quotedblleft I/quotedblleft/Oinvertedbreve/quotedblleft I/quotedblleft/Omacron/quotedblleft I/quotedblleft/Omacronacute/quotedblleft I/quotedblleft/Omacrongrave/quotedblleft I/quotedblleft/Oslashacute/quotedblleft I/quotedblleft Õ/quotedblleft I/quotedblleft/Otildeacute/quotedblleft I/quotedblleft/Otildedieresis/quotedblleft I/quotedblleft/Otildemacron/quotedblleft I/quotedblleft/Racute/quotedblleft I/quotedblleft/Rcaron/quotedblleft I/quotedblleft/Rcommaaccent/quotedblleft I/quotedblleft/Rdblgrave/quotedblleft I/quotedblleft/Rdotbelow/quotedblleft I/quotedblleft/Rinvertedbreve/quotedblleft I/quotedblleft/Rlinebelow/quotedblleft I/quotedblleft/Sacute/quotedblleft I/quotedblleft/Sacutedotaccent/quotedblleft I/quotedblleft/Scaron/quotedblleft I/quotedblleft/Scarondotaccent/quotedblleft I/quotedblleft/Scedilla/quotedblleft I/quotedblleft/Scircumflex/quotedblleft I/quotedblleft/Scommaaccent/quotedblleft I/quotedblleft/Sdotaccent/quotedblleft I/quotedblleft/Sdotbelow/quotedblleft I/quotedblleft/Sdotbelowdotaccent/quotedblleft I/quotedblleft/Tcaron/quotedblleft I/quotedblleft/Tcedilla/quotedblleft I/quotedblleft/Tcommaaccent/quotedblleft I/quotedblleft/Tdotbelow/quotedblleft I/quotedblleft/Tlinebelow/quotedblleft I/quotedblleft Ú/quotedblleft I/quotedblleft/Ubreve/quotedblleft I/quotedblleft Û/quotedblleft I/quotedblleft/Udblgrave/quotedblleft I/quotedblleft Ü/quotedblleft I/quotedblleft/Udotbelow/quotedblleft I/quotedblleft Ù/quotedblleft I/quotedblleft/Uhookabove/quotedblleft I/quotedblleft/Uhornacute/quotedblleft I/quotedblleft/Uhorndotbelow/quotedblleft I/quotedblleft/Uhorngrave/quotedblleft I/quotedblleft/Uhornhookabove/quotedblleft I/quotedblleft/Uhorntilde/quotedblleft I/quotedblleft/Uhungarumlaut/quotedblleft I/quotedblleft/Uinvertedbreve/quotedblleft I/quotedblleft/Umacron/quotedblleft I/quotedblleft/Umacrondieresis/quotedblleft I/quotedblleft/Uring/quotedblleft I/quotedblleft/Utilde/quotedblleft I/quotedblleft/Utildeacute/quotedblleft I/quotedblleft/Wacute/quotedblleft I/quotedblleft/Wcircumflex/quotedblleft I/quotedblleft/Wdieresis/quotedblleft I/quotedblleft/Wgrave/quotedblleft I/quotedblleft Ý/quotedblleft I/quotedblleft/Ycircumflex/quotedblleft I/quotedblleft/Ydieresis/quotedblleft I/quotedblleft/Ydotaccent/quotedblleft I/quotedblleft/Ydotbelow/quotedblleft I/quotedblleft/Ygrave/quotedblleft I/quotedblleft/Yhookabove/quotedblleft I/quotedblleft/Ymacron/quotedblleft I/quotedblleft/Ytilde/quotedblleft I/quotedblleft/Zacute/quotedblleft I/quotedblleft/Zcaron/quotedblleft I/quotedblleft/Zdotaccent/quotedblleft I/quotedblleft/Zdotbelow/quotedblleft I/quotedblleft/Iacute_J.loclNLD \012/quotedblleft I/quotedblleft á/quotedblleft I/quotedblleft/abreve/quotedblleft I/quotedblleft/abreveacute/quotedblleft I/quotedblleft/abrevedotbelow/quotedblleft I/quotedblleft/abrevegrave/quotedblleft I/quotedblleft/abrevehookabove/quotedblleft I/quotedblleft/abrevetilde/quotedblleft I/quotedblleft â/quotedblleft I/quotedblleft/acircumflexacute/quotedblleft I/quotedblleft/acircumflexdotbelow/quotedblleft I/quotedblleft/acircumflexgrave/quotedblleft I/quotedblleft/acircumflexhookabove/quotedblleft I/quotedblleft/acircumflextilde/quotedblleft I/quotedblleft/adblgrave/quotedblleft I/quotedblleft ä/quotedblleft I/quotedblleft/adotaccent/quotedblleft I/quotedblleft/adotbelow/quotedblleft I/quotedblleft à/quotedblleft I/quotedblleft/ahookabove/quotedblleft I/quotedblleft/ainvertedbreve/quotedblleft I/quotedblleft/amacron/quotedblleft I/quotedblleft å/quotedblleft I/quotedblleft/aringacute/quotedblleft I/quotedblleft ã/quotedblleft I/quotedblleft/aeacute/quotedblleft I/quotedblleft/cacute/quotedblleft I/quotedblleft/ccaron/quotedblleft I/quotedblleft ç/quotedblleft I/quotedblleft/ccedillaacute/quotedblleft I/quotedblleft/ccircumflex/quotedblleft I/quotedblleft/cdotaccent/quotedblleft I/quotedblleft/ddotbelow/quotedblleft I/quotedblleft/dlinebelow/quotedblleft I/quotedblleft/dzcaron/quotedblleft I/quotedblleft é/quotedblleft I/quotedblleft/ebreve/quotedblleft I/quotedblleft/ecaron/quotedblleft I/quotedblleft/ecedillabreve/quotedblleft I/quotedblleft ê/quotedblleft I/quotedblleft/ecircumflexacute/quotedblleft I/quotedblleft/ecircumflexdotbelow/quotedblleft I/quotedblleft/ecircumflexgrave/quotedblleft I/quotedblleft/ecircumflexhookabove/quotedblleft I/quotedblleft/ecircumflextilde/quotedblleft I/quotedblleft/edblgrave/quotedblleft I/quotedblleft ë/quotedblleft I/quotedblleft/edotaccent/quotedblleft I/quotedblleft/edotbelow/quotedblleft I/quotedblleft è/quotedblleft I/quotedblleft/ehookabove/quotedblleft I/quotedblleft/einvertedbreve/quotedblleft I/quotedblleft/emacron/quotedblleft I/quotedblleft/emacronacute/quotedblleft I/quotedblleft/emacrongrave/quotedblleft I/quotedblleft/etilde/quotedblleft I/quotedblleft/gbreve/quotedblleft I/quotedblleft/gcaron/quotedblleft I/quotedblleft/gcircumflex/quotedblleft I/quotedblleft/gcommaaccent/quotedblleft I/quotedblleft/gdotaccent/quotedblleft I/quotedblleft/gmacron/quotedblleft I/quotedblleft/hbrevebelow/quotedblleft I/quotedblleft/hcircumflex/quotedblleft I/quotedblleft/hdotbelow/quotedblleft I/quotedblleft í/quotedblleft I/quotedblleft/ibreve/quotedblleft I/quotedblleft î/quotedblleft I/quotedblleft/idblgrave/quotedblleft I/quotedblleft ï/quotedblleft I/quotedblleft/idieresisacute/quotedblleft I/quotedblleft/idotaccent/quotedblleft I/quotedblleft/idotbelow/quotedblleft I/quotedblleft ì/quotedblleft I/quotedblleft/ihookabove/quotedblleft I/quotedblleft/iinvertedbreve/quotedblleft I/quotedblleft/imacron/quotedblleft I/quotedblleft/itilde/quotedblleft I/quotedblleft/jcircumflex/quotedblleft I/quotedblleft/kcommaaccent/quotedblleft I/quotedblleft/lacute/quotedblleft I/quotedblleft/lcommaaccent/quotedblleft I/quotedblleft/ldotbelow/quotedblleft I/quotedblleft/lj/quotedblleft I/quotedblleft/llinebelow/quotedblleft I/quotedblleft/mdotbelow/quotedblleft I/quotedblleft/nacute/quotedblleft I/quotedblleft/napostrophe/quotedblleft I/quotedblleft/ncaron/quotedblleft I/quotedblleft/ncommaaccent/quotedblleft I/quotedblleft/ndotaccent/quotedblleft I/quotedblleft/ndotbelow/quotedblleft I/quotedblleft/nj/quotedblleft I/quotedblleft/nlinebelow/quotedblleft I/quotedblleft ñ/quotedblleft I/quotedblleft ó/quotedblleft I/quotedblleft/obreve/quotedblleft I/quotedblleft ô/quotedblleft I/quotedblleft/ocircumflexacute/quotedblleft I/quotedblleft/ocircumflexdotbelow/quotedblleft I/quotedblleft/ocircumflexgrave/quotedblleft I/quotedblleft/ocircumflexhookabove/quotedblleft I/quotedblleft/ocircumflextilde/quotedblleft I/quotedblleft/odblgrave/quotedblleft I/quotedblleft ö/quotedblleft I/quotedblleft/odieresismacron/quotedblleft I/quotedblleft/odotaccentmacron/quotedblleft I/quotedblleft/odotbelow/quotedblleft I/quotedblleft ò/quotedblleft I/quotedblleft/ohookabove/quotedblleft I/quotedblleft/ohornacute/quotedblleft I/quotedblleft/ohorndotbelow/quotedblleft I/quotedblleft/ohorngrave/quotedblleft I/quotedblleft/ohornhookabove/quotedblleft I/quotedblleft/ohorntilde/quotedblleft I/quotedblleft/ohungarumlaut/quotedblleft I/quotedblleft/oinvertedbreve/quotedblleft I/quotedblleft/omacron/quotedblleft I/quotedblleft/omacronacute/quotedblleft I/quotedblleft/omacrongrave/quotedblleft I/quotedblleft/oslashacute/quotedblleft I/quotedblleft õ/quotedblleft I/quotedblleft/otildeacute/quotedblleft I/quotedblleft/otildedieresis/quotedblleft I/quotedblleft/otildemacron/quotedblleft I/quotedblleft/racute/quotedblleft I/quotedblleft/rcaron/quotedblleft I/quotedblleft/rcommaaccent/quotedblleft I/quotedblleft/rdblgrave/quotedblleft I/quotedblleft/rdotbelow/quotedblleft I/quotedblleft/rinvertedbreve/quotedblleft I/quotedblleft/rlinebelow/quotedblleft I/quotedblleft/sacute/quotedblleft I/quotedblleft/sacutedotaccent/quotedblleft I/quotedblleft/scaron/quotedblleft I/quotedblleft/scarondotaccent/quotedblleft I/quotedblleft/scedilla/quotedblleft I/quotedblleft/scircumflex/quotedblleft I/quotedblleft/scommaaccent/quotedblleft I/quotedblleft/sdotaccent/quotedblleft I/quotedblleft/sdotbelow/quotedblleft I/quotedblleft/sdotbelowdotaccent/quotedblleft I/quotedblleft/tcedilla/quotedblleft I/quotedblleft/tcommaaccent/quotedblleft I/quotedblleft/tdieresis/quotedblleft I/quotedblleft/tdotbelow/quotedblleft I/quotedblleft/tlinebelow/quotedblleft I/quotedblleft ú/quotedblleft I/quotedblleft/ubreve/quotedblleft I/quotedblleft û/quotedblleft I/quotedblleft/udblgrave/quotedblleft I/quotedblleft ü/quotedblleft I/quotedblleft/udotbelow/quotedblleft I/quotedblleft ù/quotedblleft I/quotedblleft/uhookabove/quotedblleft I/quotedblleft/uhornacute/quotedblleft I/quotedblleft/uhorndotbelow/quotedblleft I/quotedblleft/uhorngrave/quotedblleft I/quotedblleft/uhornhookabove/quotedblleft I/quotedblleft/uhorntilde/quotedblleft I/quotedblleft/uhungarumlaut/quotedblleft I/quotedblleft/uinvertedbreve/quotedblleft I/quotedblleft/umacron/quotedblleft I/quotedblleft/umacrondieresis/quotedblleft I/quotedblleft/uring/quotedblleft I/quotedblleft/utilde/quotedblleft I/quotedblleft/utildeacute/quotedblleft I/quotedblleft/wacute/quotedblleft I/quotedblleft/wcircumflex/quotedblleft I/quotedblleft/wdieresis/quotedblleft I/quotedblleft/wgrave/quotedblleft I/quotedblleft ý/quotedblleft I/quotedblleft/ycircumflex/quotedblleft I/quotedblleft/ydieresis/quotedblleft I/quotedblleft/ydotaccent/quotedblleft I/quotedblleft/ydotbelow/quotedblleft I/quotedblleft/ygrave/quotedblleft I/quotedblleft/yhookabove/quotedblleft I/quotedblleft/ymacron/quotedblleft I/quotedblleft/ytilde/quotedblleft I/quotedblleft/zacute/quotedblleft I/quotedblleft/zcaron/quotedblleft I/quotedblleft/zdotaccent/quotedblleft I/quotedblleft/zdotbelow/quotedblleft I/quotedblleft/iacute_j.loclNLD \012\012/quotedblright I/quotedblright Á/quotedblright I/quotedblright/Abreve/quotedblright I/quotedblright/Abreveacute/quotedblright I/quotedblright/Abrevedotbelow/quotedblright I/quotedblright/Abrevegrave/quotedblright I/quotedblright/Abrevehookabove/quotedblright I/quotedblright/Abrevetilde/quotedblright I/quotedblright Â/quotedblright I/quotedblright/Acircumflexacute/quotedblright I/quotedblright/Acircumflexdotbelow/quotedblright I/quotedblright/Acircumflexgrave/quotedblright I/quotedblright/Acircumflexhookabove/quotedblright I/quotedblright/Acircumflextilde/quotedblright I/quotedblright/Adblgrave/quotedblright I/quotedblright Ä/quotedblright I/quotedblright/Adotaccent/quotedblright I/quotedblright/Adotbelow/quotedblright I/quotedblright À/quotedblright I/quotedblright/Ahookabove/quotedblright I/quotedblright/Ainvertedbreve/quotedblright I/quotedblright/Amacron/quotedblright I/quotedblright Å/quotedblright I/quotedblright/Aringacute/quotedblright I/quotedblright Ã/quotedblright I/quotedblright/AEacute/quotedblright I/quotedblright/Cacute/quotedblright I/quotedblright/Ccaron/quotedblright I/quotedblright Ç/quotedblright I/quotedblright/Ccedillaacute/quotedblright I/quotedblright/Ccircumflex/quotedblright I/quotedblright/Cdotaccent/quotedblright I/quotedblright/DZcaron/quotedblright I/quotedblright/Dcaron/quotedblright I/quotedblright/Dcroat/quotedblright I/quotedblright/Ddotbelow/quotedblright I/quotedblright/Dlinebelow/quotedblright I/quotedblright/Dzcaron/quotedblright I/quotedblright É/quotedblright I/quotedblright/Ebreve/quotedblright I/quotedblright/Ecaron/quotedblright I/quotedblright/Ecedillabreve/quotedblright I/quotedblright Ê/quotedblright I/quotedblright/Ecircumflexacute/quotedblright I/quotedblright/Ecircumflexdotbelow/quotedblright I/quotedblright/Ecircumflexgrave/quotedblright I/quotedblright/Ecircumflexhookabove/quotedblright I/quotedblright/Ecircumflextilde/quotedblright I/quotedblright/Edblgrave/quotedblright I/quotedblright Ë/quotedblright I/quotedblright/Edotaccent/quotedblright I/quotedblright/Edotbelow/quotedblright I/quotedblright È/quotedblright I/quotedblright/Ehookabove/quotedblright I/quotedblright/Einvertedbreve/quotedblright I/quotedblright/Emacron/quotedblright I/quotedblright/Emacronacute/quotedblright I/quotedblright/Emacrongrave/quotedblright I/quotedblright/Etilde/quotedblright I/quotedblright/Gbreve/quotedblright I/quotedblright/Gcaron/quotedblright I/quotedblright/Gcircumflex/quotedblright I/quotedblright/Gcommaaccent/quotedblright I/quotedblright/Gdotaccent/quotedblright I/quotedblright/Gmacron/quotedblright I/quotedblright/Hbrevebelow/quotedblright I/quotedblright/Hcircumflex/quotedblright I/quotedblright/Hdotbelow/quotedblright I/quotedblright Í/quotedblright I/quotedblright/Ibreve/quotedblright I/quotedblright/Icaron/quotedblright I/quotedblright Î/quotedblright I/quotedblright/Idblgrave/quotedblright I/quotedblright Ï/quotedblright I/quotedblright/Idieresisacute/quotedblright I/quotedblright/Idotaccent/quotedblright I/quotedblright/Idotbelow/quotedblright I/quotedblright Ì/quotedblright I/quotedblright/Ihookabove/quotedblright I/quotedblright/Iinvertedbreve/quotedblright I/quotedblright/Imacron/quotedblright I/quotedblright/Itilde/quotedblright I/quotedblright/Jcircumflex/quotedblright I/quotedblright/Kcommaaccent/quotedblright I/quotedblright/LJ/quotedblright I/quotedblright/Lacute/quotedblright I/quotedblright/Lcommaaccent/quotedblright I/quotedblright/Ldotbelow/quotedblright I/quotedblright/Lj/quotedblright I/quotedblright/Llinebelow/quotedblright I/quotedblright/Mdotbelow/quotedblright I/quotedblright/NJ/quotedblright I/quotedblright/Nacute/quotedblright I/quotedblright/Ncaron/quotedblright I/quotedblright/Ncommaaccent/quotedblright I/quotedblright/Ndotaccent/quotedblright I/quotedblright/Ndotbelow/quotedblright I/quotedblright/Nj/quotedblright I/quotedblright/Nlinebelow/quotedblright I/quotedblright Ñ/quotedblright I/quotedblright Ó/quotedblright I/quotedblright/Obreve/quotedblright I/quotedblright Ô/quotedblright I/quotedblright/Ocircumflexacute/quotedblright I/quotedblright/Ocircumflexdotbelow/quotedblright I/quotedblright/Ocircumflexgrave/quotedblright I/quotedblright/Ocircumflexhookabove/quotedblright I/quotedblright/Ocircumflextilde/quotedblright I/quotedblright/Odblgrave/quotedblright I/quotedblright Ö/quotedblright I/quotedblright/Odieresismacron/quotedblright I/quotedblright/Odotaccentmacron/quotedblright I/quotedblright/Odotbelow/quotedblright I/quotedblright Ò/quotedblright I/quotedblright/Ohookabove/quotedblright I/quotedblright/Ohornacute/quotedblright I/quotedblright/Ohorndotbelow/quotedblright I/quotedblright/Ohorngrave/quotedblright I/quotedblright/Ohornhookabove/quotedblright I/quotedblright/Ohorntilde/quotedblright I/quotedblright/Ohungarumlaut/quotedblright I/quotedblright/Oinvertedbreve/quotedblright I/quotedblright/Omacron/quotedblright I/quotedblright/Omacronacute/quotedblright I/quotedblright/Omacrongrave/quotedblright I/quotedblright/Oslashacute/quotedblright I/quotedblright Õ/quotedblright I/quotedblright/Otildeacute/quotedblright I/quotedblright/Otildedieresis/quotedblright I/quotedblright/Otildemacron/quotedblright I/quotedblright/Racute/quotedblright I/quotedblright/Rcaron/quotedblright I/quotedblright/Rcommaaccent/quotedblright I/quotedblright/Rdblgrave/quotedblright I/quotedblright/Rdotbelow/quotedblright I/quotedblright/Rinvertedbreve/quotedblright I/quotedblright/Rlinebelow/quotedblright I/quotedblright/Sacute/quotedblright I/quotedblright/Sacutedotaccent/quotedblright I/quotedblright/Scaron/quotedblright I/quotedblright/Scarondotaccent/quotedblright I/quotedblright/Scedilla/quotedblright I/quotedblright/Scircumflex/quotedblright I/quotedblright/Scommaaccent/quotedblright I/quotedblright/Sdotaccent/quotedblright I/quotedblright/Sdotbelow/quotedblright I/quotedblright/Sdotbelowdotaccent/quotedblright I/quotedblright/Tcaron/quotedblright I/quotedblright/Tcedilla/quotedblright I/quotedblright/Tcommaaccent/quotedblright I/quotedblright/Tdotbelow/quotedblright I/quotedblright/Tlinebelow/quotedblright I/quotedblright Ú/quotedblright I/quotedblright/Ubreve/quotedblright I/quotedblright Û/quotedblright I/quotedblright/Udblgrave/quotedblright I/quotedblright Ü/quotedblright I/quotedblright/Udotbelow/quotedblright I/quotedblright Ù/quotedblright I/quotedblright/Uhookabove/quotedblright I/quotedblright/Uhornacute/quotedblright I/quotedblright/Uhorndotbelow/quotedblright I/quotedblright/Uhorngrave/quotedblright I/quotedblright/Uhornhookabove/quotedblright I/quotedblright/Uhorntilde/quotedblright I/quotedblright/Uhungarumlaut/quotedblright I/quotedblright/Uinvertedbreve/quotedblright I/quotedblright/Umacron/quotedblright I/quotedblright/Umacrondieresis/quotedblright I/quotedblright/Uring/quotedblright I/quotedblright/Utilde/quotedblright I/quotedblright/Utildeacute/quotedblright I/quotedblright/Wacute/quotedblright I/quotedblright/Wcircumflex/quotedblright I/quotedblright/Wdieresis/quotedblright I/quotedblright/Wgrave/quotedblright I/quotedblright Ý/quotedblright I/quotedblright/Ycircumflex/quotedblright I/quotedblright/Ydieresis/quotedblright I/quotedblright/Ydotaccent/quotedblright I/quotedblright/Ydotbelow/quotedblright I/quotedblright/Ygrave/quotedblright I/quotedblright/Yhookabove/quotedblright I/quotedblright/Ymacron/quotedblright I/quotedblright/Ytilde/quotedblright I/quotedblright/Zacute/quotedblright I/quotedblright/Zcaron/quotedblright I/quotedblright/Zdotaccent/quotedblright I/quotedblright/Zdotbelow/quotedblright I/quotedblright/Iacute_J.loclNLD \012/quotedblright I/quotedblright á/quotedblright I/quotedblright/abreve/quotedblright I/quotedblright/abreveacute/quotedblright I/quotedblright/abrevedotbelow/quotedblright I/quotedblright/abrevegrave/quotedblright I/quotedblright/abrevehookabove/quotedblright I/quotedblright/abrevetilde/quotedblright I/quotedblright â/quotedblright I/quotedblright/acircumflexacute/quotedblright I/quotedblright/acircumflexdotbelow/quotedblright I/quotedblright/acircumflexgrave/quotedblright I/quotedblright/acircumflexhookabove/quotedblright I/quotedblright/acircumflextilde/quotedblright I/quotedblright/adblgrave/quotedblright I/quotedblright ä/quotedblright I/quotedblright/adotaccent/quotedblright I/quotedblright/adotbelow/quotedblright I/quotedblright à/quotedblright I/quotedblright/ahookabove/quotedblright I/quotedblright/ainvertedbreve/quotedblright I/quotedblright/amacron/quotedblright I/quotedblright å/quotedblright I/quotedblright/aringacute/quotedblright I/quotedblright ã/quotedblright I/quotedblright/aeacute/quotedblright I/quotedblright/cacute/quotedblright I/quotedblright/ccaron/quotedblright I/quotedblright ç/quotedblright I/quotedblright/ccedillaacute/quotedblright I/quotedblright/ccircumflex/quotedblright I/quotedblright/cdotaccent/quotedblright I/quotedblright/ddotbelow/quotedblright I/quotedblright/dlinebelow/quotedblright I/quotedblright/dzcaron/quotedblright I/quotedblright é/quotedblright I/quotedblright/ebreve/quotedblright I/quotedblright/ecaron/quotedblright I/quotedblright/ecedillabreve/quotedblright I/quotedblright ê/quotedblright I/quotedblright/ecircumflexacute/quotedblright I/quotedblright/ecircumflexdotbelow/quotedblright I/quotedblright/ecircumflexgrave/quotedblright I/quotedblright/ecircumflexhookabove/quotedblright I/quotedblright/ecircumflextilde/quotedblright I/quotedblright/edblgrave/quotedblright I/quotedblright ë/quotedblright I/quotedblright/edotaccent/quotedblright I/quotedblright/edotbelow/quotedblright I/quotedblright è/quotedblright I/quotedblright/ehookabove/quotedblright I/quotedblright/einvertedbreve/quotedblright I/quotedblright/emacron/quotedblright I/quotedblright/emacronacute/quotedblright I/quotedblright/emacrongrave/quotedblright I/quotedblright/etilde/quotedblright I/quotedblright/gbreve/quotedblright I/quotedblright/gcaron/quotedblright I/quotedblright/gcircumflex/quotedblright I/quotedblright/gcommaaccent/quotedblright I/quotedblright/gdotaccent/quotedblright I/quotedblright/gmacron/quotedblright I/quotedblright/hbrevebelow/quotedblright I/quotedblright/hcircumflex/quotedblright I/quotedblright/hdotbelow/quotedblright I/quotedblright í/quotedblright I/quotedblright/ibreve/quotedblright I/quotedblright î/quotedblright I/quotedblright/idblgrave/quotedblright I/quotedblright ï/quotedblright I/quotedblright/idieresisacute/quotedblright I/quotedblright/idotaccent/quotedblright I/quotedblright/idotbelow/quotedblright I/quotedblright ì/quotedblright I/quotedblright/ihookabove/quotedblright I/quotedblright/iinvertedbreve/quotedblright I/quotedblright/imacron/quotedblright I/quotedblright/itilde/quotedblright I/quotedblright/jcircumflex/quotedblright I/quotedblright/kcommaaccent/quotedblright I/quotedblright/lacute/quotedblright I/quotedblright/lcommaaccent/quotedblright I/quotedblright/ldotbelow/quotedblright I/quotedblright/lj/quotedblright I/quotedblright/llinebelow/quotedblright I/quotedblright/mdotbelow/quotedblright I/quotedblright/nacute/quotedblright I/quotedblright/napostrophe/quotedblright I/quotedblright/ncaron/quotedblright I/quotedblright/ncommaaccent/quotedblright I/quotedblright/ndotaccent/quotedblright I/quotedblright/ndotbelow/quotedblright I/quotedblright/nj/quotedblright I/quotedblright/nlinebelow/quotedblright I/quotedblright ñ/quotedblright I/quotedblright ó/quotedblright I/quotedblright/obreve/quotedblright I/quotedblright ô/quotedblright I/quotedblright/ocircumflexacute/quotedblright I/quotedblright/ocircumflexdotbelow/quotedblright I/quotedblright/ocircumflexgrave/quotedblright I/quotedblright/ocircumflexhookabove/quotedblright I/quotedblright/ocircumflextilde/quotedblright I/quotedblright/odblgrave/quotedblright I/quotedblright ö/quotedblright I/quotedblright/odieresismacron/quotedblright I/quotedblright/odotaccentmacron/quotedblright I/quotedblright/odotbelow/quotedblright I/quotedblright ò/quotedblright I/quotedblright/ohookabove/quotedblright I/quotedblright/ohornacute/quotedblright I/quotedblright/ohorndotbelow/quotedblright I/quotedblright/ohorngrave/quotedblright I/quotedblright/ohornhookabove/quotedblright I/quotedblright/ohorntilde/quotedblright I/quotedblright/ohungarumlaut/quotedblright I/quotedblright/oinvertedbreve/quotedblright I/quotedblright/omacron/quotedblright I/quotedblright/omacronacute/quotedblright I/quotedblright/omacrongrave/quotedblright I/quotedblright/oslashacute/quotedblright I/quotedblright õ/quotedblright I/quotedblright/otildeacute/quotedblright I/quotedblright/otildedieresis/quotedblright I/quotedblright/otildemacron/quotedblright I/quotedblright/racute/quotedblright I/quotedblright/rcaron/quotedblright I/quotedblright/rcommaaccent/quotedblright I/quotedblright/rdblgrave/quotedblright I/quotedblright/rdotbelow/quotedblright I/quotedblright/rinvertedbreve/quotedblright I/quotedblright/rlinebelow/quotedblright I/quotedblright/sacute/quotedblright I/quotedblright/sacutedotaccent/quotedblright I/quotedblright/scaron/quotedblright I/quotedblright/scarondotaccent/quotedblright I/quotedblright/scedilla/quotedblright I/quotedblright/scircumflex/quotedblright I/quotedblright/scommaaccent/quotedblright I/quotedblright/sdotaccent/quotedblright I/quotedblright/sdotbelow/quotedblright I/quotedblright/sdotbelowdotaccent/quotedblright I/quotedblright/tcedilla/quotedblright I/quotedblright/tcommaaccent/quotedblright I/quotedblright/tdieresis/quotedblright I/quotedblright/tdotbelow/quotedblright I/quotedblright/tlinebelow/quotedblright I/quotedblright ú/quotedblright I/quotedblright/ubreve/quotedblright I/quotedblright û/quotedblright I/quotedblright/udblgrave/quotedblright I/quotedblright ü/quotedblright I/quotedblright/udotbelow/quotedblright I/quotedblright ù/quotedblright I/quotedblright/uhookabove/quotedblright I/quotedblright/uhornacute/quotedblright I/quotedblright/uhorndotbelow/quotedblright I/quotedblright/uhorngrave/quotedblright I/quotedblright/uhornhookabove/quotedblright I/quotedblright/uhorntilde/quotedblright I/quotedblright/uhungarumlaut/quotedblright I/quotedblright/uinvertedbreve/quotedblright I/quotedblright/umacron/quotedblright I/quotedblright/umacrondieresis/quotedblright I/quotedblright/uring/quotedblright I/quotedblright/utilde/quotedblright I/quotedblright/utildeacute/quotedblright I/quotedblright/wacute/quotedblright I/quotedblright/wcircumflex/quotedblright I/quotedblright/wdieresis/quotedblright I/quotedblright/wgrave/quotedblright I/quotedblright ý/quotedblright I/quotedblright/ycircumflex/quotedblright I/quotedblright/ydieresis/quotedblright I/quotedblright/ydotaccent/quotedblright I/quotedblright/ydotbelow/quotedblright I/quotedblright/ygrave/quotedblright I/quotedblright/yhookabove/quotedblright I/quotedblright/ymacron/quotedblright I/quotedblright/ytilde/quotedblright I/quotedblright/zacute/quotedblright I/quotedblright/zcaron/quotedblright I/quotedblright/zdotaccent/quotedblright I/quotedblright/zdotbelow/quotedblright I/quotedblright/iacute_j.loclNLD \012\012°I°Á°I°/Abreve °I°/Abreveacute °I°/Abrevedotbelow °I°/Abrevegrave °I°/Abrevehookabove °I°/Abrevetilde °I°Â°I°/Acircumflexacute °I°/Acircumflexdotbelow °I°/Acircumflexgrave °I°/Acircumflexhookabove °I°/Acircumflextilde °I°/Adblgrave °I°Ä°I°/Adotaccent °I°/Adotbelow °I°À°I°/Ahookabove °I°/Ainvertedbreve °I°/Amacron °I°Å°I°/Aringacute °I°Ã°I°/AEacute °I°/Cacute °I°/Ccaron °I°Ç°I°/Ccedillaacute °I°/Ccircumflex °I°/Cdotaccent °I°/DZcaron °I°/Dcaron °I°/Dcroat °I°/Ddotbelow °I°/Dlinebelow °I°/Dzcaron °I°É°I°/Ebreve °I°/Ecaron °I°/Ecedillabreve °I°Ê°I°/Ecircumflexacute °I°/Ecircumflexdotbelow °I°/Ecircumflexgrave °I°/Ecircumflexhookabove °I°/Ecircumflextilde °I°/Edblgrave °I°Ë°I°/Edotaccent °I°/Edotbelow °I°È°I°/Ehookabove °I°/Einvertedbreve °I°/Emacron °I°/Emacronacute °I°/Emacrongrave °I°/Etilde °I°/Gbreve °I°/Gcaron °I°/Gcircumflex °I°/Gcommaaccent °I°/Gdotaccent °I°/Gmacron °I°/Hbrevebelow °I°/Hcircumflex °I°/Hdotbelow °I°Í°I°/Ibreve °I°/Icaron °I°Î°I°/Idblgrave °I°Ï°I°/Idieresisacute °I°/Idotaccent °I°/Idotbelow °I°Ì°I°/Ihookabove °I°/Iinvertedbreve °I°/Imacron °I°/Itilde °I°/Jcircumflex °I°/Kcommaaccent °I°/LJ °I°/Lacute °I°/Lcommaaccent °I°/Ldotbelow °I°/Lj °I°/Llinebelow °I°/Mdotbelow °I°/NJ °I°/Nacute °I°/Ncaron °I°/Ncommaaccent °I°/Ndotaccent °I°/Ndotbelow °I°/Nj °I°/Nlinebelow °I°Ñ°I°Ó°I°/Obreve °I°Ô°I°/Ocircumflexacute °I°/Ocircumflexdotbelow °I°/Ocircumflexgrave °I°/Ocircumflexhookabove °I°/Ocircumflextilde °I°/Odblgrave °I°Ö°I°/Odieresismacron °I°/Odotaccentmacron °I°/Odotbelow °I°Ò°I°/Ohookabove °I°/Ohornacute °I°/Ohorndotbelow °I°/Ohorngrave °I°/Ohornhookabove °I°/Ohorntilde °I°/Ohungarumlaut °I°/Oinvertedbreve °I°/Omacron °I°/Omacronacute °I°/Omacrongrave °I°/Oslashacute °I°Õ°I°/Otildeacute °I°/Otildedieresis °I°/Otildemacron °I°/Racute °I°/Rcaron °I°/Rcommaaccent °I°/Rdblgrave °I°/Rdotbelow °I°/Rinvertedbreve °I°/Rlinebelow °I°/Sacute °I°/Sacutedotaccent °I°/Scaron °I°/Scarondotaccent °I°/Scedilla °I°/Scircumflex °I°/Scommaaccent °I°/Sdotaccent °I°/Sdotbelow °I°/Sdotbelowdotaccent °I°/Tcaron °I°/Tcedilla °I°/Tcommaaccent °I°/Tdotbelow °I°/Tlinebelow °I°Ú°I°/Ubreve °I°Û°I°/Udblgrave °I°Ü°I°/Udotbelow °I°Ù°I°/Uhookabove °I°/Uhornacute °I°/Uhorndotbelow °I°/Uhorngrave °I°/Uhornhookabove °I°/Uhorntilde °I°/Uhungarumlaut °I°/Uinvertedbreve °I°/Umacron °I°/Umacrondieresis °I°/Uring °I°/Utilde °I°/Utildeacute °I°/Wacute °I°/Wcircumflex °I°/Wdieresis °I°/Wgrave °I°Ý°I°/Ycircumflex °I°/Ydieresis °I°/Ydotaccent °I°/Ydotbelow °I°/Ygrave °I°/Yhookabove °I°/Ymacron °I°/Ytilde °I°/Zacute °I°/Zcaron °I°/Zdotaccent °I°/Zdotbelow °I°/Iacute_J.loclNLD \012°I°á°I°/abreve °I°/abreveacute °I°/abrevedotbelow °I°/abrevegrave °I°/abrevehookabove °I°/abrevetilde °I°â°I°/acircumflexacute °I°/acircumflexdotbelow °I°/acircumflexgrave °I°/acircumflexhookabove °I°/acircumflextilde °I°/adblgrave °I°ä°I°/adotaccent °I°/adotbelow °I°à°I°/ahookabove °I°/ainvertedbreve °I°/amacron °I°å°I°/aringacute °I°ã°I°/aeacute °I°/cacute °I°/ccaron °I°ç°I°/ccedillaacute °I°/ccircumflex °I°/cdotaccent °I°/ddotbelow °I°/dlinebelow °I°/dzcaron °I°é°I°/ebreve °I°/ecaron °I°/ecedillabreve °I°ê°I°/ecircumflexacute °I°/ecircumflexdotbelow °I°/ecircumflexgrave °I°/ecircumflexhookabove °I°/ecircumflextilde °I°/edblgrave °I°ë°I°/edotaccent °I°/edotbelow °I°è°I°/ehookabove °I°/einvertedbreve °I°/emacron °I°/emacronacute °I°/emacrongrave °I°/etilde °I°/gbreve °I°/gcaron °I°/gcircumflex °I°/gcommaaccent °I°/gdotaccent °I°/gmacron °I°/hbrevebelow °I°/hcircumflex °I°/hdotbelow °I°í°I°/ibreve °I°î°I°/idblgrave °I°ï°I°/idieresisacute °I°/idotaccent °I°/idotbelow °I°ì°I°/ihookabove °I°/iinvertedbreve °I°/imacron °I°/itilde °I°/jcircumflex °I°/kcommaaccent °I°/lacute °I°/lcommaaccent °I°/ldotbelow °I°/lj °I°/llinebelow °I°/mdotbelow °I°/nacute °I°/napostrophe °I°/ncaron °I°/ncommaaccent °I°/ndotaccent °I°/ndotbelow °I°/nj °I°/nlinebelow °I°ñ°I°ó°I°/obreve °I°ô°I°/ocircumflexacute °I°/ocircumflexdotbelow °I°/ocircumflexgrave °I°/ocircumflexhookabove °I°/ocircumflextilde °I°/odblgrave °I°ö°I°/odieresismacron °I°/odotaccentmacron °I°/odotbelow °I°ò°I°/ohookabove °I°/ohornacute °I°/ohorndotbelow °I°/ohorngrave °I°/ohornhookabove °I°/ohorntilde °I°/ohungarumlaut °I°/oinvertedbreve °I°/omacron °I°/omacronacute °I°/omacrongrave °I°/oslashacute °I°õ°I°/otildeacute °I°/otildedieresis °I°/otildemacron °I°/racute °I°/rcaron °I°/rcommaaccent °I°/rdblgrave °I°/rdotbelow °I°/rinvertedbreve °I°/rlinebelow °I°/sacute °I°/sacutedotaccent °I°/scaron °I°/scarondotaccent °I°/scedilla °I°/scircumflex °I°/scommaaccent °I°/sdotaccent °I°/sdotbelow °I°/sdotbelowdotaccent °I°/tcedilla °I°/tcommaaccent °I°/tdieresis °I°/tdotbelow °I°/tlinebelow °I°ú°I°/ubreve °I°û°I°/udblgrave °I°ü°I°/udotbelow °I°ù°I°/uhookabove °I°/uhornacute °I°/uhorndotbelow °I°/uhorngrave °I°/uhornhookabove °I°/uhorntilde °I°/uhungarumlaut °I°/uinvertedbreve °I°/umacron °I°/umacrondieresis °I°/uring °I°/utilde °I°/utildeacute °I°/wacute °I°/wcircumflex °I°/wdieresis °I°/wgrave °I°ý°I°/ycircumflex °I°/ydieresis °I°/ydotaccent °I°/ydotbelow °I°/ygrave °I°/yhookabove °I°/ymacron °I°/ytilde °I°/zacute °I°/zcaron °I°/zdotaccent °I°/zdotbelow °I°/iacute_j.loclNLD \012\012FíF/ibreve FîF/idblgrave FïF/idieresisacute F/idotaccent F/idotbelow FìF/ihookabove F/iinvertedbreve F/imacron F/itilde F/jcircumflex \012KíK/ibreve KîK/idblgrave KïK/idieresisacute K/idotaccent K/idotbelow KìK/ihookabove K/iinvertedbreve K/imacron K/itilde K/jcircumflex \012TíT/ibreve TîT/idblgrave TïT/idieresisacute T/idotaccent T/idotbelow TìT/ihookabove T/iinvertedbreve T/imacron T/itilde T/jcircumflex \012VíV/ibreve VîV/idblgrave VïV/idieresisacute V/idotaccent V/idotbelow VìV/ihookabove V/iinvertedbreve V/imacron V/itilde V/jcircumflex \012fíf/ibreve fîf/idblgrave fïf/idieresisacute f/idotaccent f/idotbelow fìf/ihookabove U/bullet f/imacron f/itilde f/jcircumflex \012",
+"îi iï i/imacron"
 );
 classes = (
 {
@@ -122,7 +124,7 @@ z
 );
 }
 );
-date = "2018-05-31 19:23:08 +0000";
+date = "2018-08-28 21:10:41 +0000";
 disablesNiceNames = 1;
 familyName = "Crimson Text Pro";
 featurePrefixes = (
@@ -134,8 +136,7 @@ name = Languagesystems;
 );
 features = (
 {
-automatic = 1;
-code = "feature ccmp;\012feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature lnum;\012feature pnum;\012feature tnum;\012feature onum;\012feature case;\012";
+code = "feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature lnum;\012feature pnum;\012feature tnum;\012feature onum;\012feature case;\012feature dlig;\012";
 name = aalt;
 },
 {
@@ -35164,7 +35165,7 @@ unicode = 1E25;
 },
 {
 glyphname = iacute;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:15:12 +0000";
 layers = (
 {
 color = -1;
@@ -35202,7 +35203,7 @@ unicode = 00ED;
 },
 {
 glyphname = ibreve;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:22:36 +0000";
 layers = (
 {
 color = -1;
@@ -35240,7 +35241,7 @@ unicode = 012D;
 },
 {
 glyphname = icircumflex;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:22:40 +0000";
 layers = (
 {
 color = -1;
@@ -35278,7 +35279,7 @@ unicode = 00EE;
 },
 {
 glyphname = idblgrave;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:22:45 +0000";
 layers = (
 {
 components = (
@@ -35313,7 +35314,7 @@ unicode = 0209;
 },
 {
 glyphname = idieresis;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:22:50 +0000";
 layers = (
 {
 color = -1;
@@ -35351,7 +35352,7 @@ unicode = 00EF;
 },
 {
 glyphname = idieresisacute;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:22:55 +0000";
 layers = (
 {
 color = -1;
@@ -35461,7 +35462,7 @@ unicode = 1ECB;
 },
 {
 glyphname = igrave;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:23:03 +0000";
 layers = (
 {
 color = -1;
@@ -35499,7 +35500,7 @@ unicode = 00EC;
 },
 {
 glyphname = ihookabove;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:44:52 +0000";
 layers = (
 {
 color = -1;
@@ -35537,7 +35538,7 @@ unicode = 1EC9;
 },
 {
 glyphname = iinvertedbreve;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:44:58 +0000";
 layers = (
 {
 components = (
@@ -35572,7 +35573,7 @@ unicode = 020B;
 },
 {
 glyphname = imacron;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:23:14 +0000";
 layers = (
 {
 color = -1;
@@ -35610,7 +35611,7 @@ unicode = 012B;
 },
 {
 glyphname = itilde;
-lastChange = "2018-07-21 19:34:24 +0000";
+lastChange = "2018-08-28 20:23:22 +0000";
 layers = (
 {
 color = -1;
@@ -35648,7 +35649,7 @@ unicode = 0129;
 },
 {
 glyphname = jcircumflex;
-lastChange = "2018-07-21 19:34:34 +0000";
+lastChange = "2018-08-28 20:23:27 +0000";
 layers = (
 {
 color = -1;
@@ -39941,7 +39942,7 @@ note = j;
 },
 {
 glyphname = T_h;
-lastChange = "2018-07-21 19:42:30 +0000";
+lastChange = "2018-08-28 21:31:52 +0000";
 layers = (
 {
 background = {
@@ -58397,7 +58398,7 @@ unicode = 00A1;
 },
 {
 glyphname = question;
-lastChange = "2018-08-22 13:40:09 +0000";
+lastChange = "2018-08-28 20:13:04 +0000";
 layers = (
 {
 background = {
@@ -62736,7 +62737,7 @@ unicode = 20B5;
 },
 {
 glyphname = cent;
-lastChange = "2018-08-22 13:40:09 +0000";
+lastChange = "2018-08-28 14:09:50 +0000";
 layers = (
 {
 background = {
@@ -62934,7 +62935,7 @@ nodes = (
 );
 }
 );
-width = 455;
+width = 460;
 },
 {
 associatedMasterId = "30A8E426-80C1-4FA7-AECB-85F4920FB6F7";
@@ -63154,7 +63155,7 @@ nodes = (
 );
 }
 );
-width = 455;
+width = 460;
 }
 );
 leftKerningGroup = o;
@@ -64597,7 +64598,7 @@ unicode = 20AC;
 },
 {
 glyphname = florin;
-lastChange = "2018-08-22 13:40:09 +0000";
+lastChange = "2018-08-28 14:10:39 +0000";
 layers = (
 {
 background = {
@@ -64723,55 +64724,55 @@ paths = (
 {
 closed = 1;
 nodes = (
-"190 -230 OFFCURVE",
-"273 -138 OFFCURVE",
-"273 70 CURVE SMOOTH",
-"273 374 LINE",
-"271 438 LINE",
-"271 514 LINE SMOOTH",
-"271 589 OFFCURVE",
-"285 626 OFFCURVE",
-"304 642 CURVE",
-"344 605 LINE SMOOTH",
-"363 587 OFFCURVE",
-"380 579 OFFCURVE",
-"403 579 CURVE SMOOTH",
-"431 579 OFFCURVE",
-"450 594 OFFCURVE",
-"450 623 CURVE SMOOTH",
-"450 667 OFFCURVE",
-"401 698 OFFCURVE",
-"334 698 CURVE SMOOTH",
-"227 698 OFFCURVE",
-"141 606 OFFCURVE",
-"141 468 CURVE SMOOTH",
-"141 -6 LINE",
-"141 -121 OFFCURVE",
-"132 -158 OFFCURVE",
-"123 -174 CURVE",
-"83 -137 LINE SMOOTH",
-"64 -119 OFFCURVE",
-"47 -111 OFFCURVE",
-"24 -111 CURVE SMOOTH",
-"-4 -111 OFFCURVE",
-"-23 -126 OFFCURVE",
-"-23 -155 CURVE SMOOTH",
-"-23 -199 OFFCURVE",
-"26 -230 OFFCURVE",
-"93 -230 CURVE SMOOTH"
+"179 -230 OFFCURVE",
+"262 -138 OFFCURVE",
+"262 70 CURVE SMOOTH",
+"262 374 LINE",
+"260 438 LINE",
+"260 514 LINE SMOOTH",
+"260 589 OFFCURVE",
+"274 626 OFFCURVE",
+"293 642 CURVE",
+"333 605 LINE SMOOTH",
+"352 587 OFFCURVE",
+"369 579 OFFCURVE",
+"392 579 CURVE SMOOTH",
+"420 579 OFFCURVE",
+"439 594 OFFCURVE",
+"439 623 CURVE SMOOTH",
+"439 667 OFFCURVE",
+"390 698 OFFCURVE",
+"323 698 CURVE SMOOTH",
+"216 698 OFFCURVE",
+"130 606 OFFCURVE",
+"130 468 CURVE SMOOTH",
+"130 -6 LINE",
+"130 -121 OFFCURVE",
+"121 -158 OFFCURVE",
+"112 -174 CURVE",
+"72 -137 LINE SMOOTH",
+"53 -119 OFFCURVE",
+"36 -111 OFFCURVE",
+"13 -111 CURVE SMOOTH",
+"-15 -111 OFFCURVE",
+"-34 -126 OFFCURVE",
+"-34 -155 CURVE SMOOTH",
+"-34 -199 OFFCURVE",
+"15 -230 OFFCURVE",
+"82 -230 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"378 374 LINE",
-"378 438 LINE",
-"200 438 LINE",
-"141 442 LINE",
-"116 432 OFFCURVE",
-"92 425 OFFCURVE",
-"67 421 CURVE",
-"67 374 LINE"
+"367 374 LINE",
+"367 438 LINE",
+"189 438 LINE",
+"130 442 LINE",
+"105 432 OFFCURVE",
+"81 425 OFFCURVE",
+"56 421 CURVE",
+"56 374 LINE"
 );
 }
 );
@@ -64781,59 +64782,59 @@ paths = (
 {
 closed = 1;
 nodes = (
-"190 -230 OFFCURVE",
-"273 -138 OFFCURVE",
-"273 70 CURVE SMOOTH",
-"273 374 LINE",
-"271 438 LINE",
-"271 514 LINE SMOOTH",
-"271 589 OFFCURVE",
-"285 626 OFFCURVE",
-"304 642 CURVE",
-"344 605 LINE SMOOTH",
-"363 587 OFFCURVE",
-"380 579 OFFCURVE",
-"403 579 CURVE SMOOTH",
-"431 579 OFFCURVE",
-"450 594 OFFCURVE",
-"450 623 CURVE SMOOTH",
-"450 667 OFFCURVE",
-"401 698 OFFCURVE",
-"334 698 CURVE SMOOTH",
-"227 698 OFFCURVE",
-"141 606 OFFCURVE",
-"141 468 CURVE SMOOTH",
-"141 -6 LINE",
-"141 -121 OFFCURVE",
-"132 -158 OFFCURVE",
-"123 -174 CURVE",
-"83 -137 LINE SMOOTH",
-"64 -119 OFFCURVE",
-"47 -111 OFFCURVE",
-"24 -111 CURVE SMOOTH",
-"-4 -111 OFFCURVE",
-"-23 -126 OFFCURVE",
-"-23 -155 CURVE SMOOTH",
-"-23 -199 OFFCURVE",
-"26 -230 OFFCURVE",
-"93 -230 CURVE SMOOTH"
+"179 -230 OFFCURVE",
+"262 -138 OFFCURVE",
+"262 70 CURVE SMOOTH",
+"262 374 LINE",
+"260 438 LINE",
+"260 514 LINE SMOOTH",
+"260 589 OFFCURVE",
+"274 626 OFFCURVE",
+"293 642 CURVE",
+"333 605 LINE SMOOTH",
+"352 587 OFFCURVE",
+"369 579 OFFCURVE",
+"392 579 CURVE SMOOTH",
+"420 579 OFFCURVE",
+"439 594 OFFCURVE",
+"439 623 CURVE SMOOTH",
+"439 667 OFFCURVE",
+"390 698 OFFCURVE",
+"323 698 CURVE SMOOTH",
+"216 698 OFFCURVE",
+"130 606 OFFCURVE",
+"130 468 CURVE SMOOTH",
+"130 -6 LINE",
+"130 -121 OFFCURVE",
+"121 -158 OFFCURVE",
+"112 -174 CURVE",
+"72 -137 LINE SMOOTH",
+"53 -119 OFFCURVE",
+"36 -111 OFFCURVE",
+"13 -111 CURVE SMOOTH",
+"-15 -111 OFFCURVE",
+"-34 -126 OFFCURVE",
+"-34 -155 CURVE SMOOTH",
+"-34 -199 OFFCURVE",
+"15 -230 OFFCURVE",
+"82 -230 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"378 374 LINE",
-"378 438 LINE",
-"200 438 LINE",
-"141 442 LINE",
-"116 432 OFFCURVE",
-"92 425 OFFCURVE",
-"67 421 CURVE",
-"67 374 LINE"
+"367 374 LINE",
+"367 438 LINE",
+"189 438 LINE",
+"130 442 LINE",
+"105 432 OFFCURVE",
+"81 425 OFFCURVE",
+"56 421 CURVE",
+"56 374 LINE"
 );
 }
 );
-width = 427;
+width = 405;
 }
 );
 leftMetricsKey = "=|f+30";
@@ -72463,7 +72464,7 @@ unicode = 2205;
 },
 {
 glyphname = integral;
-lastChange = "2018-08-22 09:19:12 +0000";
+lastChange = "2018-08-28 14:10:42 +0000";
 layers = (
 {
 background = {
@@ -72559,40 +72560,40 @@ paths = (
 {
 closed = 1;
 nodes = (
-"200 -230 OFFCURVE",
-"284 -138 OFFCURVE",
-"273 70 CURVE SMOOTH",
-"243 614 LINE SMOOTH",
-"239 689 OFFCURVE",
-"245 726 OFFCURVE",
-"274 742 CURVE",
-"314 705 LINE SMOOTH",
-"333 687 OFFCURVE",
-"350 679 OFFCURVE",
-"373 679 CURVE SMOOTH",
-"401 679 OFFCURVE",
-"420 694 OFFCURVE",
-"420 723 CURVE SMOOTH",
-"420 767 OFFCURVE",
-"371 798 OFFCURVE",
-"304 798 CURVE SMOOTH",
-"187 798 OFFCURVE",
-"104 706 OFFCURVE",
-"111 568 CURVE SMOOTH",
-"141 -6 LINE SMOOTH",
-"147 -121 OFFCURVE",
-"142 -158 OFFCURVE",
-"123 -174 CURVE",
-"83 -137 LINE SMOOTH",
-"64 -119 OFFCURVE",
-"47 -111 OFFCURVE",
-"24 -111 CURVE SMOOTH",
-"-4 -111 OFFCURVE",
-"-23 -126 OFFCURVE",
-"-23 -155 CURVE SMOOTH",
-"-23 -199 OFFCURVE",
-"26 -230 OFFCURVE",
-"93 -230 CURVE SMOOTH"
+"189 -230 OFFCURVE",
+"273 -138 OFFCURVE",
+"262 70 CURVE SMOOTH",
+"232 614 LINE SMOOTH",
+"228 689 OFFCURVE",
+"234 726 OFFCURVE",
+"263 742 CURVE",
+"303 705 LINE SMOOTH",
+"322 687 OFFCURVE",
+"339 679 OFFCURVE",
+"362 679 CURVE SMOOTH",
+"390 679 OFFCURVE",
+"409 694 OFFCURVE",
+"409 723 CURVE SMOOTH",
+"409 767 OFFCURVE",
+"360 798 OFFCURVE",
+"293 798 CURVE SMOOTH",
+"176 798 OFFCURVE",
+"93 706 OFFCURVE",
+"100 568 CURVE SMOOTH",
+"130 -6 LINE SMOOTH",
+"136 -121 OFFCURVE",
+"131 -158 OFFCURVE",
+"112 -174 CURVE",
+"72 -137 LINE SMOOTH",
+"53 -119 OFFCURVE",
+"36 -111 OFFCURVE",
+"13 -111 CURVE SMOOTH",
+"-15 -111 OFFCURVE",
+"-34 -126 OFFCURVE",
+"-34 -155 CURVE SMOOTH",
+"-34 -199 OFFCURVE",
+"15 -230 OFFCURVE",
+"82 -230 CURVE SMOOTH"
 );
 }
 );
@@ -72602,44 +72603,44 @@ paths = (
 {
 closed = 1;
 nodes = (
-"200 -230 OFFCURVE",
-"284 -138 OFFCURVE",
-"273 70 CURVE SMOOTH",
-"243 614 LINE SMOOTH",
-"239 689 OFFCURVE",
-"245 726 OFFCURVE",
-"274 742 CURVE",
-"314 705 LINE SMOOTH",
-"333 687 OFFCURVE",
-"350 679 OFFCURVE",
-"373 679 CURVE SMOOTH",
-"401 679 OFFCURVE",
-"420 694 OFFCURVE",
-"420 723 CURVE SMOOTH",
-"420 767 OFFCURVE",
-"371 798 OFFCURVE",
-"304 798 CURVE SMOOTH",
-"187 798 OFFCURVE",
-"104 706 OFFCURVE",
-"111 568 CURVE SMOOTH",
-"141 -6 LINE SMOOTH",
-"147 -121 OFFCURVE",
-"142 -158 OFFCURVE",
-"123 -174 CURVE",
-"83 -137 LINE SMOOTH",
-"64 -119 OFFCURVE",
-"47 -111 OFFCURVE",
-"24 -111 CURVE SMOOTH",
-"-4 -111 OFFCURVE",
-"-23 -126 OFFCURVE",
-"-23 -155 CURVE SMOOTH",
-"-23 -199 OFFCURVE",
-"26 -230 OFFCURVE",
-"93 -230 CURVE SMOOTH"
+"189 -230 OFFCURVE",
+"273 -138 OFFCURVE",
+"262 70 CURVE SMOOTH",
+"232 614 LINE SMOOTH",
+"228 689 OFFCURVE",
+"234 726 OFFCURVE",
+"263 742 CURVE",
+"303 705 LINE SMOOTH",
+"322 687 OFFCURVE",
+"339 679 OFFCURVE",
+"362 679 CURVE SMOOTH",
+"390 679 OFFCURVE",
+"409 694 OFFCURVE",
+"409 723 CURVE SMOOTH",
+"409 767 OFFCURVE",
+"360 798 OFFCURVE",
+"293 798 CURVE SMOOTH",
+"176 798 OFFCURVE",
+"93 706 OFFCURVE",
+"100 568 CURVE SMOOTH",
+"130 -6 LINE SMOOTH",
+"136 -121 OFFCURVE",
+"131 -158 OFFCURVE",
+"112 -174 CURVE",
+"72 -137 LINE SMOOTH",
+"53 -119 OFFCURVE",
+"36 -111 OFFCURVE",
+"13 -111 CURVE SMOOTH",
+"-15 -111 OFFCURVE",
+"-34 -126 OFFCURVE",
+"-34 -155 CURVE SMOOTH",
+"-34 -199 OFFCURVE",
+"15 -230 OFFCURVE",
+"82 -230 CURVE SMOOTH"
 );
 }
 );
-width = 397;
+width = 375;
 }
 );
 leftMetricsKey = "=|f+30";
@@ -93874,6 +93875,7 @@ width = 600;
 );
 instances = (
 {
+exports = 0;
 interpolationWeight = 300;
 interpolationWidth = 300;
 instanceInterpolations = {
@@ -93892,6 +93894,7 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+exports = 0;
 interpolationWeight = 500;
 interpolationWidth = 500;
 instanceInterpolations = {
@@ -93902,6 +93905,7 @@ name = "500";
 weightClass = Medium;
 },
 {
+exports = 0;
 interpolationWeight = 600;
 interpolationWidth = 600;
 instanceInterpolations = {
@@ -93921,6 +93925,7 @@ name = Bold;
 weightClass = Bold;
 },
 {
+exports = 0;
 interpolationWeight = 800;
 interpolationWidth = 800;
 instanceInterpolations = {
@@ -94143,6 +94148,14 @@ underscore = 20;
 "@MMK_R_zeroL" = -5;
 "@MMK_R_zeroO" = -20;
 underscore = -5;
+icircumflex = 10;
+idblgrave = 20;
+idieresis = 10;
+idieresisacute = 10;
+iinvertedbreve = 20;
+imacron = 20;
+itilde = 30;
+jcircumflex = 5;
 };
 "@MMK_L_G" = {
 "@MMK_R_asterisk" = -5;
@@ -94239,6 +94252,11 @@ underscore = -5;
 "@MMK_R_zeroL" = -10;
 "@MMK_R_zeroO" = -20;
 underscore = 20;
+idblgrave = 30;
+idieresis = 30;
+idieresisacute = 30;
+imacron = 40;
+itilde = 40;
 };
 "@MMK_L_L" = {
 "@MMK_R_J" = -5;
@@ -94607,6 +94625,8 @@ underscore = -10;
 "@MMK_R_zeroL" = -10;
 "@MMK_R_zeroO" = -50;
 underscore = -15;
+imacron = 5;
+itilde = 25;
 };
 "@MMK_L_Thorn" = {
 "@MMK_R_A" = -10;
@@ -94798,6 +94818,16 @@ underscore = -10;
 "@MMK_R_zeroL" = -15;
 "@MMK_R_zeroO" = -60;
 underscore = -20;
+ibreve = 5;
+icircumflex = 5;
+idblgrave = 25;
+idieresis = 25;
+idieresisacute = 25;
+igrave = -5;
+iinvertedbreve = 25;
+imacron = 35;
+itilde = 35;
+jcircumflex = 0;
 };
 "@MMK_L_X" = {
 "@MMK_R_A" = -35;
@@ -95053,6 +95083,7 @@ dong = -40;
 euro = -10;
 florin = -20;
 underscore = -20;
+itilde = 30;
 };
 "@MMK_L_at" = {
 "@MMK_R_A" = -30;
@@ -95586,6 +95617,8 @@ underscore = -20;
 "@MMK_R_twoO" = -15;
 "@MMK_R_x" = -10;
 "@MMK_R_zeroO" = -5;
+ihookabove = 20;
+iinvertedbreve = 20;
 };
 "@MMK_L_fiveL" = {
 "@MMK_R_A" = -15;
@@ -95866,7 +95899,6 @@ integral = -5;
 underscore = -10;
 };
 "@MMK_L_i" = {
-"@MMK_R_question" = 15;
 "@MMK_R_quoteleft" = -10;
 "@MMK_R_slash" = -20;
 };
@@ -96159,6 +96191,8 @@ underscore = -50;
 "@MMK_R_zeroO" = -10;
 florin = 50;
 integral = 40;
+idblgrave = 40;
+igrave = 20;
 };
 "@MMK_L_parenright" = {
 "@MMK_R_asterisk" = -30;
@@ -96268,6 +96302,7 @@ underscore = 10;
 "@MMK_R_questiondown" = -110;
 "@MMK_R_slash" = -75;
 underscore = -80;
+"@MMK_R_H" = 0;
 };
 "@MMK_L_questiondown" = {
 "@MMK_R_Delta" = -10;
@@ -96375,6 +96410,8 @@ underscore = -30;
 "@MMK_R_x" = 15;
 "@MMK_R_zeroO" = -15;
 underscore = -40;
+idblgrave = 50;
+igrave = 20;
 };
 "@MMK_L_quoteright" = {
 "@MMK_R_A" = -40;
@@ -96427,6 +96464,7 @@ dong = -20;
 euro = -20;
 florin = -30;
 underscore = -40;
+idblgrave = 40;
 };
 "@MMK_L_r" = {
 "@MMK_R_a" = -10;
@@ -97244,6 +97282,12 @@ underscore = {
 euro = -30;
 underscore = -45;
 };
+iacute = {
+"@MMK_R_question" = 30;
+};
+itilde = {
+"@MMK_R_question" = 30;
+};
 };
 "C0B3E82F-C341-4413-A405-AFA97EAADFAC" = {
 "@MMK_L_A" = {
@@ -97448,6 +97492,13 @@ underscore = 20;
 "@MMK_R_zeroL" = -20;
 "@MMK_R_zeroO" = -20;
 underscore = -5;
+icircumflex = 15;
+idieresis = 5;
+idieresisacute = 5;
+iinvertedbreve = 15;
+imacron = 5;
+itilde = 25;
+jcircumflex = 0;
 };
 "@MMK_L_G" = {
 "@MMK_R_asterisk" = -10;
@@ -97550,6 +97601,11 @@ underscore = -5;
 "@MMK_R_zeroL" = -30;
 "@MMK_R_zeroO" = -20;
 underscore = 30;
+idieresis = 30;
+idieresisacute = 30;
+iinvertedbreve = 30;
+imacron = 20;
+itilde = 50;
 };
 "@MMK_L_L" = {
 "@MMK_R_J" = -10;
@@ -97897,6 +97953,10 @@ underscore = -10;
 "@MMK_R_zeroL" = -15;
 "@MMK_R_zeroO" = -40;
 underscore = -20;
+idieresis = 15;
+idieresisacute = 15;
+imacron = 15;
+itilde = 25;
 };
 "@MMK_L_Thorn" = {
 "@MMK_R_A" = -25;
@@ -98087,6 +98147,16 @@ underscore = -15;
 "@MMK_R_zeroL" = -10;
 "@MMK_R_zeroO" = -50;
 underscore = -20;
+ibreve = 25;
+icircumflex = 25;
+idblgrave = 25;
+idieresis = 35;
+idieresisacute = 35;
+igrave = 5;
+iinvertedbreve = 35;
+imacron = 35;
+itilde = 65;
+jcircumflex = 10;
 };
 "@MMK_L_X" = {
 "@MMK_R_A" = -40;
@@ -98317,6 +98387,9 @@ underscore = 20;
 euro = -5;
 florin = -30;
 underscore = -25;
+itilde = 30;
+idieresis = 20;
+idieresisacute = 20;
 };
 "@MMK_L_at" = {
 "@MMK_R_A" = -25;
@@ -98815,6 +98888,7 @@ underscore = -25;
 "@MMK_R_twoO" = -15;
 "@MMK_R_x" = -10;
 "@MMK_R_zeroO" = -10;
+ihookabove = 30;
 };
 "@MMK_L_fiveL" = {
 "@MMK_R_A" = -5;
@@ -99567,6 +99641,7 @@ underscore = -50;
 "@MMK_R_x" = 5;
 dong = -20;
 underscore = -60;
+itilde = 30;
 };
 "@MMK_L_r" = {
 "@MMK_R_a" = -15;
@@ -100362,6 +100437,26 @@ underscore = {
 "@MMK_R_zeroO" = -20;
 euro = -30;
 underscore = -60;
+};
+idieresis = {
+"@MMK_R_question" = 40;
+};
+idieresisacute = {
+"@MMK_R_question" = 40;
+};
+imacron = {
+"@MMK_R_question" = 40;
+};
+itilde = {
+"@MMK_R_question" = 50;
+"@MMK_R_asterisk" = 20;
+"@MMK_R_quoteright" = 30;
+};
+iacute = {
+"@MMK_R_question" = 50;
+};
+ibreve = {
+"@MMK_R_question" = 30;
 };
 };
 };
