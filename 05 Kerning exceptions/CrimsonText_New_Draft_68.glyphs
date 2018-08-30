@@ -1,7 +1,7 @@
 {
 .appVersion = "1163";
 DisplayStrings = (
-"nnn Z/Placeholder nn\012ooo Zzoo\012llllll Z/Placeholder llll",
+"nnn NfZ/Placeholder nn\012ooo Zzoo\012llllll Z/Placeholder llll",
 "nnnz/Placeholder nnn\012ooozzooo\012llllllz/Placeholder llllll",
 "nnn9/Placeholder nnn\012llllll9allllll\012ooo9/Placeholder ooo\012",
 "nnn/Placeholder 9nnn\012llllllz9llllll\012ooo/Placeholder 9ooo\012",
@@ -25301,7 +25301,7 @@ unicode = 0079;
 },
 {
 glyphname = z;
-lastChange = "2018-08-28 12:23:17 +0000";
+lastChange = "2018-08-30 10:02:48 +0000";
 layers = (
 {
 anchors = (
@@ -25326,6 +25326,45 @@ position = "{209, 430}";
 }
 );
 paths = (
+{
+closed = 1;
+nodes = (
+"373 400 LINE",
+"373 432 LINE",
+"345 431 OFFCURVE",
+"316 430 OFFCURVE",
+"288 430 CURVE SMOOTH",
+"124 430 LINE SMOOTH",
+"97 430 OFFCURVE",
+"67 430 OFFCURVE",
+"34 431 CURVE",
+"35 304 LINE",
+"81 304 LINE",
+"95 382 LINE",
+"114 384 OFFCURVE",
+"136 385 OFFCURVE",
+"156 385 CURVE SMOOTH",
+"291 385 LINE",
+"294 413 LINE",
+"41 30 LINE",
+"41 -2 LINE",
+"69 -1 OFFCURVE",
+"98 0 OFFCURVE",
+"126 0 CURVE SMOOTH",
+"286 0 LINE SMOOTH",
+"313 0 OFFCURVE",
+"344 0 OFFCURVE",
+"377 -1 CURVE",
+"394 133 LINE",
+"347 133 LINE",
+"323 50 LINE",
+"301 47 OFFCURVE",
+"280 46 OFFCURVE",
+"260 46 CURVE SMOOTH",
+"123 46 LINE",
+"124 17 LINE"
+);
+},
 {
 closed = 1;
 nodes = (
