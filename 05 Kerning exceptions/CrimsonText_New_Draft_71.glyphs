@@ -1,7 +1,7 @@
 {
 .appVersion = "1165";
 DisplayStrings = (
-")I(/Aogonek )I(/Abreve )I()I(/Abrevedotbelow )I(/Abrevegrave )I(/Abrevehookabove )I(/Abrevetilde )I(Â)I(/Acircumflexacute )I(/Acircumflexdotbelow )I(/Acircumflexgrave )I(/Acircumflexhookabove )I(/Acircumflextilde )I(/Adblgrave )I(Ä)I(/Adotaccent )I(/Adotbelow )I(À)I(/Ahookabove )I(/Ainvertedbreve )I(/Amacron )I(Å)I(/Aringacute )I(Ã)I()I(/Cacute )I(/Ccaron )I(Ç)I()I(/Ccircumflex )I(/Cdotaccent )I(/DZcaron )I(/Dcaron )I(/Dcroat )I(/Ddotbelow )I(/Dlinebelow )I(/Dzcaron )I(/Eogonek )I(/Ebreve )I(/Ecaron )I(/Ecedillabreve )I(Ê)I(/Ecircumflexacute )I(/Ecircumflexdotbelow )I(/Ecircumflexgrave )I(/Ecircumflexhookabove )I(/Ecircumflextilde )I(/Edblgrave )I(Ë)I(/Edotaccent )I(/Edotbelow )I(È)I(/Ehookabove )I(/Einvertedbreve )I(/Emacron )I(/Emacronacute )I(/Emacrongrave )I(/Etilde )I(/Gbreve )I(/Gcaron )I(/Gcircumflex )I(/Gcommaaccent )I(/Gdotaccent )I(/Gmacron )I(/Hbrevebelow )I(/Hcircumflex )I(/Hdotbelow )I(/Iogonek )I(/Ibreve )I(/Icaron )I(Î)I(/Idblgrave )I(Ï)I(/Idieresisacute )I(/Idotaccent )I(/Idotbelow )I(Ì)I(/Ihookabove )I(/Iinvertedbreve )I(/Imacron )I(/Itilde )I(/Jcircumflex )I(/Kcommaaccent )I(/LJ )I(/Lacute )I(/Lcommaaccent )I(/Ldotbelow )I(/Lj )I(/Llinebelow )I(/Mdotbelow )I(/NJ )I(/Nacute )I(/Ncaron )I(/Ncommaaccent )I(/Ndotaccent )I(/Ndotbelow )I(/Nj )I(/Nlinebelow )I(Ñ)I(Ó)I(/Obreve )I(Ô)I(/Ocircumflexacute )I(/Ocircumflexdotbelow )I(/Ocircumflexgrave )I(/Ocircumflexhookabove )I(/Ocircumflextilde )I(/Odblgrave )I(Ö)I(/Odieresismacron )I(/Odotaccentmacron )I(/Odotbelow )I(Ò)I(/Ohookabove )I(/Ohornacute )I(/Ohorndotbelow )I(/Ohorngrave )I(/Ohornhookabove )I(/Ohorntilde )I(/Ohungarumlaut )I(/Oinvertedbreve )I(/Omacron )I(/Omacronacute )I(/Omacrongrave )I(/Oslashacute )I(Õ)I()I(/Otildedieresis )I(/Otildemacron )I(/Racute )I(/Rcaron )I(/Rcommaaccent )I(/Rdblgrave )I(/Rdotbelow )I(/Rinvertedbreve )I(/Rlinebelow )I(/Sacute )I(/Sacutedotaccent )I(/Scaron )I(/Scarondotaccent )I(/Scedilla )I(/Scircumflex )I(/Scommaaccent )I(/Sdotaccent )I(/Sdotbelow )I(/Sdotbelowdotaccent )I(/Tcaron )I(/Tcedilla )I(/Tcommaaccent )I(/Tdotbelow )I(/Tlinebelow )I(Ú)I(/Ubreve )I(Û)I(/Udblgrave )I(Ü)I(/Udotbelow )I(Ù)I(/Uhookabove )I(/Uhornacute )I(/Uhorndotbelow )I(/Uhorngrave )I(/Uhornhookabove )I(/Uhorntilde )I(/Uhungarumlaut )I(/Uinvertedbreve )I(/Umacron )I(/Umacrondieresis )I(/Uring )I(/Utilde )I()I(/Wacute )I(/Wcircumflex )I(/Wdieresis )I(/Wgrave )I(Ý)I(/Ycircumflex )I(/Ydieresis )I(/Ydotaccent )I(/Ydotbelow )I(/Ygrave )I(/Yhookabove )I(/Ymacron )I(/Ytilde )I(/Zacute )I(/Zcaron )I(/Zdotaccent )I(/Zdotbelow )I(\012"
+")I(/aogonek )I(/abreve )I()I(/abrevedotbelow )I(/abrevegrave )I(/abrevehookabove )I(/abrevetilde )I(â)I(/acircumflexacute )I(/acircumflexdotbelow )I(/acircumflexgrave )I(/acircumflexhookabove )I(/acircumflextilde )I(/adblgrave )I(ä)I(/adotaccent )I(/adotbelow )I(à)I(/ahookabove )I(/ainvertedbreve )I(/amacron )I(å)I(/aringacute )I(ã)I()I(/cacute )I(/ccaron )I(ç)I()I(/ccircumflex )I(/cdotaccent )I(/ddotbelow )I(/dlinebelow )I(/dzcaron )I(/eogonek )I(/ebreve )I(/ecaron )I(/ecedillabreve )I(ê)I(/ecircumflexacute )I(/ecircumflexdotbelow )I(/ecircumflexgrave )I(/ecircumflexhookabove )I(/ecircumflextilde )I(/edblgrave )I(ë)I(/edotaccent )I(/edotbelow )I(è)I(/ehookabove )I(/einvertedbreve )I(/emacron )I(/emacronacute )I(/emacrongrave )I(/etilde )I(/gbreve )I(/gcaron )I(/gcircumflex )I(/gcommaaccent )I(/gdotaccent )I(/gmacron )I(/hbrevebelow )I(/hcircumflex )I(/hdotbelow )I(íI/iogonek )I(/ibreve )I(î)I(/idblgrave )I(ï)I(/idieresisacute )I(/idotaccent )I(/idotbelow )I((ì)I(/ihookabove )I(/iinvertedbreve )I(/imacron )I(/itilde )I(/jcircumflex )I(/kcommaaccent )I(/lacute )I(/lcommaaccent )I(/ldotbelow )I(/lj )I(/llinebelow )I(/mdotbelow )I(/nacute )I(/napostrophe )I(/ncaron )I(/ncommaaccent )I(/ndotaccent )I(/ndotbelow )I(/nj )I(/nlinebelow )I(ñ)I(ó)I(/obreve )I(ô)I(/ocircumflexacute )I(/ocircumflexdotbelow )I(/ocircumflexgrave )I(/ocircumflexhookabove )I(/ocircumflextilde )I(/odblgrave )I(ö)I(/odieresismacron )I(/odotaccentmacron )I(/odotbelow )I(ò)I(/ohookabove )I(/ohornacute )I(/ohorndotbelow )I(/ohorngrave )I(/ohornhookabove )I(/ohorntilde )I(/ohungarumlaut )I(/oinvertedbreve )I(/omacron )I(/omacronacute )I(/omacrongrave )I(/oslashacute )I(õ)I()I(/otildedieresis )I(/otildemacron )I(/racute )I(/rcaron )I(/rcommaaccent )I(/rdblgrave )I(/rdotbelow )I(/rinvertedbreve )I(/rlinebelow )I(/sacute )I(/sacutedotaccent )I(/scaron )I(/scarondotaccent )I(/scedilla )I(/scircumflex )I(/scommaaccent )I(/sdotaccent )I(/sdotbelow )I(/sdotbelowdotaccent )I(/tcedilla )I(/tcommaaccent )I(/tdieresis )I(/tdotbelow )I(/tlinebelow )I(/uogonek )I(/ubreve )I(û)I(/udblgrave )I(ü)I(/udotbelow )I(ù)I(/uhookabove )I(/uhornacute )I(/uhorndotbelow )I(/uhorngrave )I(/uhornhookabove )I(/uhorntilde )I(/uhungarumlaut )I(/uinvertedbreve )I(/umacron )I(/umacrondieresis )I(/uring )I(/utilde )I()I(/wacute )I(/wcircumflex )I(/wdieresis )I(/wgrave )I(ý)I(/ycircumflex )I(/ydieresis )I(/ydotaccent )I(/ydotbelow )I(/ygrave )I(/yhookabove )I(/ymacron )I(/ytilde )I(/zacute )I(/zcaron )I(/zdotaccent )I(/zdotbelow )I(íI\012"
 );
 classes = (
 {
@@ -96355,6 +96355,8 @@ Idieresisacute = 30;
 Iinvertedbreve = 30;
 Imacron = 30;
 Itilde = 70;
+hcircumflex = 60;
+tdieresis = 15;
 };
 "@MMK_L_parenright" = {
 "@MMK_R_asterisk" = -30;
@@ -97501,6 +97503,21 @@ Icaron = {
 };
 Imacron = {
 "@MMK_R_parenright" = 30;
+};
+ecircumflexacute = {
+"@MMK_R_parenright" = 40;
+};
+ecircumflexhookabove = {
+"@MMK_R_parenright" = 40;
+};
+ocircumflexacute = {
+"@MMK_R_parenright" = 0;
+};
+ocircumflexhookabove = {
+"@MMK_R_parenright" = 0;
+};
+tdieresis = {
+"@MMK_R_parenright" = 0;
 };
 };
 "C0B3E82F-C341-4413-A405-AFA97EAADFAC" = {
@@ -99646,6 +99663,8 @@ Idieresis = 40;
 Icircumflex = 30;
 Icaron = 30;
 Ibreve = 30;
+hcircumflex = 60;
+tdieresis = 20;
 };
 "@MMK_L_parenright" = {
 "@MMK_R_slash" = -40;
@@ -100725,6 +100744,21 @@ Icaron = {
 };
 Ibreve = {
 "@MMK_R_parenright" = 30;
+};
+ecircumflexacute = {
+"@MMK_R_parenright" = 40;
+};
+ecircumflexhookabove = {
+"@MMK_R_parenright" = 50;
+};
+ocircumflexacute = {
+"@MMK_R_parenright" = 20;
+};
+ocircumflexhookabove = {
+"@MMK_R_parenright" = 10;
+};
+tdieresis = {
+"@MMK_R_parenright" = 10;
 };
 };
 };
