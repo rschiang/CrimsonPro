@@ -1,7 +1,7 @@
 {
 .appVersion = "1169";
 DisplayStrings = (
-"Z/nine.osf D/Placeholder HH/Placeholder HHO/Placeholder O|/Placeholder |\012HHHH/Placeholder/Placeholder/Placeholder HHHH\012OOOO/Placeholder/Placeholder/Placeholder/Placeholder/Placeholder OOOO\012IIIIII/Placeholder/Placeholder/Placeholder/Placeholder IIIIII"
+"ZOT/Placeholder HH/Placeholder HHO/Placeholder O|/Placeholder |\012HHHH/Placeholder/Placeholder/Placeholder HHHH\012OOOO/Placeholder/Placeholder/Placeholder/Placeholder/Placeholder OOOO\012IIIIII/Placeholder/Placeholder/Placeholder/Placeholder IIIIII"
 );
 classes = (
 {
@@ -5122,7 +5122,7 @@ unicode = 0046;
 },
 {
 glyphname = G;
-lastChange = "2018-10-01 08:52:07 +0000";
+lastChange = "2018-10-05 09:01:18 +0000";
 layers = (
 {
 anchors = (
@@ -5476,9 +5476,9 @@ nodes = (
 "461 128 CURVE SMOOTH",
 "461 22 LINE",
 "481 77 LINE",
-"454 61 OFFCURVE",
+"454 59 OFFCURVE",
 "417 52 OFFCURVE",
-"392 52 CURVE SMOOTH",
+"391 52 CURVE SMOOTH",
 "274 52 OFFCURVE",
 "183 146 OFFCURVE",
 "183 308 CURVE SMOOTH",
@@ -7408,7 +7408,7 @@ unicode = 004A;
 },
 {
 glyphname = K;
-lastChange = "2018-10-01 13:50:16 +0000";
+lastChange = "2018-10-05 09:22:12 +0000";
 layers = (
 {
 anchors = (
@@ -7802,10 +7802,10 @@ nodes = (
 "324 358 LINE",
 "324 320 LINE",
 "553 530 LINE",
-"616 540 LINE",
-"613 587 LINE",
-"401 587 LINE",
-"398 542 LINE",
+"615 540 LINE",
+"612 587 LINE",
+"402 587 LINE",
+"399 542 LINE",
 "461 530 LINE",
 "255 318 LINE",
 "208 307 LINE",
@@ -8529,7 +8529,7 @@ unicode = 0141;
 },
 {
 glyphname = M;
-lastChange = "2018-10-01 13:55:47 +0000";
+lastChange = "2018-10-05 10:11:51 +0000";
 layers = (
 {
 anchors = (
@@ -8912,10 +8912,10 @@ nodes = (
 "834 45 LINE",
 "772 60 LINE",
 "770 73 OFFCURVE",
-"769 129 OFFCURVE",
-"765 220 CURVE SMOOTH",
+"767 129 OFFCURVE",
+"764 220 CURVE SMOOTH",
 "758 398 LINE SMOOTH",
-"755 471 OFFCURVE",
+"756 471 OFFCURVE",
 "755 516 OFFCURVE",
 "757 528 CURVE",
 "819 542 LINE",
@@ -12382,7 +12382,7 @@ unicode = 0050;
 },
 {
 glyphname = Thorn;
-lastChange = "2018-10-01 15:17:35 +0000";
+lastChange = "2018-10-05 10:18:15 +0000";
 layers = (
 {
 background = {
@@ -12710,8 +12710,8 @@ nodes = (
 "222 505 OFFCURVE",
 "223 520 OFFCURVE",
 "224 527 CURVE",
-"287 542 LINE",
-"284 587 LINE",
+"286 542 LINE",
+"283 587 LINE",
 "42 587 LINE",
 "39 542 LINE",
 "101 527 LINE",
@@ -14788,7 +14788,7 @@ unicode = 018F;
 },
 {
 glyphname = T;
-lastChange = "2018-10-01 08:52:07 +0000";
+lastChange = "2018-10-05 10:27:41 +0000";
 layers = (
 {
 anchors = (
@@ -15187,8 +15187,8 @@ nodes = (
 "236 85 OFFCURVE",
 "235 60 CURVE",
 "149 47 LINE",
-"151 0 LINE",
-"440 0 LINE",
+"152 0 LINE",
+"439 0 LINE",
 "442 47 LINE",
 "356 60 LINE",
 "355 85 OFFCURVE",
