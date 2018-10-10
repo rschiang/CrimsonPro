@@ -1,7 +1,7 @@
 {
 .appVersion = "1171";
 DisplayStrings = (
-"ZOOa/Placeholder IH/Placeholder HHO/Placeholder O|/Placeholder |\012HHHH/Placeholder/Placeholder/Placeholder HHHH\012OOOO/Placeholder/Placeholder/Placeholder/Placeholder/Placeholder OOOO\012IIIIII/Placeholder/Placeholder/Placeholder/Placeholder IIIIII"
+"ZOOf/Placeholder IH/Placeholder HHO/Placeholder O|/Placeholder |\012HHHH/Placeholder/Placeholder/Placeholder HHHH\012OOOO/Placeholder/Placeholder/Placeholder/Placeholder/Placeholder OOOO\012IIIIII/Placeholder/Placeholder/Placeholder/Placeholder IIIIII"
 );
 classes = (
 {
@@ -21789,7 +21789,7 @@ unicode = 00F0;
 },
 {
 glyphname = e;
-lastChange = "2018-10-01 08:52:07 +0000";
+lastChange = "2018-10-10 08:51:14 +0000";
 layers = (
 {
 anchors = (
@@ -21999,8 +21999,8 @@ nodes = (
 "333 298 CURVE SMOOTH",
 "333 255 LINE",
 "352 286 LINE",
-"191 286 LINE",
-"191 229 LINE",
+"181 286 LINE",
+"181 229 LINE",
 "471 229 LINE",
 "471 257 LINE SMOOTH",
 "471 374 OFFCURVE",
@@ -22138,7 +22138,7 @@ unicode = 0065;
 },
 {
 glyphname = eogonek;
-lastChange = "2018-10-01 08:52:07 +0000";
+lastChange = "2018-10-10 08:51:30 +0000";
 layers = (
 {
 anchors = (
@@ -22431,8 +22431,8 @@ nodes = (
 "333 298 CURVE SMOOTH",
 "333 255 LINE",
 "352 286 LINE",
-"191 286 LINE",
-"191 229 LINE",
+"181 286 LINE",
+"181 229 LINE",
 "471 229 LINE",
 "471 257 LINE SMOOTH",
 "471 374 OFFCURVE",
