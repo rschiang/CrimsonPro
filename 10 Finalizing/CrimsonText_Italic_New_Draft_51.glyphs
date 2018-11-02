@@ -1,5 +1,5 @@
 {
-.appVersion = "1172";
+.appVersion = "1173";
 classes = (
 {
 automatic = 1;
@@ -11,7 +11,7 @@ copyright = "Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org),\012w
 customParameters = (
 {
 name = note;
-value = "Vert stems HOno\012Hor stems EOno (top)\012\012Space set at 85% of original. ";
+value = "Vert stems HOno\012Hor stems EOno (top)\012\012Space set at 85% of original. \012\012New instance for Extra-Bold: original 842, new 848";
 },
 {
 name = "Disable Subroutines";
@@ -162535,10 +162535,10 @@ name = "Bold Italic";
 weightClass = Bold;
 },
 {
-interpolationWeight = 842;
+interpolationWeight = 848;
 instanceInterpolations = {
-"24976ABE-9171-461B-B338-52EF76BD92C7" = 0.684;
-"925D3525-5003-4FA1-BE98-2BABE6F3DA5C" = 0.316;
+"24976ABE-9171-461B-B338-52EF76BD92C7" = 0.696;
+"925D3525-5003-4FA1-BE98-2BABE6F3DA5C" = 0.304;
 };
 isItalic = 1;
 linkStyle = "Extra-Bold";
