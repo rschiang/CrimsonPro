@@ -1,9 +1,9 @@
 {
 .appVersion = "1176";
 DisplayStrings = (
-"nnngon/Placeholder no/Placeholder oI/Placeholder I\012nnnn/Placeholder/Placeholder/Placeholder/Placeholder nnnn\012oooo/Placeholder/Placeholder/Placeholder/Placeholder oooo\012llllll/Placeholder/Placeholder/Placeholder/Placeholder llllll",
-"llllllk/Placeholder llllll\012nnntxunnn\012oooc/Placeholder ooo",
-"Z/Placeholder llllll\012Zznnn\012Z/Placeholder ooo"
+"nnnan/Placeholder no/Placeholder oI/Placeholder I\012nnnn/Placeholder/Placeholder/Placeholder/Placeholder nnnn\012oooo/Placeholder/Placeholder/Placeholder/Placeholder oooo\012llllll/Placeholder/Placeholder/Placeholder/Placeholder llllll",
+"llllllr/Placeholder llllll\012nnnrgnnn\012ooor/Placeholder ooo",
+"J/Placeholder llllll\012/Ohorn blnnn\012J/Placeholder ooo"
 );
 classes = (
 {
@@ -17725,7 +17725,7 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2018-11-13 14:37:25 +0000";
+lastChange = "2018-11-14 15:55:32 +0000";
 layers = (
 {
 anchors = (
@@ -23829,7 +23829,7 @@ unicode = 0138;
 },
 {
 glyphname = l;
-lastChange = "2018-11-13 23:36:48 +0000";
+lastChange = "2018-11-14 15:50:04 +0000";
 layers = (
 {
 anchors = (
@@ -155197,21 +155197,33 @@ Ohorn = {
 "@MMK_R_parenright" = 20;
 "@MMK_R_question" = 30;
 "@MMK_R_tm" = 36;
+"@MMK_R_l" = 10;
+"@MMK_R_b" = 20;
 };
 Ohornacute = {
 "@MMK_R_question" = 21;
+"@MMK_R_l" = 10;
+"@MMK_R_b" = 20;
 };
 Ohorndotbelow = {
 "@MMK_R_question" = 21;
+"@MMK_R_l" = 10;
+"@MMK_R_b" = 20;
 };
 Ohorngrave = {
 "@MMK_R_question" = 21;
+"@MMK_R_l" = 10;
+"@MMK_R_b" = 20;
 };
 Ohornhookabove = {
 "@MMK_R_question" = 21;
+"@MMK_R_l" = 10;
+"@MMK_R_b" = 20;
 };
 Ohorntilde = {
 "@MMK_R_question" = 21;
+"@MMK_R_l" = 10;
+"@MMK_R_b" = 20;
 };
 Q = {
 "@MMK_R_J" = 152;
@@ -158799,21 +158811,33 @@ Ohorn = {
 "@MMK_R_parenright" = 20;
 "@MMK_R_question" = 30;
 "@MMK_R_tm" = 46;
+"@MMK_R_l" = 20;
+"@MMK_R_b" = 30;
 };
 Ohornacute = {
 "@MMK_R_question" = 41;
+"@MMK_R_l" = 20;
+"@MMK_R_b" = 30;
 };
 Ohorndotbelow = {
 "@MMK_R_question" = 41;
+"@MMK_R_l" = 20;
+"@MMK_R_b" = 30;
 };
 Ohorngrave = {
 "@MMK_R_question" = 41;
+"@MMK_R_l" = 20;
+"@MMK_R_b" = 30;
 };
 Ohornhookabove = {
 "@MMK_R_question" = 41;
+"@MMK_R_l" = 20;
+"@MMK_R_b" = 30;
 };
 Ohorntilde = {
 "@MMK_R_question" = 41;
+"@MMK_R_l" = 20;
+"@MMK_R_b" = 30;
 };
 Q = {
 "@MMK_R_J" = 173;
