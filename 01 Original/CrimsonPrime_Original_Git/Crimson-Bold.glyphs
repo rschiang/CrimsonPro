@@ -1,5 +1,5 @@
 {
-.appVersion = "1038";
+.appVersion = "1176";
 copyright = "Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org),\012with Reserved Font Name \"Crimson\".\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is available with a FAQ at: http://scripts.sil.org/OFL";
 customParameters = (
 {
@@ -104,7 +104,7 @@ value = 1;
 );
 date = "2010-05-15 00:52:27 +0000";
 disablesNiceNames = 1;
-familyName = Crimson;
+familyName = CrimsonP;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012";
@@ -21492,19 +21492,20 @@ width = 130;
 },
 {
 glyphname = ij;
+lastChange = "2018-11-16 12:45:39 +0000";
 layers = (
 {
 components = (
 {
 name = j;
-transform = "{1, 0, 0, 1, 264, 0}";
 },
 {
 name = i;
+transform = "{1, 0, 0, 1, 286, 0}";
 }
 );
 layerId = "C3DEC2A7-F599-40A3-AE95-7DABCECAEB0F";
-width = 550;
+width = 601;
 }
 );
 unicode = 0133;
@@ -36926,20 +36927,20 @@ width = 309;
 },
 {
 glyphname = ae.sc;
+lastChange = "2018-11-16 12:45:39 +0000";
 layers = (
 {
 components = (
 {
 name = e.sc;
-transform = "{1, 0, 0, 1, 495, 0}";
 },
 {
 name = a.sc;
-transform = "{1, 0, 0, 1, 1, 0}";
+transform = "{1, 0, 0, 1, 476, 0}";
 }
 );
 layerId = "C3DEC2A7-F599-40A3-AE95-7DABCECAEB0F";
-width = 971;
+width = 976;
 }
 );
 userData = {
@@ -39626,19 +39627,20 @@ width = 130;
 },
 {
 glyphname = ij.sc;
+lastChange = "2018-11-16 12:45:39 +0000";
 layers = (
 {
 components = (
 {
 name = j.sc;
-transform = "{1, 0, 0, 1, 299, 0}";
 },
 {
 name = i.sc;
+transform = "{1, 0, 0, 1, 318, 0}";
 }
 );
 layerId = "C3DEC2A7-F599-40A3-AE95-7DABCECAEB0F";
-width = 617;
+width = 644;
 }
 );
 userData = {
@@ -41785,19 +41787,20 @@ width = 149;
 },
 {
 glyphname = oe.sc;
+lastChange = "2018-11-16 12:45:39 +0000";
 layers = (
 {
 components = (
 {
 name = e.sc;
-transform = "{1, 0, 0, 1, 521, 0}";
 },
 {
 name = o.sc;
+transform = "{1, 0, 0, 1, 476, 0}";
 }
 );
 layerId = "C3DEC2A7-F599-40A3-AE95-7DABCECAEB0F";
-width = 997;
+width = 1085;
 }
 );
 userData = {
@@ -42798,19 +42801,20 @@ width = 122;
 },
 {
 glyphname = germandbls.sc;
+lastChange = "2018-11-16 12:45:39 +0000";
 layers = (
 {
 components = (
 {
 name = s.sc;
-transform = "{1, 0, 0, 1, 378, 0}";
 },
 {
 name = s.sc;
+transform = "{1, 0, 0, 1, 427, 0}";
 }
 );
 layerId = "C3DEC2A7-F599-40A3-AE95-7DABCECAEB0F";
-width = 805;
+width = 854;
 }
 );
 userData = {
@@ -58897,16 +58901,17 @@ width = 72;
 },
 {
 glyphname = universal;
+lastChange = "2018-11-16 12:45:39 +0000";
 layers = (
 {
 components = (
 {
 name = A;
-transform = "{-1, 0, 0, -1, 707, 658}";
+transform = "{-1, 0, 0, -1, 675, 658}";
 }
 );
 layerId = "C3DEC2A7-F599-40A3-AE95-7DABCECAEB0F";
-width = 743;
+width = 675;
 }
 );
 unicode = 2200;
@@ -63834,20 +63839,6 @@ width = 260;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Crimson-Bold";
-},
-{
-name = postscriptFullName;
-value = "Crimson Bold";
-},
-{
-name = styleMapFamilyName;
-value = "Crimson Bold";
-}
-);
 instanceInterpolations = {
 "C3DEC2A7-F599-40A3-AE95-7DABCECAEB0F" = 1;
 };

@@ -1,5 +1,5 @@
 {
-.appVersion = "1038";
+.appVersion = "1176";
 copyright = "Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org),\012with Reserved Font Name \"Crimson\".\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is available with a FAQ at: http://scripts.sil.org/OFL";
 customParameters = (
 {
@@ -89,7 +89,7 @@ value = 1;
 );
 date = "2017-03-19 00:29:25 +0000";
 disablesNiceNames = 1;
-familyName = Crimson;
+familyName = CrimsonP;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012languagesystem latn TRK ;\012";
@@ -25050,16 +25050,16 @@ unicode = 221A;
 },
 {
 glyphname = mu;
+lastChange = "2018-11-16 12:46:20 +0000";
 layers = (
 {
 components = (
 {
 name = uni03BC;
-transform = "{1, 0, 0, 1, -7, 0}";
 }
 );
 layerId = "AF37C979-5169-4EE5-B183-132B179D5F1C";
-width = 490;
+width = 488;
 }
 );
 unicode = 00B5;
@@ -29613,16 +29613,6 @@ width = 236;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Crimson-SemiboldItalic";
-},
-{
-name = postscriptFullName;
-value = "Crimson Semibold Italic";
-}
-);
 instanceInterpolations = {
 "AF37C979-5169-4EE5-B183-132B179D5F1C" = 1;
 };

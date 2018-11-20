@@ -1,5 +1,5 @@
 {
-.appVersion = "1038";
+.appVersion = "1176";
 copyright = "Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org),\012with Reserved Font Name \"Crimson\".\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is available with a FAQ at: http://scripts.sil.org/OFL";
 customParameters = (
 {
@@ -104,7 +104,7 @@ value = 1;
 );
 date = "2017-03-19 00:38:01 +0000";
 disablesNiceNames = 1;
-familyName = Crimson;
+familyName = CrimsonP;
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012languagesystem cyrl dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012languagesystem latn TRK ;\012";
@@ -18840,19 +18840,20 @@ width = 122;
 },
 {
 glyphname = ij;
+lastChange = "2018-11-16 12:46:21 +0000";
 layers = (
 {
 components = (
 {
 name = j;
-transform = "{1, 0, 0, 1, 236, 0}";
 },
 {
 name = i;
+transform = "{1, 0, 0, 1, 286, 0}";
 }
 );
 layerId = "DEDDD934-E4FE-4A27-B966-8C21F8A9BC34";
-width = 522;
+width = 596;
 }
 );
 unicode = 0133;
@@ -20370,12 +20371,12 @@ width = 122;
 },
 {
 glyphname = napostrophe;
+lastChange = "2018-11-16 12:46:21 +0000";
 layers = (
 {
 components = (
 {
 name = n;
-transform = "{1, 0, 0, 1, 2, 0}";
 },
 {
 name = uni0315;
@@ -20383,7 +20384,7 @@ transform = "{1, 0, 0, 1, -118, 0}";
 }
 );
 layerId = "DEDDD934-E4FE-4A27-B966-8C21F8A9BC34";
-width = 499;
+width = 536;
 }
 );
 unicode = 0149;
@@ -25036,12 +25037,12 @@ width = 136;
 },
 {
 glyphname = uni1E2F;
+lastChange = "2018-11-16 12:46:21 +0000";
 layers = (
 {
 components = (
 {
 name = idieresis;
-transform = "{1, 0, 0, 1, -3, 0}";
 },
 {
 name = acutecomb;
@@ -48251,16 +48252,6 @@ width = 301;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFontName;
-value = "Crimson-BoldItalic";
-},
-{
-name = postscriptFullName;
-value = "Crimson Bold Italic";
-}
-);
 instanceInterpolations = {
 "DEDDD934-E4FE-4A27-B966-8C21F8A9BC34" = 1;
 };
