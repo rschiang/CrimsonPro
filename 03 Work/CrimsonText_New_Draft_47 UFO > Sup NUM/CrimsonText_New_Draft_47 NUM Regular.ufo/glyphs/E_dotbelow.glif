@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Edotbelow" format="1">
-  <advance width="400"/>
-  <outline>
-    <component base="dotbelowcomb.case" xOffset="-9.160"/>
-    <component base="E"/>
-  </outline>
-</glyph>

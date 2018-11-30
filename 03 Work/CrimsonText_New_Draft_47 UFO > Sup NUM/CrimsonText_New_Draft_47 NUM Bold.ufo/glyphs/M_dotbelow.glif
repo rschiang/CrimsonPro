@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Mdotbelow" format="1">
-  <advance width="641"/>
-  <outline>
-    <component base="dotbelowcomb.case" xOffset="82.156"/>
-    <component base="M"/>
-  </outline>
-</glyph>

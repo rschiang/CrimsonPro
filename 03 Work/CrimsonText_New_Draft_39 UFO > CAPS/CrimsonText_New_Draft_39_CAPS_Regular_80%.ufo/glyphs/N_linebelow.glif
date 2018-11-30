@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Nlinebelow" format="1">
-  <advance width="592"/>
-  <outline>
-    <component base="macronbelowcomb.case" xOffset="56.096"/>
-    <component base="N"/>
-  </outline>
-</glyph>

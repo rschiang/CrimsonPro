@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ohorndotbelow" format="1">
-  <advance width="646"/>
-  <outline>
-    <component base="dotbelowcomb.case" xOffset="83.456"/>
-    <component base="Ohorn"/>
-  </outline>
-</glyph>

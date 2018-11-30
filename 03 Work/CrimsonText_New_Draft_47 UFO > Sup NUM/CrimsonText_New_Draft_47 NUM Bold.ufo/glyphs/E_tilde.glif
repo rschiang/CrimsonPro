@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Etilde" format="1">
-  <advance width="421"/>
-  <outline>
-    <component base="tildecomb.case" xOffset="-0.705" yOffset="-48.253"/>
-    <component base="E"/>
-  </outline>
-</glyph>

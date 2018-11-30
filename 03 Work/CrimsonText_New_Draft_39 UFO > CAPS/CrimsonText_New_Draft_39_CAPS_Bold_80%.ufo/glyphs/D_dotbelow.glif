@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ddotbelow" format="1">
-  <advance width="628"/>
-  <outline>
-    <component base="dotbelowcomb.case" xOffset="74.432"/>
-    <component base="D"/>
-  </outline>
-</glyph>
