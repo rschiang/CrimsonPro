@@ -3,7 +3,49 @@
 Fontbakery version: 0.6.4
 
 <details>
-<summary><b>[5] CrimsonPro-Italic-VF.ttf</b></summary>
+<summary><b>[12] CrimsonPro-Italic-VF.ttf</b></summary>
+<details>
+<summary>:fire: <b>FAIL:</b> Checking OS/2 usWeightClass.</summary>
+
+* [com.google.fonts/check/020](https://github.com/googlefonts/fontbakery/search?q={checkid})
+* :fire: **FAIL** OS/2 usWeightClass expected value for 'Regular' is 400 but this font has 275.
+
+</details>
+<details>
+<summary>:fire: <b>FAIL:</b> Check name table: FONT_FAMILY_NAME entries. </summary>
+
+* [com.google.fonts/check/157](https://github.com/googlefonts/fontbakery/search?q={checkid})
+* :fire: **FAIL** Entry [FONT_FAMILY_NAME(1):WINDOWS(3)] on the 'name' table: Expected 'Crimson Pro' but got 'Crimson Pro ExtraLight'.
+
+</details>
+<details>
+<summary>:fire: <b>FAIL:</b> Check name table: FULL_FONT_NAME entries. </summary>
+
+* [com.google.fonts/check/159](https://github.com/googlefonts/fontbakery/search?q={checkid})
+* :fire: **FAIL** Entry [FULL_FONT_NAME(4):WINDOWS(3)] on the 'name' table: Expected 'Crimson Pro Italic' but got 'Crimson Pro ExtraLight Italic'.
+
+</details>
+<details>
+<summary>:fire: <b>FAIL:</b> Check name table: POSTSCRIPT_NAME entries. </summary>
+
+* [com.google.fonts/check/160](https://github.com/googlefonts/fontbakery/search?q={checkid})
+* :fire: **FAIL** Entry [POSTSCRIPT_NAME(6):WINDOWS(3)] on the 'name' table: Expected 'CrimsonPro-Italic' but got 'CrimsonPro-ExtraLightItalic'.
+
+</details>
+<details>
+<summary>:fire: <b>FAIL:</b> Check name table: TYPOGRAPHIC_FAMILY_NAME entries. </summary>
+
+* [com.google.fonts/check/161](https://github.com/googlefonts/fontbakery/search?q={checkid})
+* :fire: **FAIL** Font style is 'Italic' and, for that reason, it is not expected to have a [TYPOGRAPHIC_FAMILY_NAME(16):WINDOWS(3)] entry! [code: ribbi]
+
+</details>
+<details>
+<summary>:fire: <b>FAIL:</b> Check name table: TYPOGRAPHIC_SUBFAMILY_NAME entries. </summary>
+
+* [com.google.fonts/check/162](https://github.com/googlefonts/fontbakery/search?q={checkid})
+* :fire: **FAIL** Font style is 'Italic' and, for that reason, it is not expected to have a [TYPOGRAPHIC_SUBFAMILY_NAME(17):WINDOWS(3)] entry! [code: ribbi]
+
+</details>
 <details>
 <summary>:warning: <b>WARN:</b> Checking OS/2 achVendID.</summary>
 
@@ -192,6 +234,13 @@ Glyph name: uni1EF9	Contours detected: 3	Expected: 2
 
 </details>
 <details>
+<summary>:warning: <b>WARN:</b> Combined length of family and style must not exceed 20 characters.</summary>
+
+* [com.google.fonts/check/163](https://github.com/googlefonts/fontbakery/search?q={checkid})
+* :warning: **WARN** The combined length of family and style exceeds 20 chars in the following 'WINDOWS' entries: FONT_FAMILY_NAME = 'Crimson Pro ExtraLight' / SUBFAMILY_NAME = 'Italic'
+
+</details>
+<details>
 <summary>:warning: <b>WARN:</b> Is there kerning info for non-ligated sequences?</summary>
 
 * [com.google.fonts/check/065](https://github.com/googlefonts/fontbakery/search?q={checkid})
@@ -212,7 +261,7 @@ Glyph name: uni1EF9	Contours detected: 3	Expected: 2
 <br>
 </details>
 <details>
-<summary><b>[5] CrimsonPro-Roman-VF.ttf</b></summary>
+<summary><b>[6] CrimsonPro-Roman-VF.ttf</b></summary>
 <details>
 <summary>:warning: <b>WARN:</b> Checking OS/2 achVendID.</summary>
 
@@ -376,6 +425,13 @@ Glyph name: uni1EF9	Contours detected: 3	Expected: 2
 
 </details>
 <details>
+<summary>:warning: <b>WARN:</b> Combined length of family and style must not exceed 20 characters.</summary>
+
+* [com.google.fonts/check/163](https://github.com/googlefonts/fontbakery/search?q={checkid})
+* :warning: **WARN** The combined length of family and style exceeds 20 chars in the following 'WINDOWS' entries: FONT_FAMILY_NAME = 'Crimson Pro ExtraLight' / SUBFAMILY_NAME = 'Regular'
+
+</details>
+<details>
 <summary>:warning: <b>WARN:</b> Is there kerning info for non-ligated sequences?</summary>
 
 * [com.google.fonts/check/065](https://github.com/googlefonts/fontbakery/search?q={checkid})
@@ -400,8 +456,8 @@ Glyph name: uni1EF9	Contours detected: 3	Expected: 2
 
 | :broken_heart: ERROR | :fire: FAIL | :warning: WARN | :zzz: SKIP | :information_source: INFO | :bread: PASS |
 |:-----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 0 | 10 | 102 | 13 | 127 |
-| 0% | 0% | 4% | 40% | 5% | 50% |
+| 0 | 6 | 12 | 102 | 13 | 119 |
+| 0% | 2% | 5% | 40% | 5% | 47% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
