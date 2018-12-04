@@ -38,7 +38,11 @@ for vf in $vfs
 do
 	mv "$vf.fix" $vf;
 done
- 
+
+python postprocessing.py
+mv ../fonts/variable/CrimsonPro-Italic-VF.ttf.fix ../fonts/variable/CrimsonPro-Italic-VF.ttf
+mv ../fonts/variable/CrimsonPro-Roman-VF.ttf.fix ../fonts/variable/CrimsonPro-Roman-VF.ttf
+
 echo "QAing"
 gftools qa ../fonts/variable/*.ttf -o ../qa --fontbakery --plot-glyphs
 
