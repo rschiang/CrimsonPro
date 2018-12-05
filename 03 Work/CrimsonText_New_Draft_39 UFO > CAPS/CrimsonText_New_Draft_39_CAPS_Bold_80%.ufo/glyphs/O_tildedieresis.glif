@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Otildedieresis" format="1">
-  <advance width="646"/>
-  <outline>
-    <component base="tildecomb_dieresiscomb.case" xOffset="82.432"/>
-    <component base="O"/>
-  </outline>
-</glyph>

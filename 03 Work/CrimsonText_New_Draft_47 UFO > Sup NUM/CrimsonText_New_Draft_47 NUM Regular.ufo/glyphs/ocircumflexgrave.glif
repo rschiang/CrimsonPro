@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ocircumflexgrave" format="1">
-  <advance width="371"/>
-  <outline>
-    <component base="circumflexcomb_gravecomb" xOffset="-24.568"/>
-    <component base="o"/>
-  </outline>
-</glyph>

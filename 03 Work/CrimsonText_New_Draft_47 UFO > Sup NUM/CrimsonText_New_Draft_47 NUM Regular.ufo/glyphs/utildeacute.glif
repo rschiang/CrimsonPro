@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="utildeacute" format="1">
-  <advance width="401"/>
-  <outline>
-    <component base="tildecomb_acutecomb" xOffset="-8.485"/>
-    <component base="u"/>
-  </outline>
-</glyph>
