@@ -162066,7 +162066,7 @@ instances = (
 customParameters = (
 {
 name = weightClass;
-value = 275;
+value = 200;
 }
 );
 interpolationWeight = 0;
@@ -173675,5 +173675,5 @@ manufacturer = "Baron von Fonthausen";
 manufacturerURL = "http://www.baronvonfonthausen.com/";
 unitsPerEm = 1024;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
