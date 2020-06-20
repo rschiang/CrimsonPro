@@ -147265,7 +147265,7 @@ instances = (
 customParameters = (
 {
 name = weightClass;
-value = 229;
+value = 200;
 }
 );
 interpolationWeight = 0;
@@ -147342,7 +147342,7 @@ exports = 0;
 customParameters = (
 {
 name = weightClass;
-value = 314;
+value = 275;
 }
 );
 interpolationWeight = 0;

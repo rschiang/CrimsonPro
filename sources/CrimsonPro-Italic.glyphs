@@ -162071,7 +162071,7 @@ instances = (
 customParameters = (
 {
 name = weightClass;
-value = 229;
+value = 200;
 }
 );
 interpolationWeight = 0;
